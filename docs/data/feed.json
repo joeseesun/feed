@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1980240460334747907",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@damien_r_h @WisprFlow @FactoryAI 🧠",
+    "url": "https://x.com/bentossell/status/1980240460334747907",
+    "timestamp": "2025-10-20T11:51:31.000Z",
+    "metadata": {
+      "conversation_id": "1980240460334747907",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980240437643272475",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@5aikat @FactoryAI @EnoReyes i do both :)",
+    "url": "https://x.com/bentossell/status/1980240437643272475",
+    "timestamp": "2025-10-20T11:51:26.000Z",
+    "metadata": {
+      "conversation_id": "1980240437643272475",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980239921672515993",
+    "source": "twitter",
+    "author": "constantin_e21",
+    "content": "@mattpocockuk @FactoryAI Can we get this in DROID CLI please?",
+    "url": "https://x.com/constantin_e21/status/1980239921672515993",
+    "timestamp": "2025-10-20T11:49:23.000Z",
+    "metadata": {
+      "conversation_id": "1980239921672515993",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980239534483726507",
     "source": "twitter",
     "author": "5aikat",
@@ -8,9 +53,9 @@
     "timestamp": "2025-10-20T11:47:50.000Z",
     "metadata": {
       "conversation_id": "1980239534483726507",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -203,7 +248,7 @@
       "conversation_id": "1980215953838490103",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1980203958112334082",
-    "source": "twitter",
-    "author": "avaausmamdani",
-    "content": "@grok @aeitroc @AnthropicAI @FactoryAI Yes it's a bug not a config issue from my side, go through factory ai subreddit to find about the referral nuke shady stuff, look: https://t.co/Wgcd7pELKH",
-    "url": "https://x.com/avaausmamdani/status/1980203958112334082",
-    "timestamp": "2025-10-20T09:26:28.000Z",
-    "metadata": {
-      "conversation_id": "1980203958112334082",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980203201275347427",
-    "source": "twitter",
-    "author": "grok",
-    "content": "Thanks for the clarification—got it, Droid CLI from Factory AI. I searched but couldn't find confirmed reports of referral nuking or the up arrow taking you to previous prompts instead of the line above. It might be a bug or config issue. Check Factory's docs or support for troubleshooting? If you have more details, I can dig deeper.",
-    "url": "https://x.com/grok/status/1980203201275347427",
-    "timestamp": "2025-10-20T09:23:28.000Z",
-    "metadata": {
-      "conversation_id": "1980203201275347427",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980203049626079398",
-    "source": "twitter",
-    "author": "avaausmamdani",
-    "content": "@grok @aeitroc @AnthropicAI @FactoryAI @grok the issues i have conveyed are about droid CLI not Claude code",
-    "url": "https://x.com/avaausmamdani/status/1980203049626079398",
-    "timestamp": "2025-10-20T09:22:52.000Z",
-    "metadata": {
-      "conversation_id": "1980203049626079398",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1obd1tm",
     "source": "reddit",
     "author": "HanSkin-reynard",
@@ -360,7 +360,7 @@
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
       "score": 5,
-      "num_comments": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -373,7 +373,7 @@
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
       "score": 3,
-      "num_comments": 3,
+      "num_comments": 4,
       "subreddit": "FactoryAi"
     }
   },
@@ -547,19 +547,6 @@
     }
   },
   {
-    "id": "reddit_1o89mzk",
-    "source": "reddit",
-    "author": "x86rip",
-    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
-    "timestamp": "2025-10-16T15:43:59.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_201",
     "source": "github",
     "author": "jakob1379",
@@ -570,19 +557,6 @@
       "type": "issue",
       "labels": [],
       "number": 201
-    }
-  },
-  {
-    "id": "reddit_1o86tci",
-    "source": "reddit",
-    "author": "mr_dudo",
-    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
-    "timestamp": "2025-10-16T13:55:41.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -674,6 +648,32 @@
       "type": "issue",
       "labels": [],
       "number": 191
+    }
+  },
+  {
+    "id": "reddit_1o6tivb",
+    "source": "reddit",
+    "author": "stevilg",
+    "content": "byok / custom_models\n\nIs Bring your own keys / custom\\_models working for anybody? I've tried a few combinations and no luck; droid never shows it on the list. Below is in my projects directory e.g. /project/.factory/config.json and I can confirm POST to [http://localhost:8317/v1/chat/completions](http://localhost:8317/v1/chat/completions) does work and so does GET to [http://localhost:8317/v1/models](http://localhost:8317/v1/models)\n\n    {\n      \"custom_models\": [\n        {\n          \"model_display_name\": \"qwen3-cod",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6tivb/byok_custom_models/",
+    "timestamp": "2025-10-14T22:13:49.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o6jgc5",
+    "source": "reddit",
+    "author": "Kindly_District",
+    "content": "attach a image to the droid cli?\n\nIs there a way to attach a design image to the droid cli?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6jgc5/attach_a_image_to_the_droid_cli/",
+    "timestamp": "2025-10-14T15:58:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
