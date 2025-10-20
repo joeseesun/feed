@@ -1,5 +1,305 @@
 [
   {
+    "id": "twitter_1980372536694321325",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "Thanks for the cool @FactoryAI schwag @bentossell! #DroidMode https://t.co/cATDpdvU4h",
+    "url": "https://x.com/JoelDeTeves/status/1980372536694321325",
+    "timestamp": "2025-10-20T20:36:20.000Z",
+    "metadata": {
+      "conversation_id": "1980372536694321325",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980372061794283922",
+    "source": "twitter",
+    "author": "ingoa_dev",
+    "content": "@singular_prism @kcosr @FactoryAI Thanks, made me consider.\n\nHow much gpt5 do I get for the $20 plan - just like API would cost? There is no gpt5-high, correct?\n\nIt reads just like that stpd Cursor plan :)",
+    "url": "https://x.com/ingoa_dev/status/1980372061794283922",
+    "timestamp": "2025-10-20T20:34:27.000Z",
+    "metadata": {
+      "conversation_id": "1980372061794283922",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980364935386525897",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@theharshjadhav @FactoryAI Hey, could you DM me your email and I'll take a look?",
+    "url": "https://x.com/alvinsng/status/1980364935386525897",
+    "timestamp": "2025-10-20T20:06:08.000Z",
+    "metadata": {
+      "conversation_id": "1980364935386525897",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980363405728051515",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@SadeqSardari @bitdoze @FactoryAI @astrodotbuild oh no - dm your email and i'll look into it for you!",
+    "url": "https://x.com/bentossell/status/1980363405728051515",
+    "timestamp": "2025-10-20T20:00:03.000Z",
+    "metadata": {
+      "conversation_id": "1980363405728051515",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980358748435783753",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@nateliason @every @AnthropicAI @danshipper @kieranklaassen @FactoryAI yep, I'm a big factory fan. We've got a vibecheck of droid coming out soon",
+    "url": "https://x.com/DannyAziz97/status/1980358748435783753",
+    "timestamp": "2025-10-20T19:41:33.000Z",
+    "metadata": {
+      "conversation_id": "1980358748435783753",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980354838065213863",
+    "source": "twitter",
+    "author": "0xAgentKitchen",
+    "content": "Cool kids are moving from Claude Code and Codex to Droid (from @FactoryAI)? \n\nOr it's just the flavour of the month and they'll go back to Claude Code / Codex?",
+    "url": "https://x.com/0xAgentKitchen/status/1980354838065213863",
+    "timestamp": "2025-10-20T19:26:01.000Z",
+    "metadata": {
+      "conversation_id": "1980354838065213863",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980347509110370352",
+    "source": "twitter",
+    "author": "bitdoze",
+    "content": "@jeff_behnke_ @FactoryAI @astrodotbuild View transitions are not useless, but it depends who you ask.",
+    "url": "https://x.com/bitdoze/status/1980347509110370352",
+    "timestamp": "2025-10-20T18:56:53.000Z",
+    "metadata": {
+      "conversation_id": "1980347509110370352",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980346727875117207",
+    "source": "twitter",
+    "author": "bernaferrari",
+    "content": "@SadeqSardari @bitdoze @FactoryAI @astrodotbuild If Droid is full of bugs, I don't know what you are going to use, it is one of the best ones by far. I subscribe to Codex and something as basic as /compact doesn't work anymore (auto-compact then, never worked). If you don't want the $520 feel free to send to me. I'll be happy.",
+    "url": "https://x.com/bernaferrari/status/1980346727875117207",
+    "timestamp": "2025-10-20T18:53:47.000Z",
+    "metadata": {
+      "conversation_id": "1980346727875117207",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980346353281823102",
+    "source": "twitter",
+    "author": "jeff_behnke_",
+    "content": "@bitdoze @FactoryAI @astrodotbuild And I am over here writing rules to stop LLMs from adding useless animations and transitions for no reason",
+    "url": "https://x.com/jeff_behnke_/status/1980346353281823102",
+    "timestamp": "2025-10-20T18:52:18.000Z",
+    "metadata": {
+      "conversation_id": "1980346353281823102",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980345975651828115",
+    "source": "twitter",
+    "author": "theharshjadhav",
+    "content": "@FactoryAI is going insane\n\nI had $240 worth of credits and I can no longer see them and now even tho I'm trying to add a paid plain $20 pm , it shows i'm on the pro plan and then few mins later it shows I'm on the free plan again",
+    "url": "https://x.com/theharshjadhav/status/1980345975651828115",
+    "timestamp": "2025-10-20T18:50:48.000Z",
+    "metadata": {
+      "conversation_id": "1980345975651828115",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980345819837694348",
+    "source": "twitter",
+    "author": "mariusheier",
+    "content": "@kcosr @FactoryAI Looks awesome! Great work. Best I've seen so far",
+    "url": "https://x.com/mariusheier/status/1980345819837694348",
+    "timestamp": "2025-10-20T18:50:11.000Z",
+    "metadata": {
+      "conversation_id": "1980345819837694348",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980345566015205816",
+    "source": "twitter",
+    "author": "dwcrg",
+    "content": "Someone tell him know about @FactoryAI 👀",
+    "url": "https://x.com/dwcrg/status/1980345566015205816",
+    "timestamp": "2025-10-20T18:49:10.000Z",
+    "metadata": {
+      "conversation_id": "1980345566015205816",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980345513422778717",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@mariusheier @FactoryAI It is something I developed for myself but have recently started working towards a public release. Please see my pinned post and highlights.",
+    "url": "https://x.com/kcosr/status/1980345513422778717",
+    "timestamp": "2025-10-20T18:48:58.000Z",
+    "metadata": {
+      "conversation_id": "1980345513422778717",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980341828961673623",
+    "source": "twitter",
+    "author": "nateliason",
+    "content": "@every @AnthropicAI @danshipper @DannyAziz97 @kieranklaassen Best solution I’ve found is @FactoryAI",
+    "url": "https://x.com/nateliason/status/1980341828961673623",
+    "timestamp": "2025-10-20T18:34:19.000Z",
+    "metadata": {
+      "conversation_id": "1980341828961673623",
+      "likes": 7,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980340325022650489",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "andrej obviously never used @FactoryAI",
+    "url": "https://x.com/nest_elf/status/1980340325022650489",
+    "timestamp": "2025-10-20T18:28:21.000Z",
+    "metadata": {
+      "conversation_id": "1980340325022650489",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980338269511643328",
+    "source": "twitter",
+    "author": "mariusheier",
+    "content": "@kcosr @FactoryAI What is this sourcery? Termstation?",
+    "url": "https://x.com/mariusheier/status/1980338269511643328",
+    "timestamp": "2025-10-20T18:20:11.000Z",
+    "metadata": {
+      "conversation_id": "1980338269511643328",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980338122518151608",
+    "source": "twitter",
+    "author": "singular_prism",
+    "content": "@ingoa_dev @kcosr @FactoryAI it’s really good, token efficient and less prompting also great UX",
+    "url": "https://x.com/singular_prism/status/1980338122518151608",
+    "timestamp": "2025-10-20T18:19:35.000Z",
+    "metadata": {
+      "conversation_id": "1980338122518151608",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980335636046573892",
+    "source": "twitter",
+    "author": "jnyryl",
+    "content": "Vercel @vercel_support @vercel_status @vercel @rauchg \n\nDid someone vibecode too hard at vercel?\n\nMy deployment failed and thought it was my vibecoded slop, but @FactoryAI made me a perfect pr, happy to see it’s a server issue.\n\nPlease fix 😭",
+    "url": "https://x.com/jnyryl/status/1980335636046573892",
+    "timestamp": "2025-10-20T18:09:43.000Z",
+    "metadata": {
+      "conversation_id": "1980335636046573892",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980334746308878408",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@adEvvn @FactoryAI yes. im showing why i only use droid for prod code",
+    "url": "https://x.com/nest_elf/status/1980334746308878408",
+    "timestamp": "2025-10-20T18:06:11.000Z",
+    "metadata": {
+      "conversation_id": "1980334746308878408",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980334463629553886",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@sreenivasan_ac @FactoryAI i wanted it to push then check if the gh actions build worked",
+    "url": "https://x.com/nest_elf/status/1980334463629553886",
+    "timestamp": "2025-10-20T18:05:03.000Z",
+    "metadata": {
+      "conversation_id": "1980334463629553886",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
