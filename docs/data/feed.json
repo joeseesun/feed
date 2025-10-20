@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1980267594570408023",
+    "source": "twitter",
+    "author": "CodeWithOllie",
+    "content": "@nicolasembleton @hqmank @FactoryAI Can you share explain why is this a great combo?\n\nI am looking for cheaper alternatives to help me do software development.",
+    "url": "https://x.com/CodeWithOllie/status/1980267594570408023",
+    "timestamp": "2025-10-20T13:39:20.000Z",
+    "metadata": {
+      "conversation_id": "1980267594570408023",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980267305075380478",
+    "source": "twitter",
+    "author": "TCGsealed",
+    "content": "@aeitroc @AnthropicAI @FactoryAI paid shill",
+    "url": "https://x.com/TCGsealed/status/1980267305075380478",
+    "timestamp": "2025-10-20T13:38:11.000Z",
+    "metadata": {
+      "conversation_id": "1980267305075380478",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980267270963147226",
+    "source": "twitter",
+    "author": "TCGsealed",
+    "content": "@lllIIIIlIlIaa @aeitroc @AnthropicAI @FactoryAI completely",
+    "url": "https://x.com/TCGsealed/status/1980267270963147226",
+    "timestamp": "2025-10-20T13:38:03.000Z",
+    "metadata": {
+      "conversation_id": "1980267270963147226",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980266864514068810",
+    "source": "twitter",
+    "author": "xor0110",
+    "content": "@FactoryAI where can i get the referral url?",
+    "url": "https://x.com/xor0110/status/1980266864514068810",
+    "timestamp": "2025-10-20T13:36:26.000Z",
+    "metadata": {
+      "conversation_id": "1980266864514068810",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980263383158173890",
     "source": "twitter",
     "author": "anthonyronning_",
@@ -236,66 +296,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980237784733618279",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@ingoa_dev @kcosr @FactoryAI nope. we only paid for one thread a month ago and ray did some livestreams. nothing else is paid.",
-    "url": "https://x.com/bentossell/status/1980237784733618279",
-    "timestamp": "2025-10-20T11:40:53.000Z",
-    "metadata": {
-      "conversation_id": "1980237784733618279",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980237615384457532",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@5aikat @FactoryAI @EnoReyes yeh unfortunately - happened to me too. back up now",
-    "url": "https://x.com/bentossell/status/1980237615384457532",
-    "timestamp": "2025-10-20T11:40:13.000Z",
-    "metadata": {
-      "conversation_id": "1980237615384457532",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980237536716095679",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@avaausmamdani @aeitroc @AnthropicAI @FactoryAI @grok removed temporarily as we dealt with bad actors. \n\nup arrow in multi-line text just hasn't been added. on the list",
-    "url": "https://x.com/bentossell/status/1980237536716095679",
-    "timestamp": "2025-10-20T11:39:54.000Z",
-    "metadata": {
-      "conversation_id": "1980237536716095679",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980237248126967817",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@dalu_hey @FactoryAI you can just pay the on-demand pricing and stop at 50? :)",
-    "url": "https://x.com/bentossell/status/1980237248126967817",
-    "timestamp": "2025-10-20T11:38:45.000Z",
-    "metadata": {
-      "conversation_id": "1980237248126967817",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -556,19 +556,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o89mzk",
-    "source": "reddit",
-    "author": "x86rip",
-    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
-    "timestamp": "2025-10-16T15:43:59.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 12,
       "subreddit": "FactoryAi"
     }
   },
