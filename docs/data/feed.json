@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_228",
+    "source": "github",
+    "author": "britannio",
+    "content": "[Issue] Add a reasoning effort to system message in droid exec stream-json mode\n\nHey, I'm adding droid to Vibe Kanban (https://github.com/BloopAI/vibe-kanban/pull/1057) and a minor improvement would be if the resolved reasoning effort were outputted in the system message as is done with the selected model. \nMy understanding is that the valid values to provide to the cli are `none, dynamic, off, low, medium, high`, but presumably some models will ignore it.\n\nThanks.",
+    "url": "https://github.com/Factory-AI/factory/issues/228",
+    "timestamp": "2025-10-21T10:52:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 228
+    }
+  },
+  {
+    "id": "twitter_1980587380227916179",
+    "source": "twitter",
+    "author": "GiusMarci",
+    "content": "@Tgerighty @FactoryAI Legend!! 💯💯💯💯💯",
+    "url": "https://x.com/GiusMarci/status/1980587380227916179",
+    "timestamp": "2025-10-21T10:50:03.000Z",
+    "metadata": {
+      "conversation_id": "1980587380227916179",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_227",
     "source": "github",
     "author": "britannio",
@@ -34,9 +62,9 @@
     "timestamp": "2025-10-21T10:27:52.000Z",
     "metadata": {
       "conversation_id": "1980581798183858634",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -324,21 +352,6 @@
     }
   },
   {
-    "id": "twitter_1980548678558339132",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JoelDeTeves @FactoryAI we’re always working on making things better :)",
-    "url": "https://x.com/bentossell/status/1980548678558339132",
-    "timestamp": "2025-10-21T08:16:16.000Z",
-    "metadata": {
-      "conversation_id": "1980548678558339132",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -557,19 +570,6 @@
       "type": "issue",
       "labels": [],
       "number": 191
-    }
-  },
-  {
-    "id": "github_issue_186",
-    "source": "github",
-    "author": "0zl",
-    "content": "[Issue] Compiled CLI Binary Fails to Run on Older CPUs\n\nThe Droid/Factory CLI compiled binary appears to be built with Bun for Haswell CPU architecture, which lacks support for older CPUs. Running `droid` produces no output and force-closes. Providing a `baseline`[^1] build flavor would resolve this. Maybe.\n\nPotentially related issues: #111, #156, #170, #184.\n\n[^1]: https://bun.com/docs/installation#cpu-requirements-and-baseline-builds",
-    "url": "https://github.com/Factory-AI/factory/issues/186",
-    "timestamp": "2025-10-14T13:50:59Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 186
     }
   },
   {
