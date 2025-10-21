@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1980647947772785081",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@pascallammers_ @FactoryAI If you are using a custom model, will not autocompress and break. Plan will be lost. Built in models works ok.",
+    "url": "https://x.com/aeitroc/status/1980647947772785081",
+    "timestamp": "2025-10-21T14:50:44.000Z",
+    "metadata": {
+      "conversation_id": "1980647947772785081",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980647238843126111",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@immoinulmoin @FactoryAI ty",
+    "url": "https://x.com/bentossell/status/1980647238843126111",
+    "timestamp": "2025-10-21T14:47:55.000Z",
+    "metadata": {
+      "conversation_id": "1980647238843126111",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980647155397476604",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@bentossell @FactoryAI okay mate",
+    "url": "https://x.com/immoinulmoin/status/1980647155397476604",
+    "timestamp": "2025-10-21T14:47:35.000Z",
+    "metadata": {
+      "conversation_id": "1980647155397476604",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980646357821251981",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@Tgerighty @GiusMarci @FactoryAI Or you could go to the source/origin of the workaround... and it's update. https://t.co/vkMHzfORZp",
+    "url": "https://x.com/ben_vargas/status/1980646357821251981",
+    "timestamp": "2025-10-21T14:44:24.000Z",
+    "metadata": {
+      "conversation_id": "1980646357821251981",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980643472765006077",
     "source": "twitter",
     "author": "bentossell",
@@ -23,9 +83,9 @@
     "timestamp": "2025-10-21T14:31:00.000Z",
     "metadata": {
       "conversation_id": "1980642981502939293",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,7 +173,7 @@
     "timestamp": "2025-10-21T14:24:42.000Z",
     "metadata": {
       "conversation_id": "1980641396739699121",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,7 +330,7 @@
       "conversation_id": "1980581798183858634",
       "likes": 3,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -285,7 +345,7 @@
       "conversation_id": "1980581452048920870",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -301,66 +361,6 @@
       "likes": 2,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980580046252437548",
-    "source": "twitter",
-    "author": "uratmangun2",
-    "content": "@rekram11 @josephschmitt dont lose @FactoryAI",
-    "url": "https://x.com/uratmangun2/status/1980580046252437548",
-    "timestamp": "2025-10-21T10:20:55.000Z",
-    "metadata": {
-      "conversation_id": "1980580046252437548",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980579271627403668",
-    "source": "twitter",
-    "author": "JannikJung",
-    "content": "@damien_r_h @WisprFlow @FactoryAI Would love for you to checkout https://t.co/Bw01Xd01qc\n\nBasically the Mac-native, 100% local variant of WhisprFlow!",
-    "url": "https://x.com/JannikJung/status/1980579271627403668",
-    "timestamp": "2025-10-21T10:17:50.000Z",
-    "metadata": {
-      "conversation_id": "1980579271627403668",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980578473371660460",
-    "source": "twitter",
-    "author": "brew_and_ai",
-    "content": "@damien_r_h @WisprFlow @FactoryAI That combo really feels like distributed cognition\nWispr handles context\nFactory AI Droid executes it\nYou’re basically running multi-threaded thought in real life",
-    "url": "https://x.com/brew_and_ai/status/1980578473371660460",
-    "timestamp": "2025-10-21T10:14:40.000Z",
-    "metadata": {
-      "conversation_id": "1980578473371660460",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980574855784198251",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "Highly recommend to test Haiku 4.5 in @FactoryAI \n\nI just had some issues when working with google ADK, found the issue in github, just provided the github link and it is solved.\n\nFast, accurate, no slop. But you should explicitly tell that\n\"Don't use emojis and do not document everything.\"\n\nFor simple task specific cases, Haiku 4.5 is great in my opinion. Also pretty cheap and quick. \n\nI am using it on \"Spec mode\" then manually reviewing and executing.",
-    "url": "https://x.com/CloudTrader4/status/1980574855784198251",
-    "timestamp": "2025-10-21T10:00:17.000Z",
-    "metadata": {
-      "conversation_id": "1980574855784198251",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
