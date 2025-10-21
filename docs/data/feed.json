@@ -1,5 +1,93 @@
 [
   {
+    "id": "twitter_1980452458687250854",
+    "source": "twitter",
+    "author": "damien_r_h",
+    "content": "This might sound crazy but instead of using Google Docs and Notion for product docs or possibly even marketing and customer info; perhaps all of our internal knowledge is better as .md files in Github repos that we interact with via the terminal using @FactoryAI Droids.",
+    "url": "https://x.com/damien_r_h/status/1980452458687250854",
+    "timestamp": "2025-10-21T01:53:55.000Z",
+    "metadata": {
+      "conversation_id": "1980452458687250854",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980452267477344532",
+    "source": "twitter",
+    "author": "zhangjintao9020",
+    "content": "Hi @matanSF @bentossell I don't know what the current situation is with @FactoryAI, but I've seen a lot of similar discussions and I've encountered the same problem.\n\nDeveloper trust and experience are hard to build, but easy to destroy. 😅\n\nhttps://t.co/J8VSI8FJ7c",
+    "url": "https://x.com/zhangjintao9020/status/1980452267477344532",
+    "timestamp": "2025-10-21T01:53:10.000Z",
+    "metadata": {
+      "conversation_id": "1980452267477344532",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980445067648332155",
+    "source": "twitter",
+    "author": "alphatozeta8148",
+    "content": "@FactoryAI I'm not gonna be able to get anything done 😭 https://t.co/06GLpXPdqu",
+    "url": "https://x.com/alphatozeta8148/status/1980445067648332155",
+    "timestamp": "2025-10-21T01:24:33.000Z",
+    "metadata": {
+      "conversation_id": "1980445067648332155",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_222",
+    "source": "github",
+    "author": "ImpureCrumpet",
+    "content": "[Issue] Factory is not recognizing existing Droid definition files as available Subagents for the Task tool. (Written by Droid)\n\nDroid is claiming it can't recognize the .md Custom Droid (Subagent) files (created in Droid) as agents to use with the subagent command, so I asked **Droid** to write and format this issue:\n\n# 🐛 Describe the bug\nFactory is not recognizing existing Droid definition files as available agents for the Task tool.  \nDespite proper structure and placement, the droids are not discovered or exposed as valid `subagent_type` targets.\n\n---\n\n## ⚙️ Environment\n- **Date:** 2025-10-18  \n- **Project path:** `[",
+    "url": "https://github.com/Factory-AI/factory/issues/222",
+    "timestamp": "2025-10-21T01:21:27Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 222
+    }
+  },
+  {
+    "id": "twitter_1980441850269036660",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "What a problem? @FactoryAI @awscloud ? https://t.co/utNkEVP37H",
+    "url": "https://x.com/MihailVarich/status/1980441850269036660",
+    "timestamp": "2025-10-21T01:11:46.000Z",
+    "metadata": {
+      "conversation_id": "1980441850269036660",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980429961191457267",
+    "source": "twitter",
+    "author": "ITguy_91",
+    "content": "@JoelDeTeves @FactoryAI @bentossell Bennnnnn how can I get this ?",
+    "url": "https://x.com/ITguy_91/status/1980429961191457267",
+    "timestamp": "2025-10-21T00:24:32.000Z",
+    "metadata": {
+      "conversation_id": "1980429961191457267",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980422578620756062",
     "source": "twitter",
     "author": "nest_elf",
@@ -38,7 +126,7 @@
     "timestamp": "2025-10-20T23:22:18.000Z",
     "metadata": {
       "conversation_id": "1980414301535125830",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -163,19 +251,6 @@
     }
   },
   {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "twitter_1980390300888756318",
     "source": "twitter",
     "author": "hqmank",
@@ -199,7 +274,7 @@
     "timestamp": "2025-10-20T21:33:36.000Z",
     "metadata": {
       "conversation_id": "1980386946586140875",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -244,83 +319,8 @@
     "timestamp": "2025-10-20T21:11:00.000Z",
     "metadata": {
       "conversation_id": "1980381260389454153",
-      "likes": 11,
+      "likes": 14,
       "retweets": 1,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980380239176802703",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JoelDeTeves @FactoryAI hell yeah!",
-    "url": "https://x.com/bentossell/status/1980380239176802703",
-    "timestamp": "2025-10-20T21:06:57.000Z",
-    "metadata": {
-      "conversation_id": "1980380239176802703",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980378621673107772",
-    "source": "twitter",
-    "author": "noahmits",
-    "content": "@CloudTrader4 @FactoryAI I don't have enough credits",
-    "url": "https://x.com/noahmits/status/1980378621673107772",
-    "timestamp": "2025-10-20T21:00:31.000Z",
-    "metadata": {
-      "conversation_id": "1980378621673107772",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980378221750440100",
-    "source": "twitter",
-    "author": "francesca_lab",
-    "content": "@damien_r_h @WisprFlow @FactoryAI 🧠",
-    "url": "https://x.com/francesca_lab/status/1980378221750440100",
-    "timestamp": "2025-10-20T20:58:56.000Z",
-    "metadata": {
-      "conversation_id": "1980378221750440100",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980376668125745192",
-    "source": "twitter",
-    "author": "flatoy_",
-    "content": "I was excited to try @FactoryAI but i'm not able to login, their https://t.co/h6eDloKTpD url is down. \n\nand their bridge is non responding. \n\nwhat a shame. \n\nback to shipping with @claudeai",
-    "url": "https://x.com/flatoy_/status/1980376668125745192",
-    "timestamp": "2025-10-20T20:52:45.000Z",
-    "metadata": {
-      "conversation_id": "1980376668125745192",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980372536694321325",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "Thanks for the cool @FactoryAI schwag @bentossell! #DroidMode https://t.co/cATDpdvU4h",
-    "url": "https://x.com/JoelDeTeves/status/1980372536694321325",
-    "timestamp": "2025-10-20T20:36:20.000Z",
-    "metadata": {
-      "conversation_id": "1980372536694321325",
-      "likes": 8,
-      "retweets": 0,
       "replies": 1,
       "quotes": 0
     }
@@ -378,19 +378,6 @@
     }
   },
   {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 8,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1oazqru",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -424,8 +411,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
     "timestamp": "2025-10-19T19:18:47.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 5,
+      "score": 0,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
@@ -534,28 +521,15 @@
     }
   },
   {
-    "id": "reddit_1o8tf0s",
+    "id": "reddit_1o89mzk",
     "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8t9pq",
-    "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
+    "author": "x86rip",
+    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
+    "timestamp": "2025-10-16T15:43:59.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 3,
+      "num_comments": 12,
       "subreddit": "FactoryAi"
     }
   },
@@ -625,6 +599,32 @@
     }
   },
   {
+    "id": "reddit_1o7h903",
+    "source": "reddit",
+    "author": "itsmemac43",
+    "content": "Referral gone ??\n\nSo first they give referral option and make everyone refer their buddies\n\nOnce everyone is onboarded, they completely remove the referral on the whole \n\nThe website currently doesn't have a single word as referral and all the referral bonuses and posts are gone",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o7h903/referral_gone/",
+    "timestamp": "2025-10-15T17:22:36.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 14,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o748h7",
+    "source": "reddit",
+    "author": "Gullible_Rip_2750",
+    "content": "Jetbrains plugin for Droid\n\nHey. Documentation suggests there is jetbrains plugin. Anyone managed to integrate it or is it just \"promise\"? I sent e-mail but i got no response. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o748h7/jetbrains_plugin_for_droid/",
+    "timestamp": "2025-10-15T07:08:27.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_191",
     "source": "github",
     "author": "spirefyio",
@@ -638,6 +638,32 @@
     }
   },
   {
+    "id": "reddit_1o6tivb",
+    "source": "reddit",
+    "author": "stevilg",
+    "content": "byok / custom_models\n\nIs Bring your own keys / custom\\_models working for anybody? I've tried a few combinations and no luck; droid never shows it on the list. Below is in my projects directory e.g. /project/.factory/config.json and I can confirm POST to [http://localhost:8317/v1/chat/completions](http://localhost:8317/v1/chat/completions) does work and so does GET to [http://localhost:8317/v1/models](http://localhost:8317/v1/models)\n\n    {\n      \"custom_models\": [\n        {\n          \"model_display_name\": \"qwen3-cod",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6tivb/byok_custom_models/",
+    "timestamp": "2025-10-14T22:13:49.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o6jgc5",
+    "source": "reddit",
+    "author": "Kindly_District",
+    "content": "attach a image to the droid cli?\n\nIs there a way to attach a design image to the droid cli?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6jgc5/attach_a_image_to_the_droid_cli/",
+    "timestamp": "2025-10-14T15:58:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_186",
     "source": "github",
     "author": "0zl",
@@ -648,6 +674,19 @@
       "type": "issue",
       "labels": [],
       "number": 186
+    }
+  },
+  {
+    "id": "reddit_1o6e9gw",
+    "source": "reddit",
+    "author": "selfdb",
+    "content": "Building with factoryAI. a self-hosted backend with: auth, db, storage, cloud functions, webhooks and a sql editor.\n\nHello droids. I wanted to share this project that i'm buildng with factory ai for local / selfhost multimodel ai agents. v0.05 on the way. It is fully open source:  [https://github.com/Selfdb-io/SelfDB](https://github.com/Selfdb-io/SelfDB)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6e9gw/building_with_factoryai_a_selfhosted_backend_with/",
+    "timestamp": "2025-10-14T12:34:23.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -677,6 +716,19 @@
     }
   },
   {
+    "id": "reddit_1o69z6f",
+    "source": "reddit",
+    "author": "Optimal-Swordfish",
+    "content": "Codex works worse with droids than gpt-5\n\nTitle. When can we expect codex usage with droids to actually perform as expected? This is also apparent from the terminal bench results. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o69z6f/codex_works_worse_with_droids_than_gpt5/",
+    "timestamp": "2025-10-14T08:34:32.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_183",
     "source": "github",
     "author": "IIRoan",
@@ -687,19 +739,6 @@
       "type": "issue",
       "labels": [],
       "number": 183
-    }
-  },
-  {
-    "id": "github_issue_181",
-    "source": "github",
-    "author": "QDaed",
-    "content": "[Issue] Droid Glitching While Runnning\n\n\nhttps://github.com/user-attachments/assets/992f997b-2a79-4555-b423-ca8e72a57e50",
-    "url": "https://github.com/Factory-AI/factory/issues/181",
-    "timestamp": "2025-10-13T08:45:54Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 181
     }
   },
   {
