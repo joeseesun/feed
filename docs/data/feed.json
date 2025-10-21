@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1980713853697831291",
+    "source": "twitter",
+    "author": "CyberBoyAyush",
+    "content": "@Some1UKnow25 @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar https://t.co/v5wRnM3RNj",
+    "url": "https://x.com/CyberBoyAyush/status/1980713853697831291",
+    "timestamp": "2025-10-21T19:12:37.000Z",
+    "metadata": {
+      "conversation_id": "1980713853697831291",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980713721535369617",
+    "source": "twitter",
+    "author": "Some1UKnow25",
+    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar Bro is a cooker",
+    "url": "https://x.com/Some1UKnow25/status/1980713721535369617",
+    "timestamp": "2025-10-21T19:12:05.000Z",
+    "metadata": {
+      "conversation_id": "1980713721535369617",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980713277077483852",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@dawid_jordaan @pascallammers_ @FactoryAI dope!",
+    "url": "https://x.com/bentossell/status/1980713277077483852",
+    "timestamp": "2025-10-21T19:10:19.000Z",
+    "metadata": {
+      "conversation_id": "1980713277077483852",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980712972013170698",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@dannothingnew @FactoryAI At some point terminal looks like a graffiti wall",
+    "url": "https://x.com/CloudTrader4/status/1980712972013170698",
+    "timestamp": "2025-10-21T19:09:07.000Z",
+    "metadata": {
+      "conversation_id": "1980712972013170698",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980712116853043251",
+    "source": "twitter",
+    "author": "dawid_jordaan",
+    "content": "@bentossell @pascallammers_ @FactoryAI I like how the Droid stuck to the task, not going on tangents, despite seeing existing warnings, and alerted me to it - keeping the control in the developer's hands. https://t.co/3aqIIvgnjN",
+    "url": "https://x.com/dawid_jordaan/status/1980712116853043251",
+    "timestamp": "2025-10-21T19:05:43.000Z",
+    "metadata": {
+      "conversation_id": "1980712116853043251",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980709072379994310",
     "source": "twitter",
     "author": "tangmian",
@@ -38,7 +113,7 @@
     "timestamp": "2025-10-21T18:47:51.000Z",
     "metadata": {
       "conversation_id": "1980707622409105523",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,7 +128,7 @@
     "timestamp": "2025-10-21T18:47:08.000Z",
     "metadata": {
       "conversation_id": "1980707441793986662",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -130,7 +205,7 @@
       "conversation_id": "1980701878519288050",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -188,7 +263,7 @@
     "timestamp": "2025-10-21T17:32:19.000Z",
     "metadata": {
       "conversation_id": "1980688613869297713",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -203,7 +278,7 @@
     "timestamp": "2025-10-21T17:17:34.000Z",
     "metadata": {
       "conversation_id": "1980684900220248142",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -218,81 +293,6 @@
     "timestamp": "2025-10-21T17:06:52.000Z",
     "metadata": {
       "conversation_id": "1980682208173298099",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980679883471876320",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@pascallammers_ @FactoryAI +1 on this one",
-    "url": "https://x.com/ben_vargas/status/1980679883471876320",
-    "timestamp": "2025-10-21T16:57:38.000Z",
-    "metadata": {
-      "conversation_id": "1980679883471876320",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980678042914812011",
-    "source": "twitter",
-    "author": "mikez93",
-    "content": "@iannuttall Plan mode: Sonnet 4.5 collaborating with GPT-5-Med via @RepoPrompt to create highly detailed PRD\n\nCode Mode: GLM 4.6 in Droid @FactoryAI",
-    "url": "https://x.com/mikez93/status/1980678042914812011",
-    "timestamp": "2025-10-21T16:50:19.000Z",
-    "metadata": {
-      "conversation_id": "1980678042914812011",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980677864526946415",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@ImranDeveloper @contxtkng @FactoryAI @claudeai @augmentcode @augmentcode could be better but they don’t have vibes…",
-    "url": "https://x.com/erd0xbc/status/1980677864526946415",
-    "timestamp": "2025-10-21T16:49:36.000Z",
-    "metadata": {
-      "conversation_id": "1980677864526946415",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980676798133465502",
-    "source": "twitter",
-    "author": "CyberBoyAyush",
-    "content": "@z_malloc @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar i have no idea about Taskmaster. What is it can you share the tool so i can check it out?&gt;",
-    "url": "https://x.com/CyberBoyAyush/status/1980676798133465502",
-    "timestamp": "2025-10-21T16:45:22.000Z",
-    "metadata": {
-      "conversation_id": "1980676798133465502",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980676538296308028",
-    "source": "twitter",
-    "author": "z_malloc",
-    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar how does this differ from Taskmaster?",
-    "url": "https://x.com/z_malloc/status/1980676538296308028",
-    "timestamp": "2025-10-21T16:44:20.000Z",
-    "metadata": {
-      "conversation_id": "1980676538296308028",
       "likes": 1,
       "retweets": 0,
       "replies": 1,
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -647,6 +647,32 @@
     "metadata": {
       "score": 3,
       "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o89mzk",
+    "source": "reddit",
+    "author": "x86rip",
+    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
+    "timestamp": "2025-10-16T15:43:59.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 12,
       "subreddit": "FactoryAi"
     }
   },
