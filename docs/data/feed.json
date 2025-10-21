@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1980549144939835773",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@TimHerby @FactoryAI vercel due to aws - sorry! working to make sure it doesn’t happen again",
+    "url": "https://x.com/bentossell/status/1980549144939835773",
+    "timestamp": "2025-10-21T08:18:07.000Z",
+    "metadata": {
+      "conversation_id": "1980549144939835773",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980549071585628564",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Stu_J_ @TimHerby @FactoryAI had some issues due to vercel. working on making sure this doesn’t happen again",
+    "url": "https://x.com/bentossell/status/1980549071585628564",
+    "timestamp": "2025-10-21T08:17:50.000Z",
+    "metadata": {
+      "conversation_id": "1980549071585628564",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980548867323228311",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@aerowindwalker @FactoryAI checking, may have been due to zapier issue from aws outage.",
+    "url": "https://x.com/bentossell/status/1980548867323228311",
+    "timestamp": "2025-10-21T08:17:01.000Z",
+    "metadata": {
+      "conversation_id": "1980548867323228311",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980548678558339132",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JoelDeTeves @FactoryAI we’re always working on making things better :)",
+    "url": "https://x.com/bentossell/status/1980548678558339132",
+    "timestamp": "2025-10-21T08:16:16.000Z",
+    "metadata": {
+      "conversation_id": "1980548678558339132",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980548506160169246",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MrJeberulz @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1980548506160169246",
+    "timestamp": "2025-10-21T08:15:35.000Z",
+    "metadata": {
+      "conversation_id": "1980548506160169246",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980548421812670476",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@damien_r_h @FactoryAI i actually just have it all local now but have done it that way yes",
+    "url": "https://x.com/bentossell/status/1980548421812670476",
+    "timestamp": "2025-10-21T08:15:15.000Z",
+    "metadata": {
+      "conversation_id": "1980548421812670476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980548096711950634",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@zhangjintao9020 @matanSF @FactoryAI dm me what issue you’re having - i’ll look into it",
+    "url": "https://x.com/bentossell/status/1980548096711950634",
+    "timestamp": "2025-10-21T08:13:57.000Z",
+    "metadata": {
+      "conversation_id": "1980548096711950634",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980547052770656535",
+    "source": "twitter",
+    "author": "MrJeberulz",
+    "content": "@NoBanksNearby @FactoryAI Yup yup looking forward to it 😊",
+    "url": "https://x.com/MrJeberulz/status/1980547052770656535",
+    "timestamp": "2025-10-21T08:09:48.000Z",
+    "metadata": {
+      "conversation_id": "1980547052770656535",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980537515066159558",
     "source": "twitter",
     "author": "MrJeberulz",
@@ -40,7 +160,7 @@
       "conversation_id": "1980534332105322776",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -85,7 +205,7 @@
       "conversation_id": "1980528441985577013",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -98,9 +218,9 @@
     "timestamp": "2025-10-21T06:52:44.000Z",
     "metadata": {
       "conversation_id": "1980527655188680816",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -173,7 +293,7 @@
     "timestamp": "2025-10-21T04:52:45.000Z",
     "metadata": {
       "score": 2,
-      "num_comments": 0,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -193,81 +313,6 @@
     }
   },
   {
-    "id": "twitter_1980488089026834488",
-    "source": "twitter",
-    "author": "Ajst974",
-    "content": "But I don’t like Claude that for the Coding part, I like him very much, especially for his prosody, his generation of documents, his integration in the applications and even on the site the connectors and all these things. The only thing is that if we have a pro subscription we are extremely limited. It’s boring when you see that you have GPT5 for the same price offers you 3000 messages a week with the most powerful mode, and 140 messages/3h is still pretty crazy even if we are so limited.",
-    "url": "https://x.com/Ajst974/status/1980488089026834488",
-    "timestamp": "2025-10-21T04:15:30.000Z",
-    "metadata": {
-      "conversation_id": "1980488089026834488",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980487240502657118",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@Ajst974 It’s super cheap and solid in @FactoryAI droid. Can use @claudeai to clean up or targeted reviews or spec building.",
-    "url": "https://x.com/erd0xbc/status/1980487240502657118",
-    "timestamp": "2025-10-21T04:12:08.000Z",
-    "metadata": {
-      "conversation_id": "1980487240502657118",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980479076809994284",
-    "source": "twitter",
-    "author": "aerowindwalker",
-    "content": "@FactoryAI the open-source application is broken https://t.co/0IULOzQY9K",
-    "url": "https://x.com/aerowindwalker/status/1980479076809994284",
-    "timestamp": "2025-10-21T03:39:42.000Z",
-    "metadata": {
-      "conversation_id": "1980479076809994284",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980475461630304485",
-    "source": "twitter",
-    "author": "contxtkng",
-    "content": "@ben_vargas @AmpCode @FactoryAI You’re the goat bro",
-    "url": "https://x.com/contxtkng/status/1980475461630304485",
-    "timestamp": "2025-10-21T03:25:20.000Z",
-    "metadata": {
-      "conversation_id": "1980475461630304485",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980471037776318874",
-    "source": "twitter",
-    "author": "jeff_behnke_",
-    "content": "@philliphaydon @bitdoze @FactoryAI @astrodotbuild Not if you don’t make them bloated with frameworks when they are not necessary",
-    "url": "https://x.com/jeff_behnke_/status/1980471037776318874",
-    "timestamp": "2025-10-21T03:07:45.000Z",
-    "metadata": {
-      "conversation_id": "1980471037776318874",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -278,51 +323,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "twitter_1980465505749332183",
-    "source": "twitter",
-    "author": "Stu_J_",
-    "content": "@TimHerby @FactoryAI They are probably using AWS.",
-    "url": "https://x.com/Stu_J_/status/1980465505749332183",
-    "timestamp": "2025-10-21T02:45:46.000Z",
-    "metadata": {
-      "conversation_id": "1980465505749332183",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980463182591521103",
-    "source": "twitter",
-    "author": "philliphaydon",
-    "content": "@bitdoze @jeff_behnke_ @FactoryAI @astrodotbuild View transitions exist to mask slow sites. So 100% not useless. Cos pretty much all sites are slow",
-    "url": "https://x.com/philliphaydon/status/1980463182591521103",
-    "timestamp": "2025-10-21T02:36:32.000Z",
-    "metadata": {
-      "conversation_id": "1980463182591521103",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980452458687250854",
-    "source": "twitter",
-    "author": "damien_r_h",
-    "content": "This might sound crazy but instead of using Google Docs and Notion for product docs or possibly even marketing and customer info; perhaps all of our internal knowledge is better as .md files in Github repos that we interact with via the terminal using @FactoryAI Droids.",
-    "url": "https://x.com/damien_r_h/status/1980452458687250854",
-    "timestamp": "2025-10-21T01:53:55.000Z",
-    "metadata": {
-      "conversation_id": "1980452458687250854",
-      "likes": 7,
-      "retweets": 0,
-      "replies": 3,
-      "quotes": 0
     }
   },
   {
@@ -582,6 +582,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
