@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_229",
+    "source": "github",
+    "author": "ajdiyassin",
+    "content": "[Issue] Model Selection\n\nI have selected GPT 5 (high), but the CLI shows medium? This happened after today's update.",
+    "url": "https://github.com/Factory-AI/factory/issues/229",
+    "timestamp": "2025-10-21T11:36:37Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 229
+    }
+  },
+  {
     "id": "twitter_1980596644950241329",
     "source": "twitter",
     "author": "pascallammers_",
@@ -10,7 +23,7 @@
       "conversation_id": "1980596644950241329",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -713,19 +726,6 @@
       "type": "issue",
       "labels": [],
       "number": 185
-    }
-  },
-  {
-    "id": "github_issue_184",
-    "source": "github",
-    "author": "zhengxilong",
-    "content": "[Issue] Any plan to support MacOS 11 Big Sur?\n\nI'm running an MacOS 11 on an old macbook Pro A1708, looks like droid only work with MacOS 13 and above, while I could run claude code, codex on my MacOS 11. If the team could provide droid for Mac OS I will appreciate you effort. Thanks!\n\ndroid\ndyld: Symbol not found: _ubrk_clone\n  Referenced from: /Users/zheng/.local/bin/droid (which was built for Mac OS X 13.0)\n  Expected in: /usr/lib/libicucore.A.dylib\n\nzsh: abort      droid",
-    "url": "https://github.com/Factory-AI/factory/issues/184",
-    "timestamp": "2025-10-14T08:43:12Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 184
     }
   },
   {
