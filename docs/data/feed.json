@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980623934715462048",
+    "source": "twitter",
+    "author": "aculzzz",
+    "content": "@nest_elf @FactoryAI wait, people even use AI gor GIT commit, push ????? wth",
+    "url": "https://x.com/aculzzz/status/1980623934715462048",
+    "timestamp": "2025-10-21T13:15:18.000Z",
+    "metadata": {
+      "conversation_id": "1980623934715462048",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_230",
     "source": "github",
     "author": "CodingOX",
@@ -363,21 +378,6 @@
     }
   },
   {
-    "id": "twitter_1980553015208865857",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@damien_r_h @WisprFlow @FactoryAI same but with @voicetypr ;)",
-    "url": "https://x.com/immoinulmoin/status/1980553015208865857",
-    "timestamp": "2025-10-21T08:33:30.000Z",
-    "metadata": {
-      "conversation_id": "1980553015208865857",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oc3yt9",
     "source": "reddit",
     "author": "Big-Recognition7298",
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -612,19 +612,6 @@
     }
   },
   {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -635,6 +622,32 @@
       "type": "issue",
       "labels": [],
       "number": 203
+    }
+  },
+  {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -700,19 +713,6 @@
       "type": "issue",
       "labels": [],
       "number": 194
-    }
-  },
-  {
-    "id": "reddit_1o768ha",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "FactoryAI Pricing Plans\n\nI'm a Claude subscriber currently on the Max 5x plan, and I'm very interested in FactoryAI. However, I have some questions about the subscription tiers. For example, regarding the $20/month subscription plan, I'd like to understand the specific usage limits. If I only need to use Codex or Droid, how do these limits compare to the usage allowance for Codex CLI with ChatGPT Plus?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o768ha/factoryai_pricing_plans/",
-    "timestamp": "2025-10-15T09:21:38.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 8,
-      "subreddit": "FactoryAi"
     }
   },
   {
