@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980501211360153692",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "I dunno if @FactoryAI have been working on the harness but Haiku seems a LOT better today than yesterday 🤔",
+    "url": "https://x.com/JoelDeTeves/status/1980501211360153692",
+    "timestamp": "2025-10-21T05:07:39.000Z",
+    "metadata": {
+      "conversation_id": "1980501211360153692",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1oc3yt9",
     "source": "reddit",
     "author": "Big-Recognition7298",
@@ -169,7 +184,7 @@
     "timestamp": "2025-10-21T01:53:10.000Z",
     "metadata": {
       "conversation_id": "1980452267477344532",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -334,21 +349,6 @@
       "type": "issue",
       "labels": [],
       "number": 219
-    }
-  },
-  {
-    "id": "twitter_1980401012289777863",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "@bitdoze @FactoryAI @astrodotbuild Which model do you find is the most creative designer",
-    "url": "https://x.com/JoelDeTeves/status/1980401012289777863",
-    "timestamp": "2025-10-20T22:29:30.000Z",
-    "metadata": {
-      "conversation_id": "1980401012289777863",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
