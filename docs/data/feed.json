@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980494829294673968",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@damien_r_h @FactoryAI Not crazy at all. I use Droid for a lot of marketing and customer related tasks. We often even record our internal meetings and feed the transcripts to Droid",
+    "url": "https://x.com/francesca_lab/status/1980494829294673968",
+    "timestamp": "2025-10-21T04:42:17.000Z",
+    "metadata": {
+      "conversation_id": "1980494829294673968",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980488089026834488",
     "source": "twitter",
     "author": "Ajst974",
@@ -126,9 +141,9 @@
     "timestamp": "2025-10-21T01:53:55.000Z",
     "metadata": {
       "conversation_id": "1980452458687250854",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -324,21 +339,6 @@
     }
   },
   {
-    "id": "twitter_1980399230671024601",
-    "source": "twitter",
-    "author": "anthonyronning_",
-    "content": "@_archienorman @FactoryAI @elevenlabsio Custom, droid built it's own physics-based reactive orb/particle engine in Metal lmao. Completely unnecessary but fun.",
-    "url": "https://x.com/anthonyronning_/status/1980399230671024601",
-    "timestamp": "2025-10-20T22:22:25.000Z",
-    "metadata": {
-      "conversation_id": "1980399230671024601",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1obv6pd",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -560,6 +560,19 @@
     }
   },
   {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1o8t9pq",
     "source": "reddit",
     "author": "raghav0610",
@@ -582,6 +595,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o86tci",
+    "source": "reddit",
+    "author": "mr_dudo",
+    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
+    "timestamp": "2025-10-16T13:55:41.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
