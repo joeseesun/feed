@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1980596644950241329",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "/session improvement suggestion for @FactoryAI \n\nRight now the sessions are shown across every project. project related sessions would be nice!",
+    "url": "https://x.com/pascallammers_/status/1980596644950241329",
+    "timestamp": "2025-10-21T11:26:52.000Z",
+    "metadata": {
+      "conversation_id": "1980596644950241329",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980595151379878102",
+    "source": "twitter",
+    "author": "damien_r_h",
+    "content": "@Mattslayga @FactoryAI The linking is a valuable piece for sure. Right now I just create a series of &lt;name&gt;-prd.md files. Not exactly sure where it’s going but it seems interesting.",
+    "url": "https://x.com/damien_r_h/status/1980595151379878102",
+    "timestamp": "2025-10-21T11:20:56.000Z",
+    "metadata": {
+      "conversation_id": "1980595151379878102",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980591488632492153",
     "source": "twitter",
     "author": "Mattslayga",
@@ -10,7 +40,7 @@
       "conversation_id": "1980591488632492153",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -322,36 +352,6 @@
     }
   },
   {
-    "id": "twitter_1980549144939835773",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@TimHerby @FactoryAI vercel due to aws - sorry! working to make sure it doesn’t happen again",
-    "url": "https://x.com/bentossell/status/1980549144939835773",
-    "timestamp": "2025-10-21T08:18:07.000Z",
-    "metadata": {
-      "conversation_id": "1980549144939835773",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980549071585628564",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Stu_J_ @TimHerby @FactoryAI had some issues due to vercel. working on making sure this doesn’t happen again",
-    "url": "https://x.com/bentossell/status/1980549071585628564",
-    "timestamp": "2025-10-21T08:17:50.000Z",
-    "metadata": {
-      "conversation_id": "1980549071585628564",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oc3yt9",
     "source": "reddit",
     "author": "Big-Recognition7298",
@@ -360,7 +360,7 @@
     "timestamp": "2025-10-21T04:52:45.000Z",
     "metadata": {
       "score": 2,
-      "num_comments": 3,
+      "num_comments": 4,
       "subreddit": "FactoryAi"
     }
   },
