@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_230",
+    "source": "github",
+    "author": "CodingOX",
+    "content": "[Issue] droid CLI 0.21.5: Application freezes when moving cursor left/right after selecting file with @\n\n**Environment:**\n- Tool: droid CLI\n- Version: 0.21.5\n\n**Description:**\nThe CLI becomes unresponsive or freezes when moving the cursor left/right after selecting a file using the `@` symbol.\n\n**Steps to Reproduce:**\n1. Use `@` to select a file in droid CLI\n2. Move the cursor left or right using arrow keys\n3. The CLI either freezes completely or becomes unresponsive for a period of time\n\n**Expected Behavior:**\nThe cursor should move smoothly without causing the CLI to freeze or become unresponsive",
+    "url": "https://github.com/Factory-AI/factory/issues/230",
+    "timestamp": "2025-10-21T12:19:09Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 230
+    }
+  },
+  {
     "id": "github_issue_229",
     "source": "github",
     "author": "ajdiyassin",
@@ -489,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -625,32 +638,6 @@
     }
   },
   {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8t9pq",
-    "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_200",
     "source": "github",
     "author": "JohnDotOwl",
@@ -716,6 +703,19 @@
     }
   },
   {
+    "id": "reddit_1o768ha",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "FactoryAI Pricing Plans\n\nI'm a Claude subscriber currently on the Max 5x plan, and I'm very interested in FactoryAI. However, I have some questions about the subscription tiers. For example, regarding the $20/month subscription plan, I'd like to understand the specific usage limits. If I only need to use Codex or Droid, how do these limits compare to the usage allowance for Codex CLI with ChatGPT Plus?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o768ha/factoryai_pricing_plans/",
+    "timestamp": "2025-10-15T09:21:38.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 8,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_191",
     "source": "github",
     "author": "spirefyio",
@@ -726,19 +726,6 @@
       "type": "issue",
       "labels": [],
       "number": 191
-    }
-  },
-  {
-    "id": "github_issue_185",
-    "source": "github",
-    "author": "zhengxilong",
-    "content": "[Issue] Installation hangs on Windows 10 1809, 17763.6414\n\nI could not install droid on my Windows 10 1809, 17763.6414. I know it's an old version and will not be supported by Microsoft soon. I would like droid team to tell what's the version supported. Thanks!\n\n```\n C:\\Users\\Administrator\\droid> irm https://app.factory.ai/cli/windows | iex\n\n==> Downloading Factory CLI v0.19.9 for Windows-x64\n```",
-    "url": "https://github.com/Factory-AI/factory/issues/185",
-    "timestamp": "2025-10-14T08:48:24Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 185
     }
   },
   {
