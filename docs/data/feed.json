@@ -1,16 +1,106 @@
 [
   {
-    "id": "twitter_1980978434471043320",
+    "id": "twitter_1980987940223562015",
     "source": "twitter",
-    "author": "talesofgoutham",
-    "content": "@FactoryAI why does droid tell that it’s using GPT 4.1 when I ask for it. I keep asking it , but confirms multiple times that even though model shown in gpt codex it’s GPT4.1",
-    "url": "https://x.com/talesofgoutham/status/1980978434471043320",
-    "timestamp": "2025-10-22T12:43:58.000Z",
+    "author": "codezera11",
+    "content": "Yeah, it’s wild how some folks make it sound like rocket science. Just give me a solid tool and let me tweak a few settings, not an entire manual for every line of code. Honestly, I’ve had good luck with @QodoAI catching stuff I’d overlook with all that complexity. Simplicity wins, man. Now, back to binge-watching.",
+    "url": "https://x.com/codezera11/status/1980987940223562015",
+    "timestamp": "2025-10-22T13:21:44.000Z",
     "metadata": {
-      "conversation_id": "1980978434471043320",
+      "conversation_id": "1980987940223562015",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980987735575028138",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@TCGsealed @kcosr @FactoryAI i wouldnt of replied if i wasn't going to :)",
+    "url": "https://x.com/bentossell/status/1980987735575028138",
+    "timestamp": "2025-10-22T13:20:55.000Z",
+    "metadata": {
+      "conversation_id": "1980987735575028138",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980987620265283778",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@kcosr @TCGsealed @FactoryAI was a big bug in your session thats being fixed atm",
+    "url": "https://x.com/bentossell/status/1980987620265283778",
+    "timestamp": "2025-10-22T13:20:28.000Z",
+    "metadata": {
+      "conversation_id": "1980987620265283778",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980982244820029550",
+    "source": "twitter",
+    "author": "TCGsealed",
+    "content": "@bentossell @kcosr @FactoryAI no one with 150k+ followers is going to listen to someone with 1k followers.\n\ni know the world i live in",
+    "url": "https://x.com/TCGsealed/status/1980982244820029550",
+    "timestamp": "2025-10-22T12:59:06.000Z",
+    "metadata": {
+      "conversation_id": "1980982244820029550",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980982132463088108",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@bentossell @TCGsealed @FactoryAI Nice! I'm excited to experience what others have been saying about Droid. It just doesn't work with my codebase and prompting style yet. ☹️",
+    "url": "https://x.com/kcosr/status/1980982132463088108",
+    "timestamp": "2025-10-22T12:58:39.000Z",
+    "metadata": {
+      "conversation_id": "1980982132463088108",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980981580043817009",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@marcgregory_ @iannuttall @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1980981580043817009",
+    "timestamp": "2025-10-22T12:56:28.000Z",
+    "metadata": {
+      "conversation_id": "1980981580043817009",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980981429476757715",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@TCGsealed @kcosr @FactoryAI bugs happen for every product unfortunately. we're fixing this one right now. happy to help if you had any issues using it?",
+    "url": "https://x.com/bentossell/status/1980981429476757715",
+    "timestamp": "2025-10-22T12:55:52.000Z",
+    "metadata": {
+      "conversation_id": "1980981429476757715",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -40,7 +130,7 @@
       "conversation_id": "1980973216030929262",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -98,9 +188,9 @@
     "timestamp": "2025-10-22T12:02:49.000Z",
     "metadata": {
       "conversation_id": "1980968080558690733",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -203,96 +293,6 @@
     "timestamp": "2025-10-22T11:53:05.000Z",
     "metadata": {
       "conversation_id": "1980965630003036631",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980965296799465819",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@cupcake_trader @CloudTrader4 @github @FactoryAI this may help :) https://t.co/ZUc4ladKm8",
-    "url": "https://x.com/bentossell/status/1980965296799465819",
-    "timestamp": "2025-10-22T11:51:45.000Z",
-    "metadata": {
-      "conversation_id": "1980965296799465819",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980965088149623215",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Tekhenra @matanSF @FactoryAI dm your email - will flag to eng, sorry about this!",
-    "url": "https://x.com/bentossell/status/1980965088149623215",
-    "timestamp": "2025-10-22T11:50:56.000Z",
-    "metadata": {
-      "conversation_id": "1980965088149623215",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980964955370279113",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@thedanifrim @FactoryAI this could be the beginning of a beautiful thing! \n\nwhat would make upgrading a no-brainer for you?",
-    "url": "https://x.com/bentossell/status/1980964955370279113",
-    "timestamp": "2025-10-22T11:50:24.000Z",
-    "metadata": {
-      "conversation_id": "1980964955370279113",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980960999080599678",
-    "source": "twitter",
-    "author": "thedanifrim",
-    "content": "All good things come to an end @FactoryAI https://t.co/5JNRXSY18G",
-    "url": "https://x.com/thedanifrim/status/1980960999080599678",
-    "timestamp": "2025-10-22T11:34:41.000Z",
-    "metadata": {
-      "conversation_id": "1980960999080599678",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980960068435649018",
-    "source": "twitter",
-    "author": "Tekhenra",
-    "content": "Hey @matanSF, is there any way of solving this? It never ends.\nI don't know how to contact support either @FactoryAI https://t.co/8Do93T6CPN",
-    "url": "https://x.com/Tekhenra/status/1980960068435649018",
-    "timestamp": "2025-10-22T11:30:59.000Z",
-    "metadata": {
-      "conversation_id": "1980960068435649018",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980950604496425415",
-    "source": "twitter",
-    "author": "MatthewEuc",
-    "content": "@immoinulmoin @aeitroc @FactoryAI yes, lesson learned the hard way, like in finance, never marry your bags!",
-    "url": "https://x.com/MatthewEuc/status/1980950604496425415",
-    "timestamp": "2025-10-22T10:53:23.000Z",
-    "metadata": {
-      "conversation_id": "1980950604496425415",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -638,6 +638,19 @@
     }
   },
   {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -648,6 +661,19 @@
       "type": "issue",
       "labels": [],
       "number": 203
+    }
+  },
+  {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
     }
   },
   {
