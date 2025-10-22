@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_237",
+    "source": "github",
+    "author": "hack-gibson",
+    "content": "[Issue] File Upload\n\nFile upload not working when attempting to upload files when using Product Droid on web ",
+    "url": "https://github.com/Factory-AI/factory/issues/237",
+    "timestamp": "2025-10-22T21:11:12Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 237
+    }
+  },
+  {
     "id": "twitter_1981102108306002156",
     "source": "twitter",
     "author": "withmegg",
@@ -8,7 +21,7 @@
     "timestamp": "2025-10-22T20:55:24.000Z",
     "metadata": {
       "conversation_id": "1981102108306002156",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,7 +36,7 @@
     "timestamp": "2025-10-22T20:47:33.000Z",
     "metadata": {
       "conversation_id": "1981100132536897723",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -66,7 +79,7 @@
     "timestamp": "2025-10-22T20:19:06.000Z",
     "metadata": {
       "conversation_id": "1981092972319138296",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -326,6 +339,19 @@
     }
   },
   {
+    "id": "reddit_1odatnb",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
+    "timestamp": "2025-10-22T15:06:14.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_234",
     "source": "github",
     "author": "tgerighty",
@@ -336,6 +362,32 @@
       "type": "issue",
       "labels": [],
       "number": 234
+    }
+  },
+  {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -638,19 +690,6 @@
     }
   },
   {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -661,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 203
-    }
-  },
-  {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -726,19 +752,6 @@
       "type": "issue",
       "labels": [],
       "number": 195
-    }
-  },
-  {
-    "id": "github_issue_194",
-    "source": "github",
-    "author": "jpr98",
-    "content": "[Issue] CLI diff missing last character of all changed lines + formatting\n\nThe CLI diff is missing the last character of every line and the formatting is off. I couldn't find another way to share this feedback!\nI'm a new user and this product is awesome! Thanks for building it.\nThis feedback is by no means critical, and maybe the team has it identified already, just thought I'd share it in case it's not in your radar :)\n\nsome examples:\n\n<img width=\"3832\" height=\"1108\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/49d5efcc-8a92-48c3-a1d6-42cea3002e91\" />\n\n",
-    "url": "https://github.com/Factory-AI/factory/issues/194",
-    "timestamp": "2025-10-16T00:22:06Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 194
     }
   },
   {
