@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1981134115408576809",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Used github copilot instructions to create a structured plan and guide as said in github docs. But different from docs I also use these instructions as custom droids.\n\nThese are all repository instructions and surprisingly droid built this project in just one go. Bug free, no issues.",
+    "url": "https://x.com/CloudTrader4/status/1981134115408576809",
+    "timestamp": "2025-10-22T23:02:35.000Z",
+    "metadata": {
+      "conversation_id": "1981134115408576809",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_238",
+    "source": "github",
+    "author": "ivoneijr-lumiahealth",
+    "content": "[Issue] impossible to verify phone and log in\n\n<img width=\"1248\" height=\"646\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bd39a1ae-37cb-49db-bf45-2397e321cc90\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/238",
+    "timestamp": "2025-10-22T23:01:51Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 238
+    }
+  },
+  {
+    "id": "twitter_1981133555318301001",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@aeitroc @FactoryAI @github Of course, coinbase exchange api",
+    "url": "https://x.com/CloudTrader4/status/1981133555318301001",
+    "timestamp": "2025-10-22T23:00:21.000Z",
+    "metadata": {
+      "conversation_id": "1981133555318301001",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981126094419001638",
     "source": "twitter",
     "author": "cmricksen",
@@ -55,7 +98,7 @@
       "conversation_id": "1981120968040075444",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -68,9 +111,9 @@
     "timestamp": "2025-10-22T22:03:58.000Z",
     "metadata": {
       "conversation_id": "1981119365853708473",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -156,7 +199,7 @@
     "timestamp": "2025-10-22T20:47:33.000Z",
     "metadata": {
       "conversation_id": "1981100132536897723",
-      "likes": 11,
+      "likes": 12,
       "retweets": 1,
       "replies": 3,
       "quotes": 0
@@ -292,36 +335,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981081431854952909",
-    "source": "twitter",
-    "author": "davidrsdlife",
-    "content": "@bentossell @FactoryAI yay, love this, was going to ask for this",
-    "url": "https://x.com/davidrsdlife/status/1981081431854952909",
-    "timestamp": "2025-10-22T19:33:14.000Z",
-    "metadata": {
-      "conversation_id": "1981081431854952909",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981081205446463645",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@mandarinoapp @FactoryAI oh hmm - think a release v soon may solve. keep an eye on it for me please :)",
-    "url": "https://x.com/bentossell/status/1981081205446463645",
-    "timestamp": "2025-10-22T19:32:20.000Z",
-    "metadata": {
-      "conversation_id": "1981081205446463645",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -580,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -621,6 +634,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oapxet",
+    "source": "reddit",
+    "author": "Chemical_Bid_2195",
+    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
+    "timestamp": "2025-10-19T13:40:51.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -677,6 +703,19 @@
     }
   },
   {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -726,19 +765,6 @@
       "type": "issue",
       "labels": [],
       "number": 197
-    }
-  },
-  {
-    "id": "github_issue_195",
-    "source": "github",
-    "author": "iota9star",
-    "content": "[Issue] Screen flickering and occasional VSCode crashes on macOS\n\nhttps://github.com/user-attachments/assets/2569ab3e-f572-4373-8e56-545d85e73705\n\nEnvironment:\n\t•\tOS: macOS\n\t•\tEditor: VSCode\n\t•\tDroid Version: 0.20.0\n\nDescription:\nI’ve been using Droid since version 0.19, and since then, every version has shown frequent screen flickering issues. The flickering occurs both in VSCode and in the terminal. In addition, VSCode occasionally crashes when the flickering happens.\n\nSteps to Reproduce:\n\t1.\tOpen Droid in VSCode or in the terminal on macOS.\n\t2.\tUse the edit",
-    "url": "https://github.com/Factory-AI/factory/issues/195",
-    "timestamp": "2025-10-16T03:35:07Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 195
     }
   },
   {
