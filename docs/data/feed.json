@@ -58,21 +58,6 @@
     }
   },
   {
-    "id": "twitter_1981125685826793953",
-    "source": "twitter",
-    "author": "KirkMarple",
-    "content": "Yo @FactoryAI Droid folks, if you get a URL for an MCP server, can you just infer HTTP and auto-assign the type?\n\nNo need to warn and then still make us type in '--type http', right?\n\nLittle paper-cut which would save some keystrokes. https://t.co/cvwPUalua8",
-    "url": "https://x.com/KirkMarple/status/1981125685826793953",
-    "timestamp": "2025-10-22T22:29:05.000Z",
-    "metadata": {
-      "conversation_id": "1981125685826793953",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "twitter_1981124809808622073",
     "source": "twitter",
     "author": "MXPONENTIAL",
@@ -333,6 +318,21 @@
     "metadata": {
       "conversation_id": "1981081914699031023",
       "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981081431854952909",
+    "source": "twitter",
+    "author": "davidrsdlife",
+    "content": "@bentossell @FactoryAI yay, love this, was going to ask for this",
+    "url": "https://x.com/davidrsdlife/status/1981081431854952909",
+    "timestamp": "2025-10-22T19:33:14.000Z",
+    "metadata": {
+      "conversation_id": "1981081431854952909",
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -622,6 +622,19 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1oayeuk",
+    "source": "reddit",
+    "author": "Malek262",
+    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
+    "timestamp": "2025-10-19T19:18:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
     }
   },
   {
