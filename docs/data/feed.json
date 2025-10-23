@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981459458615365931",
+    "source": "twitter",
+    "author": "loopfox_",
+    "content": "@FactoryAI Goated",
+    "url": "https://x.com/loopfox_/status/1981459458615365931",
+    "timestamp": "2025-10-23T20:35:23.000Z",
+    "metadata": {
+      "conversation_id": "1981459458615365931",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981453404850339854",
     "source": "twitter",
     "author": "adisanu",
@@ -305,21 +320,6 @@
     "metadata": {
       "conversation_id": "1981371659618501090",
       "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981370871043518530",
-    "source": "twitter",
-    "author": "jpohhhh",
-    "content": "@bentossell @iannuttall @SvenMeyer @FactoryAI nope been that way forever and ever",
-    "url": "https://x.com/jpohhhh/status/1981370871043518530",
-    "timestamp": "2025-10-23T14:43:22.000Z",
-    "metadata": {
-      "conversation_id": "1981370871043518530",
-      "likes": 0,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
