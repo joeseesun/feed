@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_1981342257069330572",
+    "source": "twitter",
+    "author": "pon_o_",
+    "content": "@bentossell @fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI Yes, even if I create good spec, i tend to lose track of my code, especially with fast opus/sonnet - i hate it and then switch back to ide to verify everything.",
+    "url": "https://x.com/pon_o_/status/1981342257069330572",
+    "timestamp": "2025-10-23T12:49:40.000Z",
+    "metadata": {
+      "conversation_id": "1981342257069330572",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981341472407384456",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@pon_o_ @fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI appreciate it. if im hearing correctly you want to be able to view files, check changes etc and thats the control that we dont give you right now (except via vs code extension)",
+    "url": "https://x.com/bentossell/status/1981341472407384456",
+    "timestamp": "2025-10-23T12:46:33.000Z",
+    "metadata": {
+      "conversation_id": "1981341472407384456",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981340796009009549",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@bentossell @FactoryAI ok, that's a start ! 🙏👍",
+    "url": "https://x.com/SvenMeyer/status/1981340796009009549",
+    "timestamp": "2025-10-23T12:43:51.000Z",
+    "metadata": {
+      "conversation_id": "1981340796009009549",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981340693286076524",
+    "source": "twitter",
+    "author": "pon_o_",
+    "content": "@bentossell @fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI It is more about IDE vs CLI than direct product comparisons. I’m power user of droid - you guys are doing extremely good work!",
+    "url": "https://x.com/pon_o_/status/1981340693286076524",
+    "timestamp": "2025-10-23T12:43:27.000Z",
+    "metadata": {
+      "conversation_id": "1981340693286076524",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981335459809628360",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "Minor UX polish \n- /mcp: ability to reconnect/disconnect\n- /slash commands: tab shouldn’t execute but rather allow input or show hints\n- overly verbose MCP output not collapsed\n\nE.g., my Mac was on fire and I created a /syshealth slash command to investigate and help kill rouge processes.",
+    "url": "https://x.com/erd0xbc/status/1981335459809628360",
+    "timestamp": "2025-10-23T12:22:39.000Z",
+    "metadata": {
+      "conversation_id": "1981335459809628360",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981332750050173379",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@itsbyrobin @FactoryAI is almost there.",
+    "url": "https://x.com/erd0xbc/status/1981332750050173379",
+    "timestamp": "2025-10-23T12:11:53.000Z",
+    "metadata": {
+      "conversation_id": "1981332750050173379",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981331793140715882",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@5aikat @FactoryAI ah known issue with codex. if you can generate /bug report in this session and email / dm to me i can take a look",
+    "url": "https://x.com/bentossell/status/1981331793140715882",
+    "timestamp": "2025-10-23T12:08:05.000Z",
+    "metadata": {
+      "conversation_id": "1981331793140715882",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981331558100292013",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@pon_o_ @fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI curious why not factory for review-oriented + drivers seat :) appreciate the mention tho",
+    "url": "https://x.com/bentossell/status/1981331558100292013",
+    "timestamp": "2025-10-23T12:07:09.000Z",
+    "metadata": {
+      "conversation_id": "1981331558100292013",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981331053743591793",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@dawid_jordaan @DanKulkov @FactoryAI 👀",
+    "url": "https://x.com/bentossell/status/1981331053743591793",
+    "timestamp": "2025-10-23T12:05:09.000Z",
+    "metadata": {
+      "conversation_id": "1981331053743591793",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981317827052392559",
     "source": "twitter",
     "author": "leodoan_",
@@ -25,7 +160,7 @@
       "conversation_id": "1981316497898193217",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,9 +173,9 @@
     "timestamp": "2025-10-23T10:57:21.000Z",
     "metadata": {
       "conversation_id": "1981313990786470207",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -55,7 +190,7 @@
       "conversation_id": "1981309194276847920",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -68,7 +203,7 @@
     "timestamp": "2025-10-23T10:21:34.000Z",
     "metadata": {
       "conversation_id": "1981304985871917418",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -128,9 +263,9 @@
     "timestamp": "2025-10-23T09:46:06.000Z",
     "metadata": {
       "conversation_id": "1981296060468256921",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -178,141 +313,6 @@
     }
   },
   {
-    "id": "twitter_1981282733818335589",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "anyone has good @FactoryAI cli agents/commands collections? share please",
-    "url": "https://x.com/immoinulmoin/status/1981282733818335589",
-    "timestamp": "2025-10-23T08:53:08.000Z",
-    "metadata": {
-      "conversation_id": "1981282733818335589",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981277752167977022",
-    "source": "twitter",
-    "author": "cupcake_trader",
-    "content": "@bentossell @CloudTrader4 @github @FactoryAI awesome, cheers for that. Going to watch it this morning and try it out.",
-    "url": "https://x.com/cupcake_trader/status/1981277752167977022",
-    "timestamp": "2025-10-23T08:33:21.000Z",
-    "metadata": {
-      "conversation_id": "1981277752167977022",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981240289588367527",
-    "source": "twitter",
-    "author": "boshjerns",
-    "content": "@bentossell @FactoryAI thank you 🙏 sent",
-    "url": "https://x.com/boshjerns/status/1981240289588367527",
-    "timestamp": "2025-10-23T06:04:29.000Z",
-    "metadata": {
-      "conversation_id": "1981240289588367527",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981239096472457614",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@boshjerns @FactoryAI oh sorry about this can you dm your email and i’ll take a look",
-    "url": "https://x.com/bentossell/status/1981239096472457614",
-    "timestamp": "2025-10-23T05:59:44.000Z",
-    "metadata": {
-      "conversation_id": "1981239096472457614",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981208686816068039",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@arafatkatze @FactoryAI Will need to check it out.",
-    "url": "https://x.com/erd0xbc/status/1981208686816068039",
-    "timestamp": "2025-10-23T03:58:54.000Z",
-    "metadata": {
-      "conversation_id": "1981208686816068039",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981207908919697628",
-    "source": "twitter",
-    "author": "arafatkatze",
-    "content": "@erd0xbc @FactoryAI Makes total sense, although consider trying cline, it’s a different experience",
-    "url": "https://x.com/arafatkatze/status/1981207908919697628",
-    "timestamp": "2025-10-23T03:55:49.000Z",
-    "metadata": {
-      "conversation_id": "1981207908919697628",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981202419456389614",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@arafatkatze @FactoryAI For coding, yes. My experience so far.\n\nFor all around random agent harness, I still prefer Claude Code.",
-    "url": "https://x.com/erd0xbc/status/1981202419456389614",
-    "timestamp": "2025-10-23T03:34:00.000Z",
-    "metadata": {
-      "conversation_id": "1981202419456389614",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981201672258146801",
-    "source": "twitter",
-    "author": "arafatkatze",
-    "content": "@erd0xbc @FactoryAI Factory is benchmark maxing but is there product actually better than codex?",
-    "url": "https://x.com/arafatkatze/status/1981201672258146801",
-    "timestamp": "2025-10-23T03:31:02.000Z",
-    "metadata": {
-      "conversation_id": "1981201672258146801",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981193471420727518",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@arafatkatze I think @FactoryAI is proving otherwise a bit.",
-    "url": "https://x.com/erd0xbc/status/1981193471420727518",
-    "timestamp": "2025-10-23T02:58:27.000Z",
-    "metadata": {
-      "conversation_id": "1981193471420727518",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_238",
     "source": "github",
     "author": "ivoneijr-lumiahealth",
@@ -323,19 +323,6 @@
       "type": "issue",
       "labels": [],
       "number": 238
-    }
-  },
-  {
-    "id": "reddit_1odjcfl",
-    "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -352,19 +339,6 @@
     }
   },
   {
-    "id": "reddit_1odatnb",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
-    "timestamp": "2025-10-22T15:06:14.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_234",
     "source": "github",
     "author": "tgerighty",
@@ -375,32 +349,6 @@
       "type": "issue",
       "labels": [],
       "number": 234
-    }
-  },
-  {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -482,19 +430,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -521,19 +456,6 @@
     }
   },
   {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -547,19 +469,6 @@
     }
   },
   {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_215",
     "source": "github",
     "author": "iota9star",
@@ -570,19 +479,6 @@
       "type": "issue",
       "labels": [],
       "number": 215
-    }
-  },
-  {
-    "id": "reddit_1ob2dsx",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
-    "timestamp": "2025-10-19T21:56:23.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -664,58 +560,6 @@
     }
   },
   {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8t9pq",
-    "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o89mzk",
-    "source": "reddit",
-    "author": "x86rip",
-    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
-    "timestamp": "2025-10-16T15:43:59.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o86tci",
-    "source": "reddit",
-    "author": "mr_dudo",
-    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
-    "timestamp": "2025-10-16T13:55:41.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_200",
     "source": "github",
     "author": "JohnDotOwl",
@@ -752,19 +596,6 @@
       "type": "issue",
       "labels": [],
       "number": 197
-    }
-  },
-  {
-    "id": "reddit_1o7ywba",
-    "source": "reddit",
-    "author": "Erebea01",
-    "content": "How to delete my account and how to delete droid?\n\nHow do I delete my account? I send an email to support but they told me how to cancel my subscription? I'm also unable to find the docs for deleting droid from my system",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o7ywba/how_to_delete_my_account_and_how_to_delete_droid/",
-    "timestamp": "2025-10-16T06:30:21.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
     }
   },
   {
