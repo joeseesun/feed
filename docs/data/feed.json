@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981156221492310421",
+    "source": "twitter",
+    "author": "torfunder",
+    "content": "@hnshah @karrisaarinen It’s possible. Integrated feedback capture submitted by users, classify by complexity/impact/net promoters, feed into something like @FactoryAI",
+    "url": "https://x.com/torfunder/status/1981156221492310421",
+    "timestamp": "2025-10-23T00:30:25.000Z",
+    "metadata": {
+      "conversation_id": "1981156221492310421",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981147163314049502",
     "source": "twitter",
     "author": "boshjerns",
@@ -23,7 +38,7 @@
     "timestamp": "2025-10-22T23:50:36.000Z",
     "metadata": {
       "conversation_id": "1981146199181971567",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -81,7 +96,7 @@
     "timestamp": "2025-10-22T22:30:43.000Z",
     "metadata": {
       "conversation_id": "1981126094419001638",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -214,7 +229,7 @@
     "timestamp": "2025-10-22T20:47:33.000Z",
     "metadata": {
       "conversation_id": "1981100132536897723",
-      "likes": 12,
+      "likes": 15,
       "retweets": 1,
       "replies": 3,
       "quotes": 0
@@ -304,21 +319,6 @@
     "timestamp": "2025-10-22T19:36:29.000Z",
     "metadata": {
       "conversation_id": "1981082248603484520",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981082141879411126",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@davidrsdlife @FactoryAI trying some lightweight before we roll them out properly :)",
-    "url": "https://x.com/bentossell/status/1981082141879411126",
-    "timestamp": "2025-10-22T19:36:04.000Z",
-    "metadata": {
-      "conversation_id": "1981082141879411126",
       "likes": 1,
       "retweets": 0,
       "replies": 0,
