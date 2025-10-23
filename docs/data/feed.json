@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1981317827052392559",
+    "source": "twitter",
+    "author": "leodoan_",
+    "content": "just ran a single session in Droid from @FactoryAI with gpt-5-codex for about 2 hours. solved the complex problem pretty well (just need to tweak a bit, but it's fine). \n\nthe downside? It's super slow, and every 40-50 minutes the session gets interrupted. i had to type \"continue\" to keep it going. \n\ni can wait, but it’d be nice not to have to keep my eyes on it tbh",
+    "url": "https://x.com/leodoan_/status/1981317827052392559",
+    "timestamp": "2025-10-23T11:12:35.000Z",
+    "metadata": {
+      "conversation_id": "1981317827052392559",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981316497898193217",
+    "source": "twitter",
+    "author": "dawid_jordaan",
+    "content": "@DanKulkov @FactoryAI  what about a $60 subscription it you are not at the $200 mark yet...",
+    "url": "https://x.com/dawid_jordaan/status/1981316497898193217",
+    "timestamp": "2025-10-23T11:07:18.000Z",
+    "metadata": {
+      "conversation_id": "1981316497898193217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981313990786470207",
+    "source": "twitter",
+    "author": "pon_o_",
+    "content": "@fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI Move on from Codex to Factory, you’ll get a CLI agent that can use any model. For an additional pick that’s more review-oriented and keeps you in the driver’s seat, choose Cursor.",
+    "url": "https://x.com/pon_o_/status/1981313990786470207",
+    "timestamp": "2025-10-23T10:57:21.000Z",
+    "metadata": {
+      "conversation_id": "1981313990786470207",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981309194276847920",
     "source": "twitter",
     "author": "5aikat",
@@ -8,7 +53,7 @@
     "timestamp": "2025-10-23T10:38:17.000Z",
     "metadata": {
       "conversation_id": "1981309194276847920",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -68,7 +113,7 @@
     "timestamp": "2025-10-23T09:48:42.000Z",
     "metadata": {
       "conversation_id": "1981296717900460471",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -231,7 +276,7 @@
     "timestamp": "2025-10-23T03:34:00.000Z",
     "metadata": {
       "conversation_id": "1981202419456389614",
-      "likes": 1,
+      "likes": 0,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -261,54 +306,9 @@
     "timestamp": "2025-10-23T02:58:27.000Z",
     "metadata": {
       "conversation_id": "1981193471420727518",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981190954523775124",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@CloudTrader4 @FactoryAI @github what's cooking; im listening.",
-    "url": "https://x.com/erd0xbc/status/1981190954523775124",
-    "timestamp": "2025-10-23T02:48:26.000Z",
-    "metadata": {
-      "conversation_id": "1981190954523775124",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981189476472017195",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@bentossell @abhagsain @FactoryAI fwiw this also happened to me a few times yesterday and while the session is synced with web, I didn't generate a bug report at the time",
-    "url": "https://x.com/fire/status/1981189476472017195",
-    "timestamp": "2025-10-23T02:42:34.000Z",
-    "metadata": {
-      "conversation_id": "1981189476472017195",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981156221492310421",
-    "source": "twitter",
-    "author": "torfunder",
-    "content": "@hnshah @karrisaarinen It’s possible. Integrated feedback capture submitted by users, classify by complexity/impact/net promoters, feed into something like @FactoryAI",
-    "url": "https://x.com/torfunder/status/1981156221492310421",
-    "timestamp": "2025-10-23T00:30:25.000Z",
-    "metadata": {
-      "conversation_id": "1981156221492310421",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
