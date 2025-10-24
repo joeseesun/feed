@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1981741727447683189",
+    "source": "twitter",
+    "author": "OxFrancesco_",
+    "content": "@PythagoraAI @GoogleAIStudio @AmpCode @FactoryAI @Zai_org Sure 💜 I'll add it to my YouTube backlog",
+    "url": "https://x.com/OxFrancesco_/status/1981741727447683189",
+    "timestamp": "2025-10-24T15:17:01.000Z",
+    "metadata": {
+      "conversation_id": "1981741727447683189",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981741000813928882",
+    "source": "twitter",
+    "author": "PythagoraAI",
+    "content": "@OxFrancesco_ @GoogleAIStudio @AmpCode @FactoryAI @Zai_org can you show us next? we would love to see your feedback",
+    "url": "https://x.com/PythagoraAI/status/1981741000813928882",
+    "timestamp": "2025-10-24T15:14:08.000Z",
+    "metadata": {
+      "conversation_id": "1981741000813928882",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981739358131560726",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Living in basement ❌\nLiving in Terminal ✅\n\nFirecrawl MCP sauce on Droid \n\n @FactoryAI 🤝 @firecrawl_dev https://t.co/dvvmSZfOLm",
+    "url": "https://x.com/CloudTrader4/status/1981739358131560726",
+    "timestamp": "2025-10-24T15:07:36.000Z",
+    "metadata": {
+      "conversation_id": "1981739358131560726",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981736263247110195",
     "source": "twitter",
     "author": "verioussmith",
@@ -8,7 +53,7 @@
     "timestamp": "2025-10-24T14:55:18.000Z",
     "metadata": {
       "conversation_id": "1981736263247110195",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -25,7 +70,7 @@
       "conversation_id": "1981736011852820693",
       "likes": 1,
       "retweets": 1,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -173,7 +218,7 @@
     "timestamp": "2025-10-24T13:37:30.000Z",
     "metadata": {
       "conversation_id": "1981716682256134384",
-      "likes": 4,
+      "likes": 5,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1981694910396067941",
-    "source": "twitter",
-    "author": "ducaswtf",
-    "content": "@jatob0y @FactoryAI que daora. tem alguma pegadinha? como posso resgatar esses tokens?",
-    "url": "https://x.com/ducaswtf/status/1981694910396067941",
-    "timestamp": "2025-10-24T12:10:59.000Z",
-    "metadata": {
-      "conversation_id": "1981694910396067941",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981693749274263714",
-    "source": "twitter",
-    "author": "jatob0y",
-    "content": "@ducaswtf Ja viu o @FactoryAI ? Estão dando 40M tokens free",
-    "url": "https://x.com/jatob0y/status/1981693749274263714",
-    "timestamp": "2025-10-24T12:06:22.000Z",
-    "metadata": {
-      "conversation_id": "1981693749274263714",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981693118337655055",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@AI_dude_eu @RayFernando1337 @FactoryAI oh sounds like a bug. if you can run /bug in the session and email support@factory.ai with a link to this thread and the bug report that'll help us a lot with fixes :) thank you",
-    "url": "https://x.com/bentossell/status/1981693118337655055",
-    "timestamp": "2025-10-24T12:03:52.000Z",
-    "metadata": {
-      "conversation_id": "1981693118337655055",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_254",
     "source": "github",
     "author": "ryzen3100",
@@ -342,7 +342,7 @@
     "id": "github_issue_250",
     "source": "github",
     "author": "byJim",
-    "content": "[Issue] Droid CLI crashes on CPUs without AVX2\n\n##  Droid CLI crashes on CPUs without AVX2\n\n### Problem\nDroid CLI v0.22.x crashes with `SIGILL` (Illegal Instruction) on CPUs that don't support AVX2. Older versions worked fine on the same hardware.\n\n### Environment\n- **OS:** Arch Linux\n- **CPU:** Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz\n- **CPU Features:** AVX but **NO AVX2**\n- **Droid Version:** 0.22.2\n\n### Error\n```\npanic(main thread): Illegal instruction at address 0x3E8000018C1\nFeatures: ... no_avx2 ...\noh no: Bun has crashed.\n```\n\n### Root",
+    "content": "[Issue] Droid CLI crashes on CPUs without AVX2\n\nDroid CLI v0.22.x crashes with `SIGILL` (Illegal Instruction) on CPUs that don't support AVX2. Older versions worked fine on the same hardware.\n\n### Environment\n- **OS:** Arch Linux\n- **CPU:** Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz\n- **CPU Features:** AVX but **NO AVX2**\n- **Droid Version:** 0.22.2\n\n### Error\n```\npanic(main thread): Illegal instruction at address 0x3E8000018C1\nFeatures: ... no_avx2 ...\noh no: Bun has crashed.\n```\n\nBun v1.3.0 (embedded in Droid) requires AVX2, but my CPU only ha",
     "url": "https://github.com/Factory-AI/factory/issues/250",
     "timestamp": "2025-10-24T02:57:11Z",
     "metadata": {
@@ -360,7 +360,7 @@
     "timestamp": "2025-10-23T22:10:56.000Z",
     "metadata": {
       "score": 0,
-      "num_comments": 9,
+      "num_comments": 11,
       "subreddit": "FactoryAi"
     }
   },
@@ -677,32 +677,6 @@
     }
   },
   {
-    "id": "reddit_1ob2dsx",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
-    "timestamp": "2025-10-19T21:56:23.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 11,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -739,6 +713,45 @@
       "type": "issue",
       "labels": [],
       "number": 212
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o89mzk",
+    "source": "reddit",
+    "author": "x86rip",
+    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
+    "timestamp": "2025-10-16T15:43:59.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o86tci",
+    "source": "reddit",
+    "author": "mr_dudo",
+    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
+    "timestamp": "2025-10-16T13:55:41.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
