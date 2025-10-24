@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1981651766178369796",
+    "source": "twitter",
+    "author": "djasnive",
+    "content": "@FactoryAI Just tell me how can i use my referals credit.",
+    "url": "https://x.com/djasnive/status/1981651766178369796",
+    "timestamp": "2025-10-24T09:19:33.000Z",
+    "metadata": {
+      "conversation_id": "1981651766178369796",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981651641830097246",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@francesca_lab @FactoryAI Great opportunity",
+    "url": "https://x.com/NathanLands/status/1981651641830097246",
+    "timestamp": "2025-10-24T09:19:03.000Z",
+    "metadata": {
+      "conversation_id": "1981651641830097246",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981646078198857802",
+    "source": "twitter",
+    "author": "AI_dude_eu",
+    "content": "@RayFernando1337 GLM is just bad with @FactoryAI, if one uses GLM custom model (https://t.co/sOOP9rW5Xq sub) it constantly fails with proper tool calls and just stops in the middle of the task. So there is some issue i think. Also Sonnet+GLM only works in non-thinking mode",
+    "url": "https://x.com/AI_dude_eu/status/1981646078198857802",
+    "timestamp": "2025-10-24T08:56:56.000Z",
+    "metadata": {
+      "conversation_id": "1981646078198857802",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_252",
     "source": "github",
     "author": "mdcnick",
@@ -126,9 +171,9 @@
     "timestamp": "2025-10-24T05:11:55.000Z",
     "metadata": {
       "conversation_id": "1981589447293419992",
-      "likes": 1,
+      "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -216,7 +261,7 @@
       "conversation_id": "1981524723399086550",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -277,52 +322,7 @@
       "likes": 2,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981503584211546333",
-    "source": "twitter",
-    "author": "bernaferrari",
-    "content": "@AliDTwitt @FactoryAI if it doesn't already support it should be very easy, they are very open about this... Let's see what they reply @bentossell",
-    "url": "https://x.com/bernaferrari/status/1981503584211546333",
-    "timestamp": "2025-10-23T23:30:43.000Z",
-    "metadata": {
-      "conversation_id": "1981503584211546333",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981503384147435589",
-    "source": "twitter",
-    "author": "bernaferrari",
-    "content": "@FactoryAI Now I need a way to use https://t.co/CD4PNOppRj subscription (for GLM) + factory credits (for Sonnet) on this schema. Then I'll happily pay @FactoryAI even if it is more expensive!!!",
-    "url": "https://x.com/bernaferrari/status/1981503384147435589",
-    "timestamp": "2025-10-23T23:29:55.000Z",
-    "metadata": {
-      "conversation_id": "1981503384147435589",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981497634134413805",
-    "source": "twitter",
-    "author": "annbordetsky",
-    "content": "Biz Ops / BD folks — 🚀 opportunity right here with @francesca_lab @FactoryAI @matanSF 👇",
-    "url": "https://x.com/annbordetsky/status/1981497634134413805",
-    "timestamp": "2025-10-23T23:07:05.000Z",
-    "metadata": {
-      "conversation_id": "1981497634134413805",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
+      "quotes": 1
     }
   },
   {
@@ -334,7 +334,7 @@
     "timestamp": "2025-10-23T22:10:56.000Z",
     "metadata": {
       "score": 0,
-      "num_comments": 7,
+      "num_comments": 8,
       "subreddit": "FactoryAi"
     }
   },
@@ -672,19 +672,6 @@
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
       "score": 9,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oazqru",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
-    "timestamp": "2025-10-19T20:10:35.000Z",
-    "metadata": {
-      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
