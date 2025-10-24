@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981691216912880054",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@crazy_tech80 @FactoryAI whats happening when loading droid? can you send a screenshot?",
+    "url": "https://x.com/bentossell/status/1981691216912880054",
+    "timestamp": "2025-10-24T11:56:18.000Z",
+    "metadata": {
+      "conversation_id": "1981691216912880054",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981683474064093365",
     "source": "twitter",
     "author": "crazy_tech80",
@@ -10,7 +25,7 @@
       "conversation_id": "1981683474064093365",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,7 +38,7 @@
     "timestamp": "2025-10-24T10:19:45.000Z",
     "metadata": {
       "conversation_id": "1981666917543977207",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -304,21 +319,6 @@
     "timestamp": "2025-10-24T00:35:29.000Z",
     "metadata": {
       "conversation_id": "1981519883180638450",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981516466047373521",
-    "source": "twitter",
-    "author": "mehkhi07",
-    "content": "@FactoryAI How does sonnet 4.5 and glm 4.6 perform?",
-    "url": "https://x.com/mehkhi07/status/1981516466047373521",
-    "timestamp": "2025-10-24T00:21:54.000Z",
-    "metadata": {
-      "conversation_id": "1981516466047373521",
       "likes": 1,
       "retweets": 0,
       "replies": 0,
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
