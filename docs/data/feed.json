@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981841364636815495",
+    "source": "twitter",
+    "author": "bakek_c",
+    "content": "@ItIsAny @hqmank @FactoryAI How to have it free?",
+    "url": "https://x.com/bakek_c/status/1981841364636815495",
+    "timestamp": "2025-10-24T21:52:56.000Z",
+    "metadata": {
+      "conversation_id": "1981841364636815495",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_258",
     "source": "github",
     "author": "britannio",
@@ -320,21 +335,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981741727447683189",
-    "source": "twitter",
-    "author": "OxFrancesco_",
-    "content": "@PythagoraAI @GoogleAIStudio @AmpCode @FactoryAI @Zai_org Sure 💜 I'll add it to my YouTube backlog",
-    "url": "https://x.com/OxFrancesco_/status/1981741727447683189",
-    "timestamp": "2025-10-24T15:17:01.000Z",
-    "metadata": {
-      "conversation_id": "1981741727447683189",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
