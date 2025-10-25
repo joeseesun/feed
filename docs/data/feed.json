@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1981892207347945747",
+    "source": "twitter",
+    "author": "mjs527",
+    "content": "just gotta lol at this one - first time on sunday night, and now second time much earlier in the week. what's the D\n@AnthropicAI ? time to go experiment with @FactoryAI again. punishing power users makes no sense https://t.co/OQqxzVzdWv",
+    "url": "https://x.com/mjs527/status/1981892207347945747",
+    "timestamp": "2025-10-25T01:14:58.000Z",
+    "metadata": {
+      "conversation_id": "1981892207347945747",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981886943437963593",
+    "source": "twitter",
+    "author": "Pranav2278",
+    "content": "@FactoryAI Support conversations over slack please\n\nNot just sending a link to the web session",
+    "url": "https://x.com/Pranav2278/status/1981886943437963593",
+    "timestamp": "2025-10-25T00:54:03.000Z",
+    "metadata": {
+      "conversation_id": "1981886943437963593",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981882459601207625",
+    "source": "twitter",
+    "author": "Pranav2278",
+    "content": "Was hyped to integrate @FactoryAI into my org\n\nBut realized I cannot just talk to the droid from slack, upon @-ing it gives a link to a session, where you can go and continue the conversation.\n\n@DevinAI is much better as I can have normal conversations with it in slack, like I would with an employee.\n\nFactory AI for sure needs this ASAP.",
+    "url": "https://x.com/Pranav2278/status/1981882459601207625",
+    "timestamp": "2025-10-25T00:36:14.000Z",
+    "metadata": {
+      "conversation_id": "1981882459601207625",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981862701677891664",
     "source": "twitter",
     "author": "garymjr",
@@ -68,7 +113,7 @@
     "timestamp": "2025-10-24T22:25:56.000Z",
     "metadata": {
       "conversation_id": "1981849667270029642",
-      "likes": 27,
+      "likes": 46,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -83,7 +128,7 @@
     "timestamp": "2025-10-24T22:05:12.000Z",
     "metadata": {
       "conversation_id": "1981844452118614421",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1981806617718055404",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@cataluna84 @FactoryAI sorry about this - looks to be a dependency issue - will get it fixed!",
-    "url": "https://x.com/bentossell/status/1981806617718055404",
-    "timestamp": "2025-10-24T19:34:52.000Z",
-    "metadata": {
-      "conversation_id": "1981806617718055404",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981806264775540972",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@OxFrancesco_ @GoogleAIStudio @AmpCode @FactoryAI @Zai_org we do have a free plan @FactoryAI :) we support BYOK",
-    "url": "https://x.com/bentossell/status/1981806264775540972",
-    "timestamp": "2025-10-24T19:33:28.000Z",
-    "metadata": {
-      "conversation_id": "1981806264775540972",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981792743086338059",
-    "source": "twitter",
-    "author": "MinChonChiSF",
-    "content": "@AdamTossell @FactoryAI GPT-5-Codex looks like a key piece of the puzzle here.",
-    "url": "https://x.com/MinChonChiSF/status/1981792743086338059",
-    "timestamp": "2025-10-24T18:39:44.000Z",
-    "metadata": {
-      "conversation_id": "1981792743086338059",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_257",
     "source": "github",
     "author": "johnhowelljr",
@@ -399,7 +399,7 @@
     "timestamp": "2025-10-23T22:10:56.000Z",
     "metadata": {
       "score": 0,
-      "num_comments": 12,
+      "num_comments": 13,
       "subreddit": "FactoryAi"
     }
   },
@@ -476,8 +476,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 2,
-      "num_comments": 7,
+      "score": 3,
+      "num_comments": 8,
       "subreddit": "FactoryAi"
     }
   },
@@ -725,19 +725,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 10,
-      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
