@@ -98,7 +98,7 @@
     "timestamp": "2025-10-25T19:46:55.000Z",
     "metadata": {
       "conversation_id": "1982172039210217473",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -235,7 +235,7 @@
       "conversation_id": "1982120870475710637",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
