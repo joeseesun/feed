@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982591069725524248",
+    "source": "twitter",
+    "author": "0xblacklight",
+    "content": "@etashio @FactoryAI Pigeon theory",
+    "url": "https://x.com/0xblacklight/status/1982591069725524248",
+    "timestamp": "2025-10-26T23:32:00.000Z",
+    "metadata": {
+      "conversation_id": "1982591069725524248",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982590245410631829",
+    "source": "twitter",
+    "author": "chasebrignac",
+    "content": "@darrenangle @etashio @FactoryAI Oh good to know!",
+    "url": "https://x.com/chasebrignac/status/1982590245410631829",
+    "timestamp": "2025-10-26T23:28:43.000Z",
+    "metadata": {
+      "conversation_id": "1982590245410631829",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982586159352967566",
     "source": "twitter",
     "author": "tsi_org",
@@ -40,7 +70,7 @@
       "conversation_id": "1982564190809387011",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982504886978883637",
-    "source": "twitter",
-    "author": "Ryanskickz",
-    "content": "@etashio @chasebrignac @FactoryAI Don’t listen to this guy he thinks he has to hit enter to approve commands. Bro doesn’t know how to use cc",
-    "url": "https://x.com/Ryanskickz/status/1982504886978883637",
-    "timestamp": "2025-10-26T17:49:32.000Z",
-    "metadata": {
-      "conversation_id": "1982504886978883637",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982501121613820042",
-    "source": "twitter",
-    "author": "youflavio",
-    "content": "@FactoryAI hey guys, when I activated my paid account, you deducted the tokens that I used during my free testing time. That's not right!",
-    "url": "https://x.com/youflavio/status/1982501121613820042",
-    "timestamp": "2025-10-26T17:34:35.000Z",
-    "metadata": {
-      "conversation_id": "1982501121613820042",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_264",
     "source": "github",
     "author": "a112121788",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
