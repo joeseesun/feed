@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982415826365067418",
+    "source": "twitter",
+    "author": "_Suresh2",
+    "content": "@etashio @FactoryAI would love to see a side by side comparison of the same task with both tools",
+    "url": "https://x.com/_Suresh2/status/1982415826365067418",
+    "timestamp": "2025-10-26T11:55:39.000Z",
+    "metadata": {
+      "conversation_id": "1982415826365067418",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982411507238633562",
     "source": "twitter",
     "author": "CyprianWetende",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982354892829430123",
-    "source": "twitter",
-    "author": "ChrisVanDerKlau",
-    "content": "@mjs527 @FactoryAI can you publish terminal bench results for GLM 4.6 ?",
-    "url": "https://x.com/ChrisVanDerKlau/status/1982354892829430123",
-    "timestamp": "2025-10-26T07:53:31.000Z",
-    "metadata": {
-      "conversation_id": "1982354892829430123",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_263",
     "source": "github",
     "author": "tgerighty",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
