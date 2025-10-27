@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1982883180446454208",
+    "source": "twitter",
+    "author": "orsaorin",
+    "content": "@ssh_sharma135 @FactoryAI This is the same request but in github copilot. The chat input is enabled during the diff view and I can keep it (approve), undo (cancel) and suggest a different change without losing the diff of what copilot wants to do https://t.co/uzfi5ecZEQ",
+    "url": "https://x.com/orsaorin/status/1982883180446454208",
+    "timestamp": "2025-10-27T18:52:45.000Z",
+    "metadata": {
+      "conversation_id": "1982883180446454208",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982882316881146341",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@SevNightingale @FactoryAI @GoogleCloudTech @Context7AI Yes and I couldn’t find a way to use gemini 2.5pro\n\nTool cools are just available to gemini2.0 models",
+    "url": "https://x.com/CloudTrader4/status/1982882316881146341",
+    "timestamp": "2025-10-27T18:49:19.000Z",
+    "metadata": {
+      "conversation_id": "1982882316881146341",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982881533234139417",
+    "source": "twitter",
+    "author": "orsaorin",
+    "content": "@ssh_sharma135 @FactoryAI I mean in \"implementation mode\". In Auto (off , low or medium), not in Spec mode. So when Droid proposes a change, there are 3 options but can't propose another approach. Need to \"cancel\", then the diff view is gone, and remember what it wanted to do to suggest a different way https://t.co/OXfZr9CBrj",
+    "url": "https://x.com/orsaorin/status/1982881533234139417",
+    "timestamp": "2025-10-27T18:46:12.000Z",
+    "metadata": {
+      "conversation_id": "1982881533234139417",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982879596933722355",
+    "source": "twitter",
+    "author": "agheieff_",
+    "content": "Ran out of @FactoryAI tokens, have to go back to Claude until the next paycheck. Legitimately can't get anything done, please send help",
+    "url": "https://x.com/agheieff_/status/1982879596933722355",
+    "timestamp": "2025-10-27T18:38:30.000Z",
+    "metadata": {
+      "conversation_id": "1982879596933722355",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982879417287512303",
+    "source": "twitter",
+    "author": "ssh_sharma135",
+    "content": "@orsaorin @FactoryAI This is currently possible! The feature is a bit hidden, but in /settings you can set 'Save spec as Markdown' to on, which will save your specs and allow you you to save and edit them",
+    "url": "https://x.com/ssh_sharma135/status/1982879417287512303",
+    "timestamp": "2025-10-27T18:37:47.000Z",
+    "metadata": {
+      "conversation_id": "1982879417287512303",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982877027981242840",
     "source": "twitter",
     "author": "StijnSmits",
@@ -68,9 +143,9 @@
     "timestamp": "2025-10-27T17:50:47.000Z",
     "metadata": {
       "conversation_id": "1982867589782216896",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -232,81 +307,6 @@
     "metadata": {
       "conversation_id": "1982858488201261402",
       "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982855728139514272",
-    "source": "twitter",
-    "author": "adrgrondin",
-    "content": "@ronaldmannak @FactoryAI @GroqInc Impressive work!\n\nFull text selection is a big thing.",
-    "url": "https://x.com/adrgrondin/status/1982855728139514272",
-    "timestamp": "2025-10-27T17:03:39.000Z",
-    "metadata": {
-      "conversation_id": "1982855728139514272",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982851713737322723",
-    "source": "twitter",
-    "author": "marcgregory_",
-    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai Droid agent is insane. What is your default model with it?",
-    "url": "https://x.com/marcgregory_/status/1982851713737322723",
-    "timestamp": "2025-10-27T16:47:42.000Z",
-    "metadata": {
-      "conversation_id": "1982851713737322723",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982850461284872489",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@steipete @_Sagiquarius_ @FactoryAI anyone do them well ?",
-    "url": "https://x.com/bentossell/status/1982850461284872489",
-    "timestamp": "2025-10-27T16:42:44.000Z",
-    "metadata": {
-      "conversation_id": "1982850461284872489",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982849505352675648",
-    "source": "twitter",
-    "author": "steipete",
-    "content": "@bentossell @_Sagiquarius_ @FactoryAI to be fair codex cli’s diffs are even worse, it mostly just python and you are blind!",
-    "url": "https://x.com/steipete/status/1982849505352675648",
-    "timestamp": "2025-10-27T16:38:56.000Z",
-    "metadata": {
-      "conversation_id": "1982849505352675648",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982846748113744346",
-    "source": "twitter",
-    "author": "Slyndc",
-    "content": "@jarrodWattsDev @FactoryAI",
-    "url": "https://x.com/Slyndc/status/1982846748113744346",
-    "timestamp": "2025-10-27T16:27:58.000Z",
-    "metadata": {
-      "conversation_id": "1982846748113744346",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
