@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1982833202105593915",
+    "source": "twitter",
+    "author": "magnumben",
+    "content": "Hey @FactoryAI \nBurned through my trial credits and am now trying to subscribe to the max plan. But it won't accept any of my Indian credit cards. I use these cards on multiple other American platforms via Link without issues. Written to support but haven't heard back. Please help!!",
+    "url": "https://x.com/magnumben/status/1982833202105593915",
+    "timestamp": "2025-10-27T15:34:09.000Z",
+    "metadata": {
+      "conversation_id": "1982833202105593915",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982832519268663537",
+    "source": "twitter",
+    "author": "daniel_nguyenx",
+    "content": "@ronaldmannak @FactoryAI @GroqInc I gave up and use a webview instead 😂",
+    "url": "https://x.com/daniel_nguyenx/status/1982832519268663537",
+    "timestamp": "2025-10-27T15:31:26.000Z",
+    "metadata": {
+      "conversation_id": "1982832519268663537",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_269",
+    "source": "github",
+    "author": "acomarcho",
+    "content": "[Issue] Droid having troubles accessing Git in remote workspace/integration via Slack\n\nI keep having to babysit it to tell they can run something like this to make it work:\n\n```\ngit config --global credential.helper store && echo \"https://factory-droid[bot]:${GH_TOKEN}@github.com\" > ~/.git-credentials 2>&1 || true\n```\n\nAs a result, most of my runs using Haiku/Codex just stopped and not create an actual PR afterwards because of this.\n\nSome sample screenshots showing it was struggling:\n\n<img width=\"512\" height=\"399\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/17d1b4b",
+    "url": "https://github.com/Factory-AI/factory/issues/269",
+    "timestamp": "2025-10-27T15:25:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 269
+    }
+  },
+  {
     "id": "twitter_1982829393417519611",
     "source": "twitter",
     "author": "contxtkng",
@@ -68,7 +111,7 @@
     "timestamp": "2025-10-27T14:57:29.000Z",
     "metadata": {
       "conversation_id": "1982823974271959235",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -292,36 +335,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982740073666986040",
-    "source": "twitter",
-    "author": "dctmfoo",
-    "content": "@SvenMeyer @golang @FactoryAI Sonnet 4.5",
-    "url": "https://x.com/dctmfoo/status/1982740073666986040",
-    "timestamp": "2025-10-27T09:24:05.000Z",
-    "metadata": {
-      "conversation_id": "1982740073666986040",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982735458594635954",
-    "source": "twitter",
-    "author": "MirAI_Newz",
-    "content": "@FactoryAI Hey guys, are you planning on implementing Minimax M2 as well?",
-    "url": "https://x.com/MirAI_Newz/status/1982735458594635954",
-    "timestamp": "2025-10-27T09:05:45.000Z",
-    "metadata": {
-      "conversation_id": "1982735458594635954",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -677,19 +690,6 @@
     }
   },
   {
-    "id": "github_issue_226",
-    "source": "github",
-    "author": "britannio",
-    "content": "[Issue] MCP tools are not available when using `droid exec`\n\n<img width=\"4064\" height=\"2334\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/39cb7733-4906-445c-9877-6cff44ab29a3\" />\n\n\n\n~/.factory/mcp.json\n```json\n{\n  \"mcpServers\": {\n    \"playwright\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"@playwright/mcp@latest\"\n      ]\n    }\n  }\n}\n```",
-    "url": "https://github.com/Factory-AI/factory/issues/226",
-    "timestamp": "2025-10-21T10:39:22Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 226
-    }
-  },
-  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {
