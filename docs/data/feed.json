@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982858488201261402",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@bentossell @_Sagiquarius_ @FactoryAI * looks at @warpdotdev *",
+    "url": "https://x.com/steipete/status/1982858488201261402",
+    "timestamp": "2025-10-27T17:14:37.000Z",
+    "metadata": {
+      "conversation_id": "1982858488201261402",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982855728139514272",
+    "source": "twitter",
+    "author": "adrgrondin",
+    "content": "@ronaldmannak @FactoryAI @GroqInc Impressive work!\n\nFull text selection is a big thing.",
+    "url": "https://x.com/adrgrondin/status/1982855728139514272",
+    "timestamp": "2025-10-27T17:03:39.000Z",
+    "metadata": {
+      "conversation_id": "1982855728139514272",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982851713737322723",
     "source": "twitter",
     "author": "marcgregory_",
@@ -25,7 +55,7 @@
       "conversation_id": "1982850461284872489",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982823170710131061",
-    "source": "twitter",
-    "author": "MirAI_Newz",
-    "content": "@bentossell @FactoryAI 💜",
-    "url": "https://x.com/MirAI_Newz/status/1982823170710131061",
-    "timestamp": "2025-10-27T14:54:17.000Z",
-    "metadata": {
-      "conversation_id": "1982823170710131061",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982823065772761442",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@MirAI_Newz @FactoryAI we'll look into testing it - you can add with byok for now :)",
-    "url": "https://x.com/bentossell/status/1982823065772761442",
-    "timestamp": "2025-10-27T14:53:52.000Z",
-    "metadata": {
-      "conversation_id": "1982823065772761442",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_268",
     "source": "github",
     "author": "tickideas",
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -726,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {
