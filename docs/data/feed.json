@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1982907776532918358",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@danshipper @FactoryAI I’m also an every shill so ofc I did",
+    "url": "https://x.com/DannyAziz97/status/1982907776532918358",
+    "timestamp": "2025-10-27T20:30:29.000Z",
+    "metadata": {
+      "conversation_id": "1982907776532918358",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982906407780589637",
+    "source": "twitter",
+    "author": "danshipper",
+    "content": "@DannyAziz97 @FactoryAI Invite them to droid camp bro",
+    "url": "https://x.com/danshipper/status/1982906407780589637",
+    "timestamp": "2025-10-27T20:25:02.000Z",
+    "metadata": {
+      "conversation_id": "1982906407780589637",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982906205904482709",
+    "source": "twitter",
+    "author": "fredrivett",
+    "content": "@DannyAziz97 @FactoryAI so good he’s booked in a recurring meeting",
+    "url": "https://x.com/fredrivett/status/1982906205904482709",
+    "timestamp": "2025-10-27T20:24:14.000Z",
+    "metadata": {
+      "conversation_id": "1982906205904482709",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982905546236944787",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@DannyAziz97 @FactoryAI ♥️",
+    "url": "https://x.com/francesca_lab/status/1982905546236944787",
+    "timestamp": "2025-10-27T20:21:37.000Z",
+    "metadata": {
+      "conversation_id": "1982905546236944787",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982904044986478877",
     "source": "twitter",
     "author": "DannyAziz97",
@@ -8,9 +68,9 @@
     "timestamp": "2025-10-27T20:15:39.000Z",
     "metadata": {
       "conversation_id": "1982904044986478877",
-      "likes": 1,
+      "likes": 4,
       "retweets": 0,
-      "replies": 0,
+      "replies": 4,
       "quotes": 0
     }
   },
@@ -53,7 +113,7 @@
     "timestamp": "2025-10-27T20:01:34.000Z",
     "metadata": {
       "conversation_id": "1982900502204690809",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982879417287512303",
-    "source": "twitter",
-    "author": "ssh_sharma135",
-    "content": "@orsaorin @FactoryAI This is currently possible! The feature is a bit hidden, but in /settings you can set 'Save spec as Markdown' to on, which will save your specs and allow you you to save and edit them",
-    "url": "https://x.com/ssh_sharma135/status/1982879417287512303",
-    "timestamp": "2025-10-27T18:37:47.000Z",
-    "metadata": {
-      "conversation_id": "1982879417287512303",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982877027981242840",
-    "source": "twitter",
-    "author": "StijnSmits",
-    "content": "Claude finds Codex superior in @FactoryAI - happens numerous times now",
-    "url": "https://x.com/StijnSmits/status/1982877027981242840",
-    "timestamp": "2025-10-27T18:28:18.000Z",
-    "metadata": {
-      "conversation_id": "1982877027981242840",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982876252391510378",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@orsaorin @FactoryAI been discussing this situation! why doesn’t the extension in vscode satisfy this ?",
-    "url": "https://x.com/bentossell/status/1982876252391510378",
-    "timestamp": "2025-10-27T18:25:13.000Z",
-    "metadata": {
-      "conversation_id": "1982876252391510378",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982876245621911977",
-    "source": "twitter",
-    "author": "M2Fauzaan",
-    "content": "@ronaldmannak @FactoryAI @GroqInc Nice work 🙌🏻\nIs it open source?",
-    "url": "https://x.com/M2Fauzaan/status/1982876245621911977",
-    "timestamp": "2025-10-27T18:25:11.000Z",
-    "metadata": {
-      "conversation_id": "1982876245621911977",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_270",
     "source": "github",
     "author": "diegodev9",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
