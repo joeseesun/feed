@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1983297856636367328",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @abhagsain @FactoryAI cool, so whenever 22.5 drops? ( this is on 22.4 )",
+    "url": "https://x.com/fire/status/1983297856636367328",
+    "timestamp": "2025-10-28T22:20:31.000Z",
+    "metadata": {
+      "conversation_id": "1983297856636367328",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983295717675499986",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@fire @abhagsain @FactoryAI another fix hopefully out today",
+    "url": "https://x.com/bentossell/status/1983295717675499986",
+    "timestamp": "2025-10-28T22:12:01.000Z",
+    "metadata": {
+      "conversation_id": "1983295717675499986",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983294972729405882",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @abhagsain @FactoryAI sent you an email with some bug reports as I'm seeing these readonly property errors again",
+    "url": "https://x.com/fire/status/1983294972729405882",
+    "timestamp": "2025-10-28T22:09:03.000Z",
+    "metadata": {
+      "conversation_id": "1983294972729405882",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983292671713304591",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "Grok’s currently 27th on Terminal Bench.\n\nCan @FactoryAI lift Grok into the top 10 with Droid?",
+    "url": "https://x.com/geo_anima/status/1983292671713304591",
+    "timestamp": "2025-10-28T21:59:55.000Z",
+    "metadata": {
+      "conversation_id": "1983292671713304591",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983290807927914856",
     "source": "twitter",
     "author": "EddieBe",
@@ -53,7 +113,7 @@
     "timestamp": "2025-10-28T21:34:50.000Z",
     "metadata": {
       "conversation_id": "1983286359675830526",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 1
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983269091252285793",
-    "source": "twitter",
-    "author": "ben_rapaport",
-    "content": "@matanSF @FactoryAI @AmpCode What I am working on today is a key part of a major client pitch we have coming up. If we close them based on this work, i'll credit that to Factory.",
-    "url": "https://x.com/ben_rapaport/status/1983269091252285793",
-    "timestamp": "2025-10-28T20:26:13.000Z",
-    "metadata": {
-      "conversation_id": "1983269091252285793",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983267710130892955",
-    "source": "twitter",
-    "author": "Pranav2278",
-    "content": "@FactoryAI Can we get 2 way communication in slack like Devin has?\n\nI like your product, but I need it as an employee",
-    "url": "https://x.com/Pranav2278/status/1983267710130892955",
-    "timestamp": "2025-10-28T20:20:44.000Z",
-    "metadata": {
-      "conversation_id": "1983267710130892955",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983267369205281062",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@FactoryAI I need this btw https://t.co/qp70CTHzkP",
-    "url": "https://x.com/CloudTrader4/status/1983267369205281062",
-    "timestamp": "2025-10-28T20:19:22.000Z",
-    "metadata": {
-      "conversation_id": "1983267369205281062",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983267313173594229",
-    "source": "twitter",
-    "author": "karanjagtiani04",
-    "content": "@hqmank @FactoryAI @Hailuo_AI Any updates on the Grok x Droid performance? Curious to see those benchmark results.",
-    "url": "https://x.com/karanjagtiani04/status/1983267313173594229",
-    "timestamp": "2025-10-28T20:19:09.000Z",
-    "metadata": {
-      "conversation_id": "1983267313173594229",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
