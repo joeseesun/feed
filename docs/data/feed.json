@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983311802730742159",
+    "source": "twitter",
+    "author": "KalGrinberg",
+    "content": "@EddieBe @FactoryAI lfg 🔥",
+    "url": "https://x.com/KalGrinberg/status/1983311802730742159",
+    "timestamp": "2025-10-28T23:15:56.000Z",
+    "metadata": {
+      "conversation_id": "1983311802730742159",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983311704890192091",
+    "source": "twitter",
+    "author": "EddieBe",
+    "content": "@francesca_lab @matanSF @FactoryAI is it something i said/did that got my org flagged? i used it for like maybe an hour. less.",
+    "url": "https://x.com/EddieBe/status/1983311704890192091",
+    "timestamp": "2025-10-28T23:15:33.000Z",
+    "metadata": {
+      "conversation_id": "1983311704890192091",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983311424723267893",
+    "source": "twitter",
+    "author": "fredrivett",
+    "content": "@FrancoE114696 @aidenybai @FactoryAI @AmpCode @windsurf @shadcn @base_ui @reui_io @storybookjs @playwrightweb @vitest_dev @bunjavascript @prisma @supabase @ExaAILabs @mastra_ai ai is moving super fast and i’ve only used it for a couple months but it’s been a useful level up from ai sdk",
+    "url": "https://x.com/fredrivett/status/1983311424723267893",
+    "timestamp": "2025-10-28T23:14:26.000Z",
+    "metadata": {
+      "conversation_id": "1983311424723267893",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983302723966841232",
     "source": "twitter",
     "author": "EddieBe",
@@ -25,7 +70,7 @@
       "conversation_id": "1983302553271185820",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -128,9 +173,9 @@
     "timestamp": "2025-10-28T21:52:31.000Z",
     "metadata": {
       "conversation_id": "1983290807927914856",
-      "likes": 2,
+      "likes": 5,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -173,7 +218,7 @@
     "timestamp": "2025-10-28T21:34:50.000Z",
     "metadata": {
       "conversation_id": "1983286359675830526",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 1
@@ -248,51 +293,6 @@
     "timestamp": "2025-10-28T21:06:30.000Z",
     "metadata": {
       "conversation_id": "1983279227421270100",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983276795609919875",
-    "source": "twitter",
-    "author": "ThatImagin4361",
-    "content": "Sitting at my day job Droiding, Cursoring, and Clining to my dream job 🚀 \n\n@FactoryAI @cursor_ai @cline",
-    "url": "https://x.com/ThatImagin4361/status/1983276795609919875",
-    "timestamp": "2025-10-28T20:56:50.000Z",
-    "metadata": {
-      "conversation_id": "1983276795609919875",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983275496214519923",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@FactoryAI Exciting update! This suggests a focus on streamlined workflows and enhanced collaboration. These features could boost efficiency and quality.",
-    "url": "https://x.com/codewithimanshu/status/1983275496214519923",
-    "timestamp": "2025-10-28T20:51:40.000Z",
-    "metadata": {
-      "conversation_id": "1983275496214519923",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983273360990822793",
-    "source": "twitter",
-    "author": "verioussmith",
-    "content": "@FactoryAI Can you guys release a Universal Binary for Intel based Macs?",
-    "url": "https://x.com/verioussmith/status/1983273360990822793",
-    "timestamp": "2025-10-28T20:43:11.000Z",
-    "metadata": {
-      "conversation_id": "1983273360990822793",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -726,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
