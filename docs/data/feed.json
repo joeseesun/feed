@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1983153490382991519",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "Every now and then @FactoryAI Droid goes mad in the terminal. Is there a solution for this or we just silent quit and relaunch ? https://t.co/0ZI2UoFvcg",
+    "url": "https://x.com/Ricardo_Nth/status/1983153490382991519",
+    "timestamp": "2025-10-28T12:46:51.000Z",
+    "metadata": {
+      "conversation_id": "1983153490382991519",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983150653196382389",
+    "source": "twitter",
+    "author": "dalu_hey",
+    "content": "@alvinsng @FactoryAI as if not other cli does the same.\nSo many shills",
+    "url": "https://x.com/dalu_hey/status/1983150653196382389",
+    "timestamp": "2025-10-28T12:35:35.000Z",
+    "metadata": {
+      "conversation_id": "1983150653196382389",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983146848031535400",
+    "source": "twitter",
+    "author": "cirucetam",
+    "content": "@pancrisp @CloudTrader4 @FactoryAI Please give a link for the tutorial please",
+    "url": "https://x.com/cirucetam/status/1983146848031535400",
+    "timestamp": "2025-10-28T12:20:28.000Z",
+    "metadata": {
+      "conversation_id": "1983146848031535400",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983146661699563546",
+    "source": "twitter",
+    "author": "1Bexly",
+    "content": "@BasedBeffJezos @FactoryAI May have to try this combo 👀👀",
+    "url": "https://x.com/1Bexly/status/1983146661699563546",
+    "timestamp": "2025-10-28T12:19:43.000Z",
+    "metadata": {
+      "conversation_id": "1983146661699563546",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983146551716299060",
+    "source": "twitter",
+    "author": "1Bexly",
+    "content": "@FactoryAI @awscloud This is huge, congrats!! 🔥🔥🤝",
+    "url": "https://x.com/1Bexly/status/1983146551716299060",
+    "timestamp": "2025-10-28T12:19:17.000Z",
+    "metadata": {
+      "conversation_id": "1983146551716299060",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983146093463646252",
+    "source": "twitter",
+    "author": "AliDTwitt",
+    "content": "Has anyone successfully managed to get GLM 4.6 MLX running locally to work in @FactoryAI Droid?",
+    "url": "https://x.com/AliDTwitt/status/1983146093463646252",
+    "timestamp": "2025-10-28T12:17:28.000Z",
+    "metadata": {
+      "conversation_id": "1983146093463646252",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983145933266092504",
+    "source": "twitter",
+    "author": "arnaud_breton",
+    "content": "@bentossell @FactoryAI Sorry I didn’t mention, on the screenshot it was running GPT OSS 20b in LMStudio",
+    "url": "https://x.com/arnaud_breton/status/1983145933266092504",
+    "timestamp": "2025-10-28T12:16:50.000Z",
+    "metadata": {
+      "conversation_id": "1983145933266092504",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983143607373562340",
+    "source": "twitter",
+    "author": "oscarfogelstrm",
+    "content": "Factory Droid acting up in Cursor 😅😬\n\n @cursor_ai  @FactoryAI https://t.co/IRzr6fQ0zT",
+    "url": "https://x.com/oscarfogelstrm/status/1983143607373562340",
+    "timestamp": "2025-10-28T12:07:35.000Z",
+    "metadata": {
+      "conversation_id": "1983143607373562340",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983112248827531572",
     "source": "twitter",
     "author": "pascallammers_",
@@ -8,7 +128,7 @@
     "timestamp": "2025-10-28T10:02:59.000Z",
     "metadata": {
       "conversation_id": "1983112248827531572",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +188,7 @@
     "timestamp": "2025-10-28T07:46:31.000Z",
     "metadata": {
       "conversation_id": "1983077905031713096",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -128,7 +248,7 @@
     "timestamp": "2025-10-28T06:54:24.000Z",
     "metadata": {
       "conversation_id": "1983064790152233211",
-      "likes": 8,
+      "likes": 10,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -180,81 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983028229368885530",
-    "source": "twitter",
-    "author": "hqmank",
-    "content": "Hi Factory AI! We need Droid + MiniMax M2, let's make it happen together.\n@FactoryAI\n@Hailuo_AI https://t.co/XCwBYGZsH1",
-    "url": "https://x.com/hqmank/status/1983028229368885530",
-    "timestamp": "2025-10-28T04:29:07.000Z",
-    "metadata": {
-      "conversation_id": "1983028229368885530",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983025670688256439",
-    "source": "twitter",
-    "author": "alvinsng",
-    "content": "@colesmcintosh @FactoryAI Personally I prefer \"The unit tests are failing, be the change that you wish to see in the world\"",
-    "url": "https://x.com/alvinsng/status/1983025670688256439",
-    "timestamp": "2025-10-28T04:18:57.000Z",
-    "metadata": {
-      "conversation_id": "1983025670688256439",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983024670736892226",
-    "source": "twitter",
-    "author": "LzyIndTky",
-    "content": "Factory  + Sonnet 4.5 = GOATed\nFactory + GPT-5-Codex = Value Efficient \n\n@FactoryAI @OpenAI @AnthropicAI",
-    "url": "https://x.com/LzyIndTky/status/1983024670736892226",
-    "timestamp": "2025-10-28T04:14:58.000Z",
-    "metadata": {
-      "conversation_id": "1983024670736892226",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983022507687821775",
-    "source": "twitter",
-    "author": "Vtrivedy10",
-    "content": "biased as i wrote blog on this topic but tldr:\n- Factory Droid/codex/CC/AMP are all coding agents, they’re products!\n- But they’re each products that take a very opinionated and careful design for what “stuff” to put around the model to make them good at coding.  Tool design, system prompts, multi-model choices, subagent design, etc.  All of that stuff is the “harness”, ie. the set of things you put around the model to get the best perf for your task\n- this is because models have spiky intelligence across tasks and are non-fungible in a harness, so you can optimize the stuff around them to elicit the best perf for your task\n- finally, there’s a world where Harness Design is open!  DeepAgents from @LangChainAI is one of example at the first steps towards that, where you start with an opinionated harness but users have freedom to edit all parts of it.  There will be a place for both design choices imo\n\nhttps://t.co/x0FFnkmVZQ",
-    "url": "https://x.com/Vtrivedy10/status/1983022507687821775",
-    "timestamp": "2025-10-28T04:06:23.000Z",
-    "metadata": {
-      "conversation_id": "1983022507687821775",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983022132700557753",
-    "source": "twitter",
-    "author": "AsimPaudel4",
-    "content": "@cmricksen @FactoryAI yeah sure. 😇",
-    "url": "https://x.com/AsimPaudel4/status/1983022132700557753",
-    "timestamp": "2025-10-28T04:04:53.000Z",
-    "metadata": {
-      "conversation_id": "1983022132700557753",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_272",
     "source": "github",
     "author": "alphatheory-ccarneiro",
@@ -265,51 +310,6 @@
       "type": "issue",
       "labels": [],
       "number": 272
-    }
-  },
-  {
-    "id": "twitter_1983021136872079748",
-    "source": "twitter",
-    "author": "WARobins",
-    "content": "@FactoryAI @awscloud Awesome news @FactoryAI @awscloud",
-    "url": "https://x.com/WARobins/status/1983021136872079748",
-    "timestamp": "2025-10-28T04:00:56.000Z",
-    "metadata": {
-      "conversation_id": "1983021136872079748",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983017137779421343",
-    "source": "twitter",
-    "author": "M2Fauzaan",
-    "content": "@ronaldmannak @FactoryAI @GroqInc I'll keep this in my radar. I'm looking for a good render for @pluk_sh",
-    "url": "https://x.com/M2Fauzaan/status/1983017137779421343",
-    "timestamp": "2025-10-28T03:45:02.000Z",
-    "metadata": {
-      "conversation_id": "1983017137779421343",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983004587914314031",
-    "source": "twitter",
-    "author": "GitMaxd",
-    "content": "@alvinsng @FactoryAI I knew you knew \n\nBut think of the humans!",
-    "url": "https://x.com/GitMaxd/status/1983004587914314031",
-    "timestamp": "2025-10-28T02:55:10.000Z",
-    "metadata": {
-      "conversation_id": "1983004587914314031",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
