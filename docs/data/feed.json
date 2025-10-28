@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983171217768251438",
+    "source": "twitter",
+    "author": "sir4K_zen",
+    "content": "@FactoryAI @awscloud Exciting times! Can't wait to see how this boosts efficiency and collaboration.",
+    "url": "https://x.com/sir4K_zen/status/1983171217768251438",
+    "timestamp": "2025-10-28T13:57:18.000Z",
+    "metadata": {
+      "conversation_id": "1983171217768251438",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983170696906981425",
+    "source": "twitter",
+    "author": "TCGsealed",
+    "content": "@orsaorin @FactoryAI give @warpdotdev a try",
+    "url": "https://x.com/TCGsealed/status/1983170696906981425",
+    "timestamp": "2025-10-28T13:55:14.000Z",
+    "metadata": {
+      "conversation_id": "1983170696906981425",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983165634755375318",
     "source": "twitter",
     "author": "karanjagtiani04",
@@ -38,7 +68,7 @@
     "timestamp": "2025-10-28T13:28:56.000Z",
     "metadata": {
       "conversation_id": "1983164078563700936",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -264,36 +294,6 @@
     "metadata": {
       "conversation_id": "1983146661699563546",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983146551716299060",
-    "source": "twitter",
-    "author": "1Bexly",
-    "content": "@FactoryAI @awscloud This is huge, congrats!! 🔥🔥🤝",
-    "url": "https://x.com/1Bexly/status/1983146551716299060",
-    "timestamp": "2025-10-28T12:19:17.000Z",
-    "metadata": {
-      "conversation_id": "1983146551716299060",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983146093463646252",
-    "source": "twitter",
-    "author": "AliDTwitt",
-    "content": "Has anyone successfully managed to get GLM 4.6 MLX running locally to work in @FactoryAI Droid?",
-    "url": "https://x.com/AliDTwitt/status/1983146093463646252",
-    "timestamp": "2025-10-28T12:17:28.000Z",
-    "metadata": {
-      "conversation_id": "1983146093463646252",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
