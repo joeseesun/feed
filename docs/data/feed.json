@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1983365777790292059",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@1Bexly @FactoryAI 🤝",
+    "url": "https://x.com/francesca_lab/status/1983365777790292059",
+    "timestamp": "2025-10-29T02:50:25.000Z",
+    "metadata": {
+      "conversation_id": "1983365777790292059",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983365467017461956",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@MickeyShaughnes @FactoryAI Glad you’re liking droid! Send any feedback our way",
+    "url": "https://x.com/francesca_lab/status/1983365467017461956",
+    "timestamp": "2025-10-29T02:49:11.000Z",
+    "metadata": {
+      "conversation_id": "1983365467017461956",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983361893466284476",
+    "source": "twitter",
+    "author": "SkylerMiao7",
+    "content": "@SvenMeyer @MiniMax__AI @FactoryAI Sure, check the guide here!\r And we are  working with them to integrate M2 officially\nhttps://t.co/TumiwtAg3Q",
+    "url": "https://x.com/SkylerMiao7/status/1983361893466284476",
+    "timestamp": "2025-10-29T02:34:59.000Z",
+    "metadata": {
+      "conversation_id": "1983361893466284476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983357247146315835",
+    "source": "twitter",
+    "author": "archimagos",
+    "content": "@davidrsdlife @EddieBe @FactoryAI More like a class of its own 😄",
+    "url": "https://x.com/archimagos/status/1983357247146315835",
+    "timestamp": "2025-10-29T02:16:31.000Z",
+    "metadata": {
+      "conversation_id": "1983357247146315835",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983349687416697073",
     "source": "twitter",
     "author": "launchaddict",
@@ -23,7 +83,7 @@
     "timestamp": "2025-10-29T01:28:31.000Z",
     "metadata": {
       "conversation_id": "1983345168440017385",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,7 +113,7 @@
     "timestamp": "2025-10-29T00:45:46.000Z",
     "metadata": {
       "conversation_id": "1983334409647599841",
-      "likes": 12,
+      "likes": 19,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -68,7 +128,7 @@
     "timestamp": "2025-10-29T00:43:04.000Z",
     "metadata": {
       "conversation_id": "1983333731025953066",
-      "likes": 5,
+      "likes": 8,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,7 +158,7 @@
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 4,
+      "num_comments": 5,
       "subreddit": "FactoryAi"
     }
   },
@@ -126,9 +186,9 @@
     "timestamp": "2025-10-28T23:28:51.000Z",
     "metadata": {
       "conversation_id": "1983315053206974956",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -249,66 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983295717675499986",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@fire @abhagsain @FactoryAI another fix hopefully out today",
-    "url": "https://x.com/bentossell/status/1983295717675499986",
-    "timestamp": "2025-10-28T22:12:01.000Z",
-    "metadata": {
-      "conversation_id": "1983295717675499986",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983294972729405882",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@bentossell @abhagsain @FactoryAI sent you an email with some bug reports as I'm seeing these readonly property errors again",
-    "url": "https://x.com/fire/status/1983294972729405882",
-    "timestamp": "2025-10-28T22:09:03.000Z",
-    "metadata": {
-      "conversation_id": "1983294972729405882",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983292671713304591",
-    "source": "twitter",
-    "author": "geo_anima",
-    "content": "Grok’s currently 27th on Terminal Bench.\n\nCan @FactoryAI lift Grok into the top 10 with Droid?",
-    "url": "https://x.com/geo_anima/status/1983292671713304591",
-    "timestamp": "2025-10-28T21:59:55.000Z",
-    "metadata": {
-      "conversation_id": "1983292671713304591",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983290807927914856",
-    "source": "twitter",
-    "author": "EddieBe",
-    "content": "take it back. i don’t dig it. \n\nI LOVE IT!!!!!!! \n\n@FactoryAI https://t.co/0futxJns8p",
-    "url": "https://x.com/EddieBe/status/1983290807927914856",
-    "timestamp": "2025-10-28T21:52:31.000Z",
-    "metadata": {
-      "conversation_id": "1983290807927914856",
-      "likes": 9,
-      "retweets": 0,
-      "replies": 2,
       "quotes": 0
     }
   },
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -684,21 +684,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
       "score": 3,
-      "num_comments": 1,
+      "num_comments": 15,
       "subreddit": "FactoryAi"
     }
   },
@@ -713,6 +700,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
