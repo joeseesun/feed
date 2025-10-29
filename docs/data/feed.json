@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983679417215021487",
+    "source": "twitter",
+    "author": "jamiepoker12",
+    "content": "@explosivesox @FactoryAI @BlinkOnChain I finally can bet responsibly",
+    "url": "https://x.com/jamiepoker12/status/1983679417215021487",
+    "timestamp": "2025-10-29T23:36:42.000Z",
+    "metadata": {
+      "conversation_id": "1983679417215021487",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983678499216093383",
+    "source": "twitter",
+    "author": "bechiche_",
+    "content": "Droid is good , @factoryai cooking 🧑‍🍳",
+    "url": "https://x.com/bechiche_/status/1983678499216093383",
+    "timestamp": "2025-10-29T23:33:03.000Z",
+    "metadata": {
+      "conversation_id": "1983678499216093383",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983677909979074701",
+    "source": "twitter",
+    "author": "ladi_akande",
+    "content": "Interesting times. I never tried codex. I use @claudeai and @FactoryAI",
+    "url": "https://x.com/ladi_akande/status/1983677909979074701",
+    "timestamp": "2025-10-29T23:30:43.000Z",
+    "metadata": {
+      "conversation_id": "1983677909979074701",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983674783960338916",
     "source": "twitter",
     "author": "CloudTrader4",
@@ -128,9 +173,9 @@
     "timestamp": "2025-10-29T21:53:32.000Z",
     "metadata": {
       "conversation_id": "1983653452296417491",
-      "likes": 5,
-      "retweets": 1,
-      "replies": 2,
+      "likes": 6,
+      "retweets": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983630676424585602",
-    "source": "twitter",
-    "author": "EnoReyes",
-    "content": "@JuiceSharp @FactoryAI Agreed on slash command position arguments. Some native commands do (e.g. mcp) but working on fixing this!",
-    "url": "https://x.com/EnoReyes/status/1983630676424585602",
-    "timestamp": "2025-10-29T20:23:01.000Z",
-    "metadata": {
-      "conversation_id": "1983630676424585602",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983629493114904794",
-    "source": "twitter",
-    "author": "JuiceSharp",
-    "content": "A few observations from using @FactoryAI for the last month.\n\nI'll start with the downsides:\n\n- Using Sonnet 4.5 in conjunction with spec-driven development is highly expensive (price per token).\n- Slash commands don't work with positional arguments or somehow ignore arguments (vs. CC). This is a bit annoying—I have commands that handle both empty and non-empty arguments, but habits developed in CC are very difficult to fight.\n\nOn the bright side:\n\n- The agent is enormously smart and capable. Same codebase, same tasks, same specs—I do believe droid is 10-15% above Claude Code with a high level of confidence (and I am a daily user and huge fan of CC).\n- I use GLM 4.6  model with droid as an ad-hoc assistant agent or for simple routine tasks.\n- I use Sonnet 4.5 high + droid as the last-mile agent.\n- I use droid to nail the most annoying or complex issues faster along the specs (thanks to the support of subagents and slash commands that can be migrated with almost no changes from Claude Code).\n- The agent is token-efficient (my best assumption: very good search heuristics and scaffolding under the hood).\n\nI found the agent too useful not to pay $20 just to have such a handy tool in daily possession.",
-    "url": "https://x.com/JuiceSharp/status/1983629493114904794",
-    "timestamp": "2025-10-29T20:18:19.000Z",
-    "metadata": {
-      "conversation_id": "1983629493114904794",
-      "likes": 10,
-      "retweets": 0,
-      "replies": 3,
-      "quotes": 1
-    }
-  },
-  {
-    "id": "twitter_1983624251983974419",
-    "source": "twitter",
-    "author": "danshipper",
-    "content": "thanks droid\n\n@FactoryAI https://t.co/RN36IgnruF",
-    "url": "https://x.com/danshipper/status/1983624251983974419",
-    "timestamp": "2025-10-29T19:57:30.000Z",
-    "metadata": {
-      "conversation_id": "1983624251983974419",
-      "likes": 22,
-      "retweets": 3,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
