@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983663917646987369",
+    "source": "twitter",
+    "author": "explosivesox",
+    "content": "@RealestInvesta @FactoryAI @BlinkOnChain vibe coders ==🤝 == vibe traders",
+    "url": "https://x.com/explosivesox/status/1983663917646987369",
+    "timestamp": "2025-10-29T22:35:07.000Z",
+    "metadata": {
+      "conversation_id": "1983663917646987369",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983663072255648255",
+    "source": "twitter",
+    "author": "RealestInvesta",
+    "content": "@explosivesox @FactoryAI @BlinkOnChain Why need all this when you can just “feel” the market",
+    "url": "https://x.com/RealestInvesta/status/1983663072255648255",
+    "timestamp": "2025-10-29T22:31:45.000Z",
+    "metadata": {
+      "conversation_id": "1983663072255648255",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983662087047168472",
     "source": "twitter",
     "author": "BillCrosby",
@@ -38,7 +68,7 @@
     "timestamp": "2025-10-29T21:56:07.000Z",
     "metadata": {
       "conversation_id": "1983654105781604358",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,9 +98,9 @@
     "timestamp": "2025-10-29T21:53:32.000Z",
     "metadata": {
       "conversation_id": "1983653452296417491",
-      "likes": 4,
+      "likes": 5,
       "retweets": 1,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -266,36 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983608228765429920",
-    "source": "twitter",
-    "author": "TreeLakeRain",
-    "content": "@MickeyShaughnes @FactoryAI I don’t know what any of you kids are talking about",
-    "url": "https://x.com/TreeLakeRain/status/1983608228765429920",
-    "timestamp": "2025-10-29T18:53:50.000Z",
-    "metadata": {
-      "conversation_id": "1983608228765429920",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983606273263489451",
-    "source": "twitter",
-    "author": "gootecks",
-    "content": "@pascallammers_ @FactoryAI But how do you get them to activate consistently?",
-    "url": "https://x.com/gootecks/status/1983606273263489451",
-    "timestamp": "2025-10-29T18:46:03.000Z",
-    "metadata": {
-      "conversation_id": "1983606273263489451",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
