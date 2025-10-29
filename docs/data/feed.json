@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983523048037994748",
+    "source": "twitter",
+    "author": "YourDesigncoza",
+    "content": "@FactoryAI I love your product, I REALY would love to move on to Subscription, here's the thing, $20 not enough tokens, $200 way tooo many tokens a plan in-between would be GREAT !",
+    "url": "https://x.com/YourDesigncoza/status/1983523048037994748",
+    "timestamp": "2025-10-29T13:15:21.000Z",
+    "metadata": {
+      "conversation_id": "1983523048037994748",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983511956137910432",
     "source": "twitter",
     "author": "EddieBe",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983500340449202345",
-    "source": "twitter",
-    "author": "metaforismoo",
-    "content": "@FactoryAI I love Factory, I'm working on some incredible projects. I'd only tried AMP because it had a free plan, and @cursor_ai and also @warpdotdev, I never tried Claude Code and Codex because I'm a student and I don't have all that money for subscriptions, but Factory is worth it.",
-    "url": "https://x.com/metaforismoo/status/1983500340449202345",
-    "timestamp": "2025-10-29T11:45:07.000Z",
-    "metadata": {
-      "conversation_id": "1983500340449202345",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_279",
     "source": "github",
     "author": "denysvitali",
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -677,6 +677,19 @@
     }
   },
   {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1ocpe9w",
     "source": "reddit",
     "author": "FocusResponsible4499",
@@ -700,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
