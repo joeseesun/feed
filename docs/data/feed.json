@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984009378975060161",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "Is Droid having issues? I am getting \nError: 413 {\"error\":{\"code\":\"413\",\"message\":\"Request Entity Too Large\"}}\n\n@FactoryAI",
+    "url": "https://x.com/nathanpareo/status/1984009378975060161",
+    "timestamp": "2025-10-30T21:27:51.000Z",
+    "metadata": {
+      "conversation_id": "1984009378975060161",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984007777535344671",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @FactoryAI o7\n\nI would like to see live command output when running stuff in bash mode; right now it seems like I only get the output once it completes? ( this script[1] is running ffmpeg and encoding a video for example, but the cli only flushed the response[2] on its exit ) https://t.co/ksmlMoAJJT",
+    "url": "https://x.com/fire/status/1984007777535344671",
+    "timestamp": "2025-10-30T21:21:29.000Z",
+    "metadata": {
+      "conversation_id": "1984007777535344671",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984003220558246405",
     "source": "twitter",
     "author": "LevJampolsky",
@@ -98,7 +128,7 @@
     "timestamp": "2025-10-30T19:58:17.000Z",
     "metadata": {
       "conversation_id": "1983986837644628137",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -219,7 +249,7 @@
     "metadata": {
       "conversation_id": "1983971479516778825",
       "likes": 6,
-      "retweets": 1,
+      "retweets": 2,
       "replies": 1,
       "quotes": 0
     }
@@ -263,39 +293,9 @@
     "timestamp": "2025-10-30T18:50:08.000Z",
     "metadata": {
       "conversation_id": "1983969687336792346",
-      "likes": 9,
+      "likes": 10,
       "retweets": 2,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983969138138869841",
-    "source": "twitter",
-    "author": "alvinjamur",
-    "content": "@EnoReyes @FactoryAI thank u! as soon as u wrote this, i got a meeting with your sales team. awesome! am a fan and have been evangelizing. just spoke to one of your investors, btw!",
-    "url": "https://x.com/alvinjamur/status/1983969138138869841",
-    "timestamp": "2025-10-30T18:47:57.000Z",
-    "metadata": {
-      "conversation_id": "1983969138138869841",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983966643350118665",
-    "source": "twitter",
-    "author": "alvinsng",
-    "content": "Here’s an inside peek at the assembly line of @FactoryAI, where we’re building the droids\n\nAll captured with Meta glasses for a true POV experience. #DayInTheLife https://t.co/R78T4SfuEc",
-    "url": "https://x.com/alvinsng/status/1983966643350118665",
-    "timestamp": "2025-10-30T18:38:02.000Z",
-    "metadata": {
-      "conversation_id": "1983966643350118665",
-      "likes": 28,
-      "retweets": 1,
-      "replies": 4,
       "quotes": 0
     }
   },
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
