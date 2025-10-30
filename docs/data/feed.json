@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983916255389110704",
+    "source": "twitter",
+    "author": "_lparadisemusic",
+    "content": "@bentossell @FactoryAI Some of my tool calls aren't working, and it won't let me create droids either, it throws an error",
+    "url": "https://x.com/_lparadisemusic/status/1983916255389110704",
+    "timestamp": "2025-10-30T15:17:49.000Z",
+    "metadata": {
+      "conversation_id": "1983916255389110704",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983915686909874329",
+    "source": "twitter",
+    "author": "nilag_dev",
+    "content": "@explosivesox @FactoryAI @BlinkOnChain How did you dod that? :O",
+    "url": "https://x.com/nilag_dev/status/1983915686909874329",
+    "timestamp": "2025-10-30T15:15:33.000Z",
+    "metadata": {
+      "conversation_id": "1983915686909874329",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983914353448415495",
+    "source": "twitter",
+    "author": "kageiit",
+    "content": "@alvinsng @FactoryAI You can just install @gitarcode bot on your repo and it will do it on the PR in the background so you do have to copy paste things into the terminal/context switch",
+    "url": "https://x.com/kageiit/status/1983914353448415495",
+    "timestamp": "2025-10-30T15:10:15.000Z",
+    "metadata": {
+      "conversation_id": "1983914353448415495",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983902556146561215",
     "source": "twitter",
     "author": "alvinsng",
@@ -190,7 +235,7 @@
       "conversation_id": "1983866056851812489",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983818543742468294",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@bentossell @FactoryAI ( to elaborate on 3 - this is what I'm lovingly referring to as \"holding it wrong\" style messaging, where an error message is technically correct but doesn't necessarily address the usage context and may serve to frustrate the user as a result )",
-    "url": "https://x.com/fire/status/1983818543742468294",
-    "timestamp": "2025-10-30T08:49:33.000Z",
-    "metadata": {
-      "conversation_id": "1983818543742468294",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983817478342873289",
-    "source": "twitter",
-    "author": "thedanifrim",
-    "content": "@JuiceSharp @FactoryAI Nailed the last sentence. $20 is great value. Wish they also had a Pro+ plan for $60 or $100",
-    "url": "https://x.com/thedanifrim/status/1983817478342873289",
-    "timestamp": "2025-10-30T08:45:19.000Z",
-    "metadata": {
-      "conversation_id": "1983817478342873289",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983816797951504524",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@bentossell @FactoryAI ty, I guess I can run this in bash mode from within the cli; 2) I don't understand why /mcp subcommands couldn't continue to exist if the framework's already there; 3) submitting old cmd fmt &amp; receiving a response like the image above feels bad, it could recommend !droid mcp add",
-    "url": "https://x.com/fire/status/1983816797951504524",
-    "timestamp": "2025-10-30T08:42:36.000Z",
-    "metadata": {
-      "conversation_id": "1983816797951504524",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 16,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -713,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
