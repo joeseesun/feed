@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984017323767034333",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@FactoryAI You can implement in two ways:\n\n1- Use CLI commands like \"droid mcp add\" for quick server setup and automation\n2- Use /mcp within droid for an interactive visual interface.",
+    "url": "https://x.com/CloudTrader4/status/1984017323767034333",
+    "timestamp": "2025-10-30T21:59:25.000Z",
+    "metadata": {
+      "conversation_id": "1984017323767034333",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984016464697810989",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Droid from @FactoryAI just pushed an update on MCP implementation, it become so easy to add any MCP server you wish \n\nAdding HTTP servers:\n```\ndroid mcp add <name> <url> --type http [--header \"KEY: VALUE\"...]\n```\n\nAdding Stdio Servers:\n```\ndroid mcp add <name> \"<command>\" [--env KEY=VALUE...]\n```",
+    "url": "https://x.com/CloudTrader4/status/1984016464697810989",
+    "timestamp": "2025-10-30T21:56:01.000Z",
+    "metadata": {
+      "conversation_id": "1984016464697810989",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984012903935307839",
     "source": "twitter",
     "author": "EmmaLustre90",
@@ -113,7 +143,7 @@
     "timestamp": "2025-10-30T20:51:40.000Z",
     "metadata": {
       "conversation_id": "1984000272365146468",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983970214015648216",
-    "source": "twitter",
-    "author": "LevJampolsky",
-    "content": "@alvinsng @FactoryAI are bets made on that ping pong table? 😏",
-    "url": "https://x.com/LevJampolsky/status/1983970214015648216",
-    "timestamp": "2025-10-30T18:52:14.000Z",
-    "metadata": {
-      "conversation_id": "1983970214015648216",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983970020217782745",
-    "source": "twitter",
-    "author": "cmricksen",
-    "content": "@anthonyronning_ @DannyAziz97 @FactoryAI @every love to hear this - keep us posted on your experience building with Droids!",
-    "url": "https://x.com/cmricksen/status/1983970020217782745",
-    "timestamp": "2025-10-30T18:51:27.000Z",
-    "metadata": {
-      "conversation_id": "1983970020217782745",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -677,6 +677,19 @@
     }
   },
   {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1ocpe9w",
     "source": "reddit",
     "author": "FocusResponsible4499",
@@ -703,19 +716,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {
