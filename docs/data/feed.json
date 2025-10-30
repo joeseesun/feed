@@ -1,5 +1,200 @@
 [
   {
+    "id": "twitter_1983718224504975439",
+    "source": "twitter",
+    "author": "JuiceSharp",
+    "content": "Another fresh idea … so many models do not support image processing … you have already Droid Core (no pictures).. add Droid Core Vision … that”s can be as affordable as call to Gemini Flash or any viable alternative (there are even more affordable OS options presented) … be creative. Text to Image compaction on short contexts works well. I am guessing Anthropic already adopted that in their desktop version may help you save some tokens as well.",
+    "url": "https://x.com/JuiceSharp/status/1983718224504975439",
+    "timestamp": "2025-10-30T02:10:55.000Z",
+    "metadata": {
+      "conversation_id": "1983718224504975439",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983714325760987427",
+    "source": "twitter",
+    "author": "JuiceSharp",
+    "content": "Thank you. I know that might be too much, but the ability to see at a glance how full (in numbers) the current context is is important as well. One should know how far away we are from the efficient usable window for a model. Let’s say I finished a spec with a current context of 55k. I may decide to push another follow-up, but if I am in the middle of a to-do list along the spec with 85k tokens, I will just click ESC at the convenient moment and call a handoff command.",
+    "url": "https://x.com/JuiceSharp/status/1983714325760987427",
+    "timestamp": "2025-10-30T01:55:25.000Z",
+    "metadata": {
+      "conversation_id": "1983714325760987427",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983710299929890905",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@JuiceSharp @erd0xbc @FactoryAI This is great. We’ll work on fixing these one at a time!",
+    "url": "https://x.com/EnoReyes/status/1983710299929890905",
+    "timestamp": "2025-10-30T01:39:25.000Z",
+    "metadata": {
+      "conversation_id": "1983710299929890905",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983708035303231513",
+    "source": "twitter",
+    "author": "JuiceSharp",
+    "content": "I am doing this inside of slash commands you may have one of the steps in your workflow that  enforce their usage something like this:\n\n Step 3: Launch parallel research tasks to gather context \n\nBefore engaging the user with questions, deploy specialized agents (Droids/Tasks) concurrently:\nAgent A handles...\nAgent B handles...",
+    "url": "https://x.com/JuiceSharp/status/1983708035303231513",
+    "timestamp": "2025-10-30T01:30:25.000Z",
+    "metadata": {
+      "conversation_id": "1983708035303231513",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983705391151427709",
+    "source": "twitter",
+    "author": "gootecks",
+    "content": "@JuiceSharp @FactoryAI How do you get subagents to get called and go away when when you want them to?",
+    "url": "https://x.com/gootecks/status/1983705391151427709",
+    "timestamp": "2025-10-30T01:19:55.000Z",
+    "metadata": {
+      "conversation_id": "1983705391151427709",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983702683111350574",
+    "source": "twitter",
+    "author": "JuiceSharp",
+    "content": "At a glance: \n- switched thinking mode with Tab recently (much more convenient than going each time to the menu). \n- the rest of shortcuts (an example that I am switching with Shit-Tab with more options available causes some discomfort despite similarity) \n- /clear vs /new\n-   /resume vs /sessions \n- missed /context \n- missed /rewind\n- insufficient output of subagents [Task]\n- insufficient output [Execute] with CC so easy to click ESC and correct the flow just because CC gives right enough info so one may see something went wrong way.\n\nAnother suggestions:\n- Add ability to swiftly change model with some shortcut (just rotate available ones like languages in macOS to rotate any direction). \n\n- Disable annoying warning about compaction (even wondering why that's even needed, why compaction if context is sufficient,  add ability to disable in the settings) Also you may add smart detection that the conversation has no images for example (if that's the reason).",
+    "url": "https://x.com/JuiceSharp/status/1983702683111350574",
+    "timestamp": "2025-10-30T01:09:09.000Z",
+    "metadata": {
+      "conversation_id": "1983702683111350574",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983699553720397939",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@thdxr @pvncher @AustinAI That's exactly what annoyed me with @AnthropicAI  Claude Code. About 5 prompts, and then it started Auto-Compact. With @FactoryAI DROID CLI + GPT-5/Codex I almost never hit the \"auto compact wall\".",
+    "url": "https://x.com/SvenMeyer/status/1983699553720397939",
+    "timestamp": "2025-10-30T00:56:43.000Z",
+    "metadata": {
+      "conversation_id": "1983699553720397939",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983696828156772365",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@erd0xbc @JuiceSharp @FactoryAI Curious what habits you find most difficult to break / that you'd expect in our CLI?",
+    "url": "https://x.com/EnoReyes/status/1983696828156772365",
+    "timestamp": "2025-10-30T00:45:53.000Z",
+    "metadata": {
+      "conversation_id": "1983696828156772365",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983696412945829898",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@EnoReyes @JuiceSharp @FactoryAI +1\n\n&gt; but habits developed in CC are very difficult to fight.\nThis hit me a bunch too, CC polish is the mental default.",
+    "url": "https://x.com/erd0xbc/status/1983696412945829898",
+    "timestamp": "2025-10-30T00:44:14.000Z",
+    "metadata": {
+      "conversation_id": "1983696412945829898",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983692330940166326",
+    "source": "twitter",
+    "author": "EveryDevAi",
+    "content": "New on EveryDev: Factory @FactoryAI is an agent-native platform that embeds autonomous dev agents (Droids) into your IDE, CLI, and CI/CD. Automate coding, refactors, and incident response without changing your workflow.",
+    "url": "https://x.com/EveryDevAi/status/1983692330940166326",
+    "timestamp": "2025-10-30T00:28:01.000Z",
+    "metadata": {
+      "conversation_id": "1983692330940166326",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983690912564965887",
+    "source": "twitter",
+    "author": "TheRomanFly",
+    "content": "@pascallammers_ @FactoryAI where svelte droid",
+    "url": "https://x.com/TheRomanFly/status/1983690912564965887",
+    "timestamp": "2025-10-30T00:22:23.000Z",
+    "metadata": {
+      "conversation_id": "1983690912564965887",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983689860134449537",
+    "source": "twitter",
+    "author": "Social_Quotient",
+    "content": "Coded a small util I constantly find myself wishing I had, use the web or api. \n\nhttps://t.co/jQsB1ILiXJ\n\nCoded with @FactoryAI  … I’ll add model selections in the next couple days.",
+    "url": "https://x.com/Social_Quotient/status/1983689860134449537",
+    "timestamp": "2025-10-30T00:18:12.000Z",
+    "metadata": {
+      "conversation_id": "1983689860134449537",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983689100176847049",
+    "source": "twitter",
+    "author": "1Bexly",
+    "content": "@francesca_lab @FactoryAI 🫡🫡",
+    "url": "https://x.com/1Bexly/status/1983689100176847049",
+    "timestamp": "2025-10-30T00:15:11.000Z",
+    "metadata": {
+      "conversation_id": "1983689100176847049",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983679417215021487",
     "source": "twitter",
     "author": "jamiepoker12",
@@ -23,7 +218,7 @@
     "timestamp": "2025-10-29T23:33:03.000Z",
     "metadata": {
       "conversation_id": "1983678499216093383",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,7 +233,7 @@
     "timestamp": "2025-10-29T23:30:43.000Z",
     "metadata": {
       "conversation_id": "1983677909979074701",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,7 +248,7 @@
     "timestamp": "2025-10-29T23:18:18.000Z",
     "metadata": {
       "conversation_id": "1983674783960338916",
-      "likes": 0,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -101,201 +296,6 @@
       "likes": 2,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983662087047168472",
-    "source": "twitter",
-    "author": "BillCrosby",
-    "content": "@lovedashmatcher @FactoryAI the CLI tool learning curve is real, but it's worth it once you master it.",
-    "url": "https://x.com/BillCrosby/status/1983662087047168472",
-    "timestamp": "2025-10-29T22:27:50.000Z",
-    "metadata": {
-      "conversation_id": "1983662087047168472",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983658971685908888",
-    "source": "twitter",
-    "author": "SynthSquid",
-    "content": "@FactoryAI plz, 🙏, can you run the Terminal-Bench. Using Droid running Kimi k2 , and Minimax M2.",
-    "url": "https://x.com/SynthSquid/status/1983658971685908888",
-    "timestamp": "2025-10-29T22:15:28.000Z",
-    "metadata": {
-      "conversation_id": "1983658971685908888",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983654105781604358",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@JuiceSharp @FactoryAI Thought I am the only one with the slash commands issue glad sharing this\n\nAlso highly recommend working with MCPs, performs better than CC\n\nI am also using GLM for small tasks and works surprisingly well",
-    "url": "https://x.com/CloudTrader4/status/1983654105781604358",
-    "timestamp": "2025-10-29T21:56:07.000Z",
-    "metadata": {
-      "conversation_id": "1983654105781604358",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983653714138427684",
-    "source": "twitter",
-    "author": "kieran_hunt",
-    "content": "@alvinsng @FactoryAI I’ve been doing this too. I think the cycle of enforcing corrections through linting is a really context efficient way to steer LLMs. \n\nTrying to replicate it through words in AGENT dot md is super fuzzy, open to bike shedding and hard to measure its success.",
-    "url": "https://x.com/kieran_hunt/status/1983653714138427684",
-    "timestamp": "2025-10-29T21:54:34.000Z",
-    "metadata": {
-      "conversation_id": "1983653714138427684",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983653452296417491",
-    "source": "twitter",
-    "author": "explosivesox",
-    "content": "You can just build things. \nMade possible by @FactoryAI 🧠 in Rust.\nPolymarket alpha every hour, of every day.\nv0.1.0 live; front-end pending\nPartnered with @BlinkOnChain ; GET $BETTER https://t.co/w0CzFLNCYB",
-    "url": "https://x.com/explosivesox/status/1983653452296417491",
-    "timestamp": "2025-10-29T21:53:32.000Z",
-    "metadata": {
-      "conversation_id": "1983653452296417491",
-      "likes": 7,
-      "retweets": 2,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983646249753702618",
-    "source": "twitter",
-    "author": "leonidng",
-    "content": "Droid by @FactoryAI + GLM 4.6 is my new fave combo.",
-    "url": "https://x.com/leonidng/status/1983646249753702618",
-    "timestamp": "2025-10-29T21:24:54.000Z",
-    "metadata": {
-      "conversation_id": "1983646249753702618",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983646099773792589",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Tgerighty @pascallammers_ @FactoryAI noooooo",
-    "url": "https://x.com/bentossell/status/1983646099773792589",
-    "timestamp": "2025-10-29T21:24:19.000Z",
-    "metadata": {
-      "conversation_id": "1983646099773792589",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983639484974739701",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@danshipper @FactoryAI 🫡",
-    "url": "https://x.com/bentossell/status/1983639484974739701",
-    "timestamp": "2025-10-29T20:58:02.000Z",
-    "metadata": {
-      "conversation_id": "1983639484974739701",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983635448275857490",
-    "source": "twitter",
-    "author": "petergostev",
-    "content": "@danshipper @FactoryAI You are not working on Azure right? https://t.co/OzQb6bSaHO",
-    "url": "https://x.com/petergostev/status/1983635448275857490",
-    "timestamp": "2025-10-29T20:41:59.000Z",
-    "metadata": {
-      "conversation_id": "1983635448275857490",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983634080181948477",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Dillon_Carter @danshipper @every @_catwu @FactoryAI @claudeai we're doing a droid camp friday! https://t.co/89KuL4kvep",
-    "url": "https://x.com/bentossell/status/1983634080181948477",
-    "timestamp": "2025-10-29T20:36:33.000Z",
-    "metadata": {
-      "conversation_id": "1983634080181948477",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983633923684057516",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@kylezantos @every @FactoryAI see you there!",
-    "url": "https://x.com/bentossell/status/1983633923684057516",
-    "timestamp": "2025-10-29T20:35:56.000Z",
-    "metadata": {
-      "conversation_id": "1983633923684057516",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983632635223273521",
-    "source": "twitter",
-    "author": "perpetualtalk",
-    "content": "@mitchellh @Ampcode, I've never heard about it.\n\nHow does it compare with @FactoryAI droids?\n\nDid you try using Claude directly? If yes, how does it compare?",
-    "url": "https://x.com/perpetualtalk/status/1983632635223273521",
-    "timestamp": "2025-10-29T20:30:49.000Z",
-    "metadata": {
-      "conversation_id": "1983632635223273521",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983632140404453468",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JuiceSharp @FactoryAI this is awesome thank you! fixes coming ❤️",
-    "url": "https://x.com/bentossell/status/1983632140404453468",
-    "timestamp": "2025-10-29T20:28:51.000Z",
-    "metadata": {
-      "conversation_id": "1983632140404453468",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -349,19 +349,6 @@
       "type": "issue",
       "labels": [],
       "number": 279
-    }
-  },
-  {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 14,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -508,32 +495,6 @@
     }
   },
   {
-    "id": "reddit_1ofmunx",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
-    "metadata": {
-      "score": 9,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1ofh3rn",
     "source": "reddit",
     "author": "zhangjun3371",
@@ -651,19 +612,6 @@
     }
   },
   {
-    "id": "reddit_1odjcfl",
-    "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1odatnb",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -684,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -742,6 +690,19 @@
     }
   },
   {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -752,6 +713,32 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1oayeuk",
+    "source": "reddit",
+    "author": "Malek262",
+    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
+    "timestamp": "2025-10-19T19:18:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
