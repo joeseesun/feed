@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1984091947187974237",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@pgbouncer @FactoryAI @every I’ve got the $200 max plan and personally I like that I get full usage of the model I want and no time based limits, fully transparent with the number of tokens I’ve used and I can see how many I’ve got left this month",
+    "url": "https://x.com/DannyAziz97/status/1984091947187974237",
+    "timestamp": "2025-10-31T02:55:57.000Z",
+    "metadata": {
+      "conversation_id": "1984091947187974237",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984091778006536589",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@EmmaLustre90 @FactoryAI @every Literally nothing, I pay them hundreds of dollars a month",
+    "url": "https://x.com/DannyAziz97/status/1984091778006536589",
+    "timestamp": "2025-10-31T02:55:17.000Z",
+    "metadata": {
+      "conversation_id": "1984091778006536589",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984091725930086867",
+    "source": "twitter",
+    "author": "aicodeking",
+    "content": "@SvenMeyer @CodebuffAI @FactoryAI It's good but extremely costly due to multi model usage for one task.",
+    "url": "https://x.com/aicodeking/status/1984091725930086867",
+    "timestamp": "2025-10-31T02:55:04.000Z",
+    "metadata": {
+      "conversation_id": "1984091725930086867",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984090437616017495",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@dannysuarez @FactoryAI @every Do it!",
+    "url": "https://x.com/DannyAziz97/status/1984090437616017495",
+    "timestamp": "2025-10-31T02:49:57.000Z",
+    "metadata": {
+      "conversation_id": "1984090437616017495",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984089477313147298",
+    "source": "twitter",
+    "author": "dannysuarez",
+    "content": "@DannyAziz97 @FactoryAI @every I run Claude and Codex at the same time very often and its not friendly … I need to try this out",
+    "url": "https://x.com/dannysuarez/status/1984089477313147298",
+    "timestamp": "2025-10-31T02:46:08.000Z",
+    "metadata": {
+      "conversation_id": "1984089477313147298",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984088370126242028",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@hampsonw @aicodeking @Zai_org GLM-4.6 better with @AnthropicAI Claude Code CLI than in @FactoryAI DROID CLI ? ... interesting. Any more deatil on that?",
+    "url": "https://x.com/SvenMeyer/status/1984088370126242028",
+    "timestamp": "2025-10-31T02:41:44.000Z",
+    "metadata": {
+      "conversation_id": "1984088370126242028",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984086772532572218",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@aicodeking @CodebuffAI that good !?😮 I actually had it already installed, but haven't had time to test is.\nMaybe you want to try @FactoryAI DROID CLI as well ? It's also super easy to add custom models.",
+    "url": "https://x.com/SvenMeyer/status/1984086772532572218",
+    "timestamp": "2025-10-31T02:35:23.000Z",
+    "metadata": {
+      "conversation_id": "1984086772532572218",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984079655935307929",
+    "source": "twitter",
+    "author": "pgbouncer",
+    "content": "@DannyAziz97 @FactoryAI @every Which FactoryAI plan did you get and how do the limits compare to Claude max?",
+    "url": "https://x.com/pgbouncer/status/1984079655935307929",
+    "timestamp": "2025-10-31T02:07:07.000Z",
+    "metadata": {
+      "conversation_id": "1984079655935307929",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984072895967195583",
     "source": "twitter",
     "author": "nest_elf",
@@ -53,7 +173,7 @@
     "timestamp": "2025-10-31T01:09:34.000Z",
     "metadata": {
       "conversation_id": "1984065174257725862",
-      "likes": 11,
+      "likes": 13,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -128,7 +248,7 @@
     "timestamp": "2025-10-30T23:56:00.000Z",
     "metadata": {
       "conversation_id": "1984046662495711302",
-      "likes": 7,
+      "likes": 8,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -174,126 +294,6 @@
     "metadata": {
       "conversation_id": "1984045150234976400",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984042815081665003",
-    "source": "twitter",
-    "author": "Stygianwind",
-    "content": "@AshwinRamaswami @FactoryAI 🔥🔥🔥",
-    "url": "https://x.com/Stygianwind/status/1984042815081665003",
-    "timestamp": "2025-10-30T23:40:43.000Z",
-    "metadata": {
-      "conversation_id": "1984042815081665003",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984042098484781067",
-    "source": "twitter",
-    "author": "withmegg",
-    "content": "@alvinsng @FactoryAI Not the empty paper towel dispenser! 💀",
-    "url": "https://x.com/withmegg/status/1984042098484781067",
-    "timestamp": "2025-10-30T23:37:52.000Z",
-    "metadata": {
-      "conversation_id": "1984042098484781067",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984040544872624281",
-    "source": "twitter",
-    "author": "igarciacamargo",
-    "content": "@CorridorSecure @FactoryAI 🦅🦅🦅",
-    "url": "https://x.com/igarciacamargo/status/1984040544872624281",
-    "timestamp": "2025-10-30T23:31:42.000Z",
-    "metadata": {
-      "conversation_id": "1984040544872624281",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984038397850308645",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@alvinsng @FactoryAI That's some cool stuff, Alvin! Seeing the process from that perspective is quite something, no?",
-    "url": "https://x.com/codewithimanshu/status/1984038397850308645",
-    "timestamp": "2025-10-30T23:23:10.000Z",
-    "metadata": {
-      "conversation_id": "1984038397850308645",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984037867606413343",
-    "source": "twitter",
-    "author": "_Shark_byte",
-    "content": "@AshwinRamaswami @FactoryAI Omgggg so cool!",
-    "url": "https://x.com/_Shark_byte/status/1984037867606413343",
-    "timestamp": "2025-10-30T23:21:03.000Z",
-    "metadata": {
-      "conversation_id": "1984037867606413343",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984037719966929353",
-    "source": "twitter",
-    "author": "AshwinRamaswami",
-    "content": "Super excited to partner with @FactoryAI !!",
-    "url": "https://x.com/AshwinRamaswami/status/1984037719966929353",
-    "timestamp": "2025-10-30T23:20:28.000Z",
-    "metadata": {
-      "conversation_id": "1984037719966929353",
-      "likes": 6,
-      "retweets": 1,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984036514372972690",
-    "source": "twitter",
-    "author": "darrenjr",
-    "content": "@CorridorSecure @FactoryAI would love to get this working in @tembo",
-    "url": "https://x.com/darrenjr/status/1984036514372972690",
-    "timestamp": "2025-10-30T23:15:41.000Z",
-    "metadata": {
-      "conversation_id": "1984036514372972690",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984034379858124889",
-    "source": "twitter",
-    "author": "CorridorSecure",
-    "content": "@FactoryAI Learn more and set up Corridor with Factory: https://t.co/kCBZUo68FY",
-    "url": "https://x.com/CorridorSecure/status/1984034379858124889",
-    "timestamp": "2025-10-30T23:07:12.000Z",
-    "metadata": {
-      "conversation_id": "1984034379858124889",
-      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -349,6 +349,19 @@
       "type": "issue",
       "labels": [],
       "number": 279
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 22,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -495,6 +508,32 @@
     }
   },
   {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 9,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1ofh3rn",
     "source": "reddit",
     "author": "zhangjun3371",
@@ -612,6 +651,19 @@
     }
   },
   {
+    "id": "reddit_1odjcfl",
+    "source": "reddit",
+    "author": "Hassan_A2H",
+    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
+    "timestamp": "2025-10-22T20:20:05.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1odatnb",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -664,19 +716,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -687,45 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oazqru",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
-    "timestamp": "2025-10-19T20:10:35.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
