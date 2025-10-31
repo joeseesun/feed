@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1984110865571074346",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@codewithimanshu @FactoryAI It's nice when the company is still small and you're  allowed to record content like this!",
+    "url": "https://x.com/alvinsng/status/1984110865571074346",
+    "timestamp": "2025-10-31T04:11:08.000Z",
+    "metadata": {
+      "conversation_id": "1984110865571074346",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984110091222839792",
+    "source": "twitter",
+    "author": "CyprianWetende",
+    "content": "@CloudTrader4 @FactoryAI I can't still paste image using ctrl V , after a screenshot, any tips?",
+    "url": "https://x.com/CyprianWetende/status/1984110091222839792",
+    "timestamp": "2025-10-31T04:08:03.000Z",
+    "metadata": {
+      "conversation_id": "1984110091222839792",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984108309054681278",
+    "source": "twitter",
+    "author": "_01010101",
+    "content": "@donvito I’m sticking with @FactoryAI as the results are better than CC / Codex. I can choose between the best frontier models for every task type without being artificially limited. Their setup is fair as you get a monthly amount of tokens in a package that you can burn as fast you like.",
+    "url": "https://x.com/_01010101/status/1984108309054681278",
+    "timestamp": "2025-10-31T04:00:58.000Z",
+    "metadata": {
+      "conversation_id": "1984108309054681278",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984105252812103688",
     "source": "twitter",
     "author": "rezaul_arif",
@@ -8,7 +53,7 @@
     "timestamp": "2025-10-31T03:48:49.000Z",
     "metadata": {
       "conversation_id": "1984105252812103688",
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984052784992575810",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@CloudTrader4 @FactoryAI that is new ? ... anyway I preferred to just edit / copy-paste MCP definitions into the json config. A secure API key management would be good and the ability to quickly switch them all off and selectively. UI like /model selector.",
-    "url": "https://x.com/SvenMeyer/status/1984052784992575810",
-    "timestamp": "2025-10-31T00:20:20.000Z",
-    "metadata": {
-      "conversation_id": "1984052784992575810",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984051408572969434",
-    "source": "twitter",
-    "author": "rezaul_arif",
-    "content": "Huge thanks to whoever revamped the MCP implementation in @FactoryAI CLI v0.22.6! 🫶🏼",
-    "url": "https://x.com/rezaul_arif/status/1984051408572969434",
-    "timestamp": "2025-10-31T00:14:52.000Z",
-    "metadata": {
-      "conversation_id": "1984051408572969434",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984048689841934467",
-    "source": "twitter",
-    "author": "francesca_lab",
-    "content": "@jackhcable @FactoryAI Corridor 🤝 Factory",
-    "url": "https://x.com/francesca_lab/status/1984048689841934467",
-    "timestamp": "2025-10-31T00:04:04.000Z",
-    "metadata": {
-      "conversation_id": "1984048689841934467",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -713,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
