@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984771323118436494",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "Dude, it’s so totally worth it. Your time is more valuable than you think.\n\nI tried the https://t.co/W9hcGPi4dW code plan using GLM4.6 and for whatever reason which I’d love to know if anybody is aware https://t.co/W9hcGPi4dW provided inference is nowhere near as good as the https://t.co/4ZBL09mOd6 provided GLM4.6. I wonder if I’m doing something wrong if that’s just Evidence of the factory provided integration being better than trying to use a third-party integration for the exact same model?",
+    "url": "https://x.com/mikez93/status/1984771323118436494",
+    "timestamp": "2025-11-01T23:55:33.000Z",
+    "metadata": {
+      "conversation_id": "1984771323118436494",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984769583824171008",
+    "source": "twitter",
+    "author": "DowClem",
+    "content": "@immoinulmoin @CipherVectors @FactoryAI I use factory and am not technical, use it in the CLI. Curious why you’re say non devs would prefer Claude.",
+    "url": "https://x.com/DowClem/status/1984769583824171008",
+    "timestamp": "2025-11-01T23:48:38.000Z",
+    "metadata": {
+      "conversation_id": "1984769583824171008",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984768718866690377",
     "source": "twitter",
     "author": "JoshuaIPark",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984720979759607848",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@nkgoutham @FactoryAI Wow, that's some serious productivity, Krishna! Saving tokens sounds like a smart move, beta version feels like a good idea.",
-    "url": "https://x.com/codewithimanshu/status/1984720979759607848",
-    "timestamp": "2025-11-01T20:35:30.000Z",
-    "metadata": {
-      "conversation_id": "1984720979759607848",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984716623853617658",
-    "source": "twitter",
-    "author": "GitMaxd",
-    "content": "@anthonyronning_ This is why @FactoryAI Droid exists.",
-    "url": "https://x.com/GitMaxd/status/1984716623853617658",
-    "timestamp": "2025-11-01T20:18:12.000Z",
-    "metadata": {
-      "conversation_id": "1984716623853617658",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_299",
     "source": "github",
     "author": "Slyvester-cyber",
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -699,6 +699,32 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
