@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1984761628425142281",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "Dunno what's going on :shrug: but that last three mornings I've woken up and the first thing I have thought of is how awesome @FactoryAI with GLM 4.6 @Zai_org is. Honestly can't get enough of droids, everything's clicked. But FML that this is the fun things I think of now 🫠",
+    "url": "https://x.com/launchaddict/status/1984761628425142281",
+    "timestamp": "2025-11-01T23:17:01.000Z",
+    "metadata": {
+      "conversation_id": "1984761628425142281",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984760036846157990",
+    "source": "twitter",
+    "author": "phpmeow",
+    "content": "@fire @FactoryAI It is good tho",
+    "url": "https://x.com/phpmeow/status/1984760036846157990",
+    "timestamp": "2025-11-01T23:10:42.000Z",
+    "metadata": {
+      "conversation_id": "1984760036846157990",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984757795951198546",
+    "source": "twitter",
+    "author": "destynejszyn",
+    "content": "@hexawulf @FactoryAI Didn't use it but it evals way above CC on DesignArena Agent Arena.",
+    "url": "https://x.com/destynejszyn/status/1984757795951198546",
+    "timestamp": "2025-11-01T23:01:48.000Z",
+    "metadata": {
+      "conversation_id": "1984757795951198546",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984757618582446509",
+    "source": "twitter",
+    "author": "constantin_e21",
+    "content": "@charliebholtz I like what you're building man, have you considered adding DROID from @FactoryAI in Coductor?",
+    "url": "https://x.com/constantin_e21/status/1984757618582446509",
+    "timestamp": "2025-11-01T23:01:05.000Z",
+    "metadata": {
+      "conversation_id": "1984757618582446509",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984756666944893085",
     "source": "twitter",
     "author": "constantin_e21",
@@ -8,7 +68,7 @@
     "timestamp": "2025-11-01T22:57:19.000Z",
     "metadata": {
       "conversation_id": "1984756666944893085",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -113,7 +173,7 @@
     "timestamp": "2025-11-01T20:52:38.000Z",
     "metadata": {
       "conversation_id": "1984725290937888918",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -143,7 +203,7 @@
     "timestamp": "2025-11-01T20:46:13.000Z",
     "metadata": {
       "conversation_id": "1984723678408687847",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -195,21 +255,6 @@
     }
   },
   {
-    "id": "twitter_1984716475341398511",
-    "source": "twitter",
-    "author": "haridigresses",
-    "content": "Shoutout to @OpenAI Codex and @cursor_ai's Cheetah / Composer (+ the unsung hero @github, just an incredible piece of software and the inspiration for a lot of what we're building).\n\nSupporting actors @AnthropicAI Claude Code and\n@FactoryAI Droid. What a time to be alive.",
-    "url": "https://x.com/haridigresses/status/1984716475341398511",
-    "timestamp": "2025-11-01T20:17:36.000Z",
-    "metadata": {
-      "conversation_id": "1984716475341398511",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "twitter_1984716206381887674",
     "source": "twitter",
     "author": "HankYeomans",
@@ -251,51 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984710866827124769",
-    "source": "twitter",
-    "author": "DiegoUSDZ",
-    "content": "@RayFernando1337 @hexawulf @FactoryAI Would be worth having a catalog of .md for agents?",
-    "url": "https://x.com/DiegoUSDZ/status/1984710866827124769",
-    "timestamp": "2025-11-01T19:55:19.000Z",
-    "metadata": {
-      "conversation_id": "1984710866827124769",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984706804798853528",
-    "source": "twitter",
-    "author": "davidrsdlife",
-    "content": "@hexawulf @FactoryAI Not just you.",
-    "url": "https://x.com/davidrsdlife/status/1984706804798853528",
-    "timestamp": "2025-11-01T19:39:10.000Z",
-    "metadata": {
-      "conversation_id": "1984706804798853528",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984702728325775675",
-    "source": "twitter",
-    "author": "CipherVectors",
-    "content": "@immoinulmoin @FactoryAI Visual Evals is the problem. That is where the cursor wons",
-    "url": "https://x.com/CipherVectors/status/1984702728325775675",
-    "timestamp": "2025-11-01T19:22:59.000Z",
-    "metadata": {
-      "conversation_id": "1984702728325775675",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -699,6 +699,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 15,
       "subreddit": "FactoryAi"
     }
   },
