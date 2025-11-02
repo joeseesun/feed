@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1984971459244994654",
+    "source": "twitter",
+    "author": "noelhatem",
+    "content": "@nkgoutham @FactoryAI you got 10M free trial tokens? wow I wasn't aware of this generous free plan.",
+    "url": "https://x.com/noelhatem/status/1984971459244994654",
+    "timestamp": "2025-11-02T13:10:49.000Z",
+    "metadata": {
+      "conversation_id": "1984971459244994654",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984968454458261915",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@lyknoada99 @immoinulmoin @FactoryAI i’m biased :)",
+    "url": "https://x.com/bentossell/status/1984968454458261915",
+    "timestamp": "2025-11-02T12:58:53.000Z",
+    "metadata": {
+      "conversation_id": "1984968454458261915",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984966952692117536",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@AIWorkflowsLab @claudeai @FactoryAI LLMs have non-deterministic output, and as non-developers, sometimes, its a bit hard to put a finger on the exact specifics that causes a problem. Droid seemed to understand what the issue was, I was trying to \"Explain\" a routing logic and UI - and droid caught it well.",
+    "url": "https://x.com/nkgoutham/status/1984966952692117536",
+    "timestamp": "2025-11-02T12:52:55.000Z",
+    "metadata": {
+      "conversation_id": "1984966952692117536",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984966601352139091",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@Ludocyte @claudeai @FactoryAI Haha yes - that's because I forced Sonnet 4.5 model in literally every use-case. Normally, I use Sonnet 4.5 only for brainstorming. For code execution, I switch to lower models.",
+    "url": "https://x.com/nkgoutham/status/1984966601352139091",
+    "timestamp": "2025-11-02T12:51:31.000Z",
+    "metadata": {
+      "conversation_id": "1984966601352139091",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984966432749433231",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@AbdMuizAdeyemo @claudeai @FactoryAI True - I do think Droid can speed up building with AI. I'm exploring ways to reduce token burn for now! But I really like how it understands the context well.",
+    "url": "https://x.com/nkgoutham/status/1984966432749433231",
+    "timestamp": "2025-11-02T12:50:51.000Z",
+    "metadata": {
+      "conversation_id": "1984966432749433231",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984966102322151540",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@jonhillymakes @FactoryAI What kind of bugs are these? UI or functionality?",
+    "url": "https://x.com/nkgoutham/status/1984966102322151540",
+    "timestamp": "2025-11-02T12:49:32.000Z",
+    "metadata": {
+      "conversation_id": "1984966102322151540",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984960604130464152",
     "source": "twitter",
     "author": "jonhillymakes",
@@ -8,9 +98,9 @@
     "timestamp": "2025-11-02T12:27:41.000Z",
     "metadata": {
       "conversation_id": "1984960604130464152",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -223,96 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984913465396592933",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@launchaddict @FactoryAI put in your https://t.co/UbRwToH5z7 :)",
-    "url": "https://x.com/bentossell/status/1984913465396592933",
-    "timestamp": "2025-11-02T09:20:22.000Z",
-    "metadata": {
-      "conversation_id": "1984913465396592933",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984911788228386817",
-    "source": "twitter",
-    "author": "hoopstheoryX",
-    "content": "@explorersofai @pixio_ai @myaitutor @midjourney @FactoryAI @the_machine_ai @ComfyUI Let’s go!",
-    "url": "https://x.com/hoopstheoryX/status/1984911788228386817",
-    "timestamp": "2025-11-02T09:13:42.000Z",
-    "metadata": {
-      "conversation_id": "1984911788228386817",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984904016317595971",
-    "source": "twitter",
-    "author": "adityagharawar8",
-    "content": "What is this autonomous Run and Why it matters The Real SWE tasks are Still Not Addressed Correclty ( @FactoryAI , @claudeai CODe , @GeminiApp CLi ) all lags Behind Backend logics are Broken this is also the reason Why lovables is ahead and Growing fast Thier Remote runtime",
-    "url": "https://x.com/adityagharawar8/status/1984904016317595971",
-    "timestamp": "2025-11-02T08:42:49.000Z",
-    "metadata": {
-      "conversation_id": "1984904016317595971",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984896644324921384",
-    "source": "twitter",
-    "author": "launchaddict",
-    "content": "I will buy make a lil donation to anyone on who can tell me how to configure @FactoryAI to always run playwright MCP before telling me something is done.  There are a few things that I always want, surely I can configure this somewhere ¯\\_(ツ)_/¯ cc @bentossell https://t.co/mrMkD86k3U",
-    "url": "https://x.com/launchaddict/status/1984896644324921384",
-    "timestamp": "2025-11-02T08:13:32.000Z",
-    "metadata": {
-      "conversation_id": "1984896644324921384",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984894050143744270",
-    "source": "twitter",
-    "author": "launchaddict",
-    "content": "Feature request @FactoryAI Rather than `proceed with implementation` would love to have the option of `create new branch and proceed with implementation` which then creates a new branch. Might already be possible but ¯\\_(ツ)_/¯ https://t.co/b2BOmgQfeu",
-    "url": "https://x.com/launchaddict/status/1984894050143744270",
-    "timestamp": "2025-11-02T08:03:13.000Z",
-    "metadata": {
-      "conversation_id": "1984894050143744270",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984888644520591837",
-    "source": "twitter",
-    "author": "CipherVectors",
-    "content": "One thing that I liked about the @FactoryAI droid CLI is that it doesn't have the plan-and-rules forgetfulness problem, just like others (Claude Code or cursor) . That is why we have been using it on live server with strict rules and guidelines.",
-    "url": "https://x.com/CipherVectors/status/1984888644520591837",
-    "timestamp": "2025-11-02T07:41:44.000Z",
-    "metadata": {
-      "conversation_id": "1984888644520591837",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -699,19 +699,6 @@
     "metadata": {
       "score": 4,
       "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1odatnb",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
-    "timestamp": "2025-10-22T15:06:14.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
