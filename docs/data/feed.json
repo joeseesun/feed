@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1985040513238794435",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@immoinulmoin @FactoryAI @OfficialLoganK @matanSF Agreed - pro is a solid planner",
+    "url": "https://x.com/JoelDeTeves/status/1985040513238794435",
+    "timestamp": "2025-11-02T17:45:13.000Z",
+    "metadata": {
+      "conversation_id": "1985040513238794435",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985040427574313334",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@immoinulmoin @FactoryAI @OfficialLoganK @matanSF I’m very excited for the possibilities of 1) using Nano Banana for front end graphics as well as 2) Gemini 3 with a tool like droid when it is released to the public",
+    "url": "https://x.com/JoelDeTeves/status/1985040427574313334",
+    "timestamp": "2025-11-02T17:44:52.000Z",
+    "metadata": {
+      "conversation_id": "1985040427574313334",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985040402358091853",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@JoelDeTeves @FactoryAI @OfficialLoganK @matanSF then gemini 2.5 pro + glm 4.6 would be perfect combo!",
+    "url": "https://x.com/immoinulmoin/status/1985040402358091853",
+    "timestamp": "2025-11-02T17:44:46.000Z",
+    "metadata": {
+      "conversation_id": "1985040402358091853",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985040299564138988",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@JoelDeTeves @FactoryAI @OfficialLoganK @matanSF yessss +1",
+    "url": "https://x.com/immoinulmoin/status/1985040299564138988",
+    "timestamp": "2025-11-02T17:44:22.000Z",
+    "metadata": {
+      "conversation_id": "1985040299564138988",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985039879559115127",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@immoinulmoin @FactoryAI Not much to tell. I set up Gemini using BYOK.\n\nDroid’s harness works well with it.\n\nHere’s hoping @OfficialLoganK and @matanSF become friends and add Gemini as a standard model using Factory tokens 😎",
+    "url": "https://x.com/JoelDeTeves/status/1985039879559115127",
+    "timestamp": "2025-11-02T17:42:42.000Z",
+    "metadata": {
+      "conversation_id": "1985039879559115127",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985038910708396261",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@JoelDeTeves @FactoryAI really? tell me more!!!!",
+    "url": "https://x.com/immoinulmoin/status/1985038910708396261",
+    "timestamp": "2025-11-02T17:38:51.000Z",
+    "metadata": {
+      "conversation_id": "1985038910708396261",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985035761087909969",
     "source": "twitter",
     "author": "_lparadisemusic",
@@ -23,7 +113,7 @@
     "timestamp": "2025-11-02T17:14:00.000Z",
     "metadata": {
       "conversation_id": "1985032659836272642",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -223,96 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985014343885287737",
-    "source": "twitter",
-    "author": "roshan_mishra",
-    "content": "Vibe Engineering &gt; Vibe Coding\n\nYesterday we ran our biggest AI building workshop in Bangalore (120+ registered devs!)\n\nfrom messy ideas → production apps in 3 hours using @bolt_new @GoogleAI Stitch, @figma, Droid from @FactoryAI , &amp; ChatGPT\n\nHere's the exact workflow we used https://t.co/fkaedeHruM",
-    "url": "https://x.com/roshan_mishra/status/1985014343885287737",
-    "timestamp": "2025-11-02T16:01:14.000Z",
-    "metadata": {
-      "conversation_id": "1985014343885287737",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985012286071931224",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "Testing @FactoryAI droid with Gemini 2.5 Pro this morning! It’s pretty good 😎",
-    "url": "https://x.com/JoelDeTeves/status/1985012286071931224",
-    "timestamp": "2025-11-02T15:53:03.000Z",
-    "metadata": {
-      "conversation_id": "1985012286071931224",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985011164565365216",
-    "source": "twitter",
-    "author": "Ryanskickz",
-    "content": "@nest_elf @FactoryAI Tell me you don’t know how to make an MCP and don’t read your code without telling me",
-    "url": "https://x.com/Ryanskickz/status/1985011164565365216",
-    "timestamp": "2025-11-02T15:48:36.000Z",
-    "metadata": {
-      "conversation_id": "1985011164565365216",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985009726938063269",
-    "source": "twitter",
-    "author": "8johnf",
-    "content": "@zeinersyad @augmentcode @FactoryAI let us (users) know about your experience with the change to droid cli",
-    "url": "https://x.com/8johnf/status/1985009726938063269",
-    "timestamp": "2025-11-02T15:42:53.000Z",
-    "metadata": {
-      "conversation_id": "1985009726938063269",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985000487721005402",
-    "source": "twitter",
-    "author": "nurlannurmanov",
-    "content": "@hexawulf @FactoryAI How much is theri inference cost? Do they have any discounts?",
-    "url": "https://x.com/nurlannurmanov/status/1985000487721005402",
-    "timestamp": "2025-11-02T15:06:10.000Z",
-    "metadata": {
-      "conversation_id": "1985000487721005402",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984997205682307158",
-    "source": "twitter",
-    "author": "fernandooghh",
-    "content": "@FactoryAI you guys have plans to add MinMax-M2?",
-    "url": "https://x.com/fernandooghh/status/1984997205682307158",
-    "timestamp": "2025-11-02T14:53:07.000Z",
-    "metadata": {
-      "conversation_id": "1984997205682307158",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
