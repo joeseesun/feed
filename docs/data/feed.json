@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985065538851361137",
+    "source": "twitter",
+    "author": "fabiorizzomatos",
+    "content": "@JoelDeTeves @FactoryAI I’ve tested with a lot of models, but never Gemini. Worth try? Using with DeepSeek and the droid rocks",
+    "url": "https://x.com/fabiorizzomatos/status/1985065538851361137",
+    "timestamp": "2025-11-02T19:24:39.000Z",
+    "metadata": {
+      "conversation_id": "1985065538851361137",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985062571746136071",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -23,7 +38,7 @@
     "timestamp": "2025-11-02T19:01:58.000Z",
     "metadata": {
       "conversation_id": "1985059828100743378",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985022322638757996",
-    "source": "twitter",
-    "author": "curiouslychase",
-    "content": "@ak_kim0 @FactoryAI I also use Claude Code and Amp depending on the task/what my token usage is for Droid.\n\nClaude Code is great for me for general document sense making (I use it with my Obsidian Vault).\n\n@AmpCode, imo, has the best *product* and I like the hand-feel of it.",
-    "url": "https://x.com/curiouslychase/status/1985022322638757996",
-    "timestamp": "2025-11-02T16:32:56.000Z",
-    "metadata": {
-      "conversation_id": "1985022322638757996",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
