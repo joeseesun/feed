@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985074016810377571",
+    "source": "twitter",
+    "author": "lower_case_b",
+    "content": "@aislepartnersai @corbin_braun @FactoryAI And can you script Cursor's multi-agent system to orchestrate + Claude/sub-agents, Codex, Gemini CLI Companion, etc?",
+    "url": "https://x.com/lower_case_b/status/1985074016810377571",
+    "timestamp": "2025-11-02T19:58:21.000Z",
+    "metadata": {
+      "conversation_id": "1985074016810377571",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985070266041745430",
     "source": "twitter",
     "author": "launchaddict",
@@ -85,7 +100,7 @@
       "conversation_id": "1985057194363265364",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985025107174080589",
-    "source": "twitter",
-    "author": "mohit__kulhari",
-    "content": "@curiouslychase @FactoryAI Tmux is great, I'm running it in my project to handle agents, every agent gets its own tmux session launching with `claude --dangerously..` then sending the prompt",
-    "url": "https://x.com/mohit__kulhari/status/1985025107174080589",
-    "timestamp": "2025-11-02T16:44:00.000Z",
-    "metadata": {
-      "conversation_id": "1985025107174080589",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
