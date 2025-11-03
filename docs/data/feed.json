@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1985279797040447994",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@malikwas1f @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI Actually, i switched to @MiniMax__AI M2 today because @OpenAI  GPT-5/Codex were just unbearable slow today and a few request I cancelled after 5 min and had to resend the prompt.",
+    "url": "https://x.com/SvenMeyer/status/1985279797040447994",
+    "timestamp": "2025-11-03T09:36:02.000Z",
+    "metadata": {
+      "conversation_id": "1985279797040447994",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985279165420167326",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@malikwas1f @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI I have been using @FactoryAI DROID half the day today with @MiniMax__AI M2 (on Linux) and had no issues. Definitely no crash.",
+    "url": "https://x.com/SvenMeyer/status/1985279165420167326",
+    "timestamp": "2025-11-03T09:33:32.000Z",
+    "metadata": {
+      "conversation_id": "1985279165420167326",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985276600619819128",
     "source": "twitter",
     "author": "cocolobaEMS",
@@ -68,7 +98,7 @@
     "timestamp": "2025-11-03T08:52:13.000Z",
     "metadata": {
       "conversation_id": "1985268769179247014",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -263,36 +293,6 @@
     "timestamp": "2025-11-03T03:35:15.000Z",
     "metadata": {
       "conversation_id": "1985189001372831876",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985183086511071517",
-    "source": "twitter",
-    "author": "maddiehfaulkner",
-    "content": "@acoustik Try @FactoryAI, way better",
-    "url": "https://x.com/maddiehfaulkner/status/1985183086511071517",
-    "timestamp": "2025-11-03T03:11:45.000Z",
-    "metadata": {
-      "conversation_id": "1985183086511071517",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985175253837140060",
-    "source": "twitter",
-    "author": "mrchris_ai",
-    "content": "@RayFernando1337  I am absolutely blown away by The planning process within @FactoryAI. It outshines what Claude code does, hands down. Thank you for your live sessions this week. You've got me hooked.",
-    "url": "https://x.com/mrchris_ai/status/1985175253837140060",
-    "timestamp": "2025-11-03T02:40:37.000Z",
-    "metadata": {
-      "conversation_id": "1985175253837140060",
       "likes": 1,
       "retweets": 0,
       "replies": 0,
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
