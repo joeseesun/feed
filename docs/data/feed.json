@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1985449877375979844",
+    "source": "twitter",
+    "author": "Carlos_0x",
+    "content": "I've been extremely impressed by @FactoryAI's performance and token usage.",
+    "url": "https://x.com/Carlos_0x/status/1985449877375979844",
+    "timestamp": "2025-11-03T20:51:53.000Z",
+    "metadata": {
+      "conversation_id": "1985449877375979844",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985448169531130283",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@nkgoutham @FactoryAI Depends on the model you use ¯\\_(ツ)_/¯",
+    "url": "https://x.com/launchaddict/status/1985448169531130283",
+    "timestamp": "2025-11-03T20:45:06.000Z",
+    "metadata": {
+      "conversation_id": "1985448169531130283",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985447960487084430",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@bentossell @FactoryAI Yeah I know there is a /mcp registry, I would have thought that the popular MCPs (at least for the tech world: playwright, figma, shadcn, A11y et al) would be on there. Obvi could be added manually but cater to the audience is the principle :)",
+    "url": "https://x.com/launchaddict/status/1985447960487084430",
+    "timestamp": "2025-11-03T20:44:16.000Z",
+    "metadata": {
+      "conversation_id": "1985447960487084430",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985444547665535305",
     "source": "twitter",
     "author": "jnyryl",
@@ -128,7 +173,7 @@
       "conversation_id": "1985421773383311580",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985405737460515178",
-    "source": "twitter",
-    "author": "launchaddict",
-    "content": "@meddi_kada @FactoryAI Yeah, I know I _could_ , but the question is where it will be made available via the sub",
-    "url": "https://x.com/launchaddict/status/1985405737460515178",
-    "timestamp": "2025-11-03T17:56:29.000Z",
-    "metadata": {
-      "conversation_id": "1985405737460515178",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985405608036569311",
-    "source": "twitter",
-    "author": "draslan_eth",
-    "content": "@nkgoutham @FactoryAI forcing youself to work efficently. love the mindset! keep it going!",
-    "url": "https://x.com/draslan_eth/status/1985405608036569311",
-    "timestamp": "2025-11-03T17:55:58.000Z",
-    "metadata": {
-      "conversation_id": "1985405608036569311",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985404976177549809",
-    "source": "twitter",
-    "author": "launchaddict",
-    "content": "@bentossell @FactoryAI Ledge. :adore:",
-    "url": "https://x.com/launchaddict/status/1985404976177549809",
-    "timestamp": "2025-11-03T17:53:28.000Z",
-    "metadata": {
-      "conversation_id": "1985404976177549809",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_307",
     "source": "github",
     "author": "humanjesse",
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 13,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -677,15 +677,15 @@
     }
   },
   {
-    "id": "reddit_1of1zjv",
+    "id": "reddit_1ofh3rn",
     "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 5,
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
