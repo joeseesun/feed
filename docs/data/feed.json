@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1985556546236137969",
+    "source": "twitter",
+    "author": "cirucetam",
+    "content": "@nkgoutham @FactoryAI @bentossell Yeah @FactoryAI @bentossell what do you think about this? Ready to steal some Claude Max Plan users?",
+    "url": "https://x.com/cirucetam/status/1985556546236137969",
+    "timestamp": "2025-11-04T03:55:45.000Z",
+    "metadata": {
+      "conversation_id": "1985556546236137969",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985555897389834396",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@cirucetam @FactoryAI Agree! That’ll definitely move a lot Claude Max plan users here. @bentossell FYI 😅",
+    "url": "https://x.com/nkgoutham/status/1985555897389834396",
+    "timestamp": "2025-11-04T03:53:10.000Z",
+    "metadata": {
+      "conversation_id": "1985555897389834396",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985555122475446702",
+    "source": "twitter",
+    "author": "cirucetam",
+    "content": "@nkgoutham @FactoryAI It seems they need to implement the plan for the $100 option.",
+    "url": "https://x.com/cirucetam/status/1985555122475446702",
+    "timestamp": "2025-11-04T03:50:05.000Z",
+    "metadata": {
+      "conversation_id": "1985555122475446702",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985553833448370543",
     "source": "twitter",
     "author": "nest_elf",
@@ -23,7 +68,7 @@
     "timestamp": "2025-11-04T03:43:47.000Z",
     "metadata": {
       "conversation_id": "1985553537359564821",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985447960487084430",
-    "source": "twitter",
-    "author": "launchaddict",
-    "content": "@bentossell @FactoryAI Yeah I know there is a /mcp registry, I would have thought that the popular MCPs (at least for the tech world: playwright, figma, shadcn, A11y et al) would be on there. Obvi could be added manually but cater to the audience is the principle :)",
-    "url": "https://x.com/launchaddict/status/1985447960487084430",
-    "timestamp": "2025-11-03T20:44:16.000Z",
-    "metadata": {
-      "conversation_id": "1985447960487084430",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985444547665535305",
-    "source": "twitter",
-    "author": "jnyryl",
-    "content": "@hassandev22 @RayFernando1337 @Factory @FactoryAI Fairly certain you can add them yourself for free",
-    "url": "https://x.com/jnyryl/status/1985444547665535305",
-    "timestamp": "2025-11-03T20:30:42.000Z",
-    "metadata": {
-      "conversation_id": "1985444547665535305",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985441019593195802",
-    "source": "twitter",
-    "author": "BillQueens",
-    "content": "@AntonioJASmith @FactoryAI When do these gay ass posts end?",
-    "url": "https://x.com/BillQueens/status/1985441019593195802",
-    "timestamp": "2025-11-03T20:16:41.000Z",
-    "metadata": {
-      "conversation_id": "1985441019593195802",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_308",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -346,7 +346,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
