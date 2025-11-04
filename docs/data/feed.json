@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985807263668359586",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@vleytman @FactoryAI Haha... True, monthly cadence won't soon work anymore 😂",
+    "url": "https://x.com/5aikat/status/1985807263668359586",
+    "timestamp": "2025-11-04T20:32:00.000Z",
+    "metadata": {
+      "conversation_id": "1985807263668359586",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985804745643344332",
     "source": "twitter",
     "author": "vleytman",
@@ -10,7 +25,7 @@
       "conversation_id": "1985804745643344332",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +53,7 @@
     "timestamp": "2025-11-04T20:03:52.000Z",
     "metadata": {
       "conversation_id": "1985800183456862587",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -231,7 +246,7 @@
     "timestamp": "2025-11-04T19:05:26.000Z",
     "metadata": {
       "conversation_id": "1985785477283398067",
-      "likes": 4,
+      "likes": 5,
       "retweets": 1,
       "replies": 2,
       "quotes": 0
@@ -292,21 +307,6 @@
     "metadata": {
       "conversation_id": "1985783791613591874",
       "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985782420499497262",
-    "source": "twitter",
-    "author": "0xnirmal",
-    "content": "@brexton @cursor_ai @AmpCode @FactoryAI 🔥",
-    "url": "https://x.com/0xnirmal/status/1985782420499497262",
-    "timestamp": "2025-11-04T18:53:17.000Z",
-    "metadata": {
-      "conversation_id": "1985782420499497262",
-      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -425,7 +425,7 @@
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
       "score": 9,
-      "num_comments": 12,
+      "num_comments": 13,
       "subreddit": "FactoryAi"
     }
   },
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
