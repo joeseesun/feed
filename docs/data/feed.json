@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985638963596705968",
+    "source": "twitter",
+    "author": "ramnanimanan",
+    "content": "@nest_elf @FactoryAI gpt-5 pro in factory ai has been timing out https://t.co/wHlTMJGaTD",
+    "url": "https://x.com/ramnanimanan/status/1985638963596705968",
+    "timestamp": "2025-11-04T09:23:14.000Z",
+    "metadata": {
+      "conversation_id": "1985638963596705968",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985625286734725512",
     "source": "twitter",
     "author": "BigForestFarms",
@@ -173,7 +188,7 @@
     "timestamp": "2025-11-04T04:50:37.000Z",
     "metadata": {
       "conversation_id": "1985570357441396843",
-      "likes": 11,
+      "likes": 13,
       "retweets": 2,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985532754524868756",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@arjundivecha @EnoReyes @FactoryAI wow - thanks a bunch for this! i’ll do this.",
-    "url": "https://x.com/nkgoutham/status/1985532754524868756",
-    "timestamp": "2025-11-04T02:21:12.000Z",
-    "metadata": {
-      "conversation_id": "1985532754524868756",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_308",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -346,7 +346,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -686,19 +686,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
       "subreddit": "FactoryAi"
     }
   },
