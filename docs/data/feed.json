@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1985735091860226248",
+    "source": "twitter",
+    "author": "zeinersyad",
+    "content": "@pascallammers_ @FactoryAI so Factory AI agent does async code in the cloud? I never tried this",
+    "url": "https://x.com/zeinersyad/status/1985735091860226248",
+    "timestamp": "2025-11-04T15:45:13.000Z",
+    "metadata": {
+      "conversation_id": "1985735091860226248",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985734159206400476",
+    "source": "twitter",
+    "author": "Francesco_Oddo",
+    "content": "Coding with @FactoryAI using Minimax M2 from @Hailuo_AI &amp; GLM 4.6 from @Zai_org using @OpenRouterAI as Provider...\n\nWow imagine if this was an add, I would be a millionaire 😂\n\nSadly is not, but I'm in love with all 4 those products so I think is worth sharing. https://t.co/SI0NQzMvcr",
+    "url": "https://x.com/Francesco_Oddo/status/1985734159206400476",
+    "timestamp": "2025-11-04T15:41:31.000Z",
+    "metadata": {
+      "conversation_id": "1985734159206400476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985733836584493424",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JCodesMore @AntonioJASmith @nkgoutham @FactoryAI fair enough",
+    "url": "https://x.com/bentossell/status/1985733836584493424",
+    "timestamp": "2025-11-04T15:40:14.000Z",
+    "metadata": {
+      "conversation_id": "1985733836584493424",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985733665603928186",
+    "source": "twitter",
+    "author": "JCodesMore",
+    "content": "@bentossell @AntonioJASmith @nkgoutham @FactoryAI Hard to distinguish",
+    "url": "https://x.com/JCodesMore/status/1985733665603928186",
+    "timestamp": "2025-11-04T15:39:33.000Z",
+    "metadata": {
+      "conversation_id": "1985733665603928186",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985733521520894041",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JCodesMore @AntonioJASmith @nkgoutham @FactoryAI and also just enthusiastic people talking about tools they like",
+    "url": "https://x.com/bentossell/status/1985733521520894041",
+    "timestamp": "2025-11-04T15:38:59.000Z",
+    "metadata": {
+      "conversation_id": "1985733521520894041",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985733435777044494",
+    "source": "twitter",
+    "author": "JCodesMore",
+    "content": "@bentossell @AntonioJASmith @nkgoutham @FactoryAI Yes. The platform that has hidden paid promo and influencer marketing everywhere.",
+    "url": "https://x.com/JCodesMore/status/1985733435777044494",
+    "timestamp": "2025-11-04T15:38:38.000Z",
+    "metadata": {
+      "conversation_id": "1985733435777044494",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985732029741191660",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nkgoutham @cirucetam @FactoryAI awesome! - teams in sf so waking up soon",
+    "url": "https://x.com/bentossell/status/1985732029741191660",
+    "timestamp": "2025-11-04T15:33:03.000Z",
+    "metadata": {
+      "conversation_id": "1985732029741191660",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985731959016862180",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JCodesMore @AntonioJASmith @nkgoutham @FactoryAI hardly. this is twitter.",
+    "url": "https://x.com/bentossell/status/1985731959016862180",
+    "timestamp": "2025-11-04T15:32:46.000Z",
+    "metadata": {
+      "conversation_id": "1985731959016862180",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985731051705286785",
     "source": "twitter",
     "author": "amans_twt",
@@ -8,7 +128,7 @@
     "timestamp": "2025-11-04T15:29:10.000Z",
     "metadata": {
       "conversation_id": "1985731051705286785",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,9 +143,9 @@
     "timestamp": "2025-11-04T15:27:14.000Z",
     "metadata": {
       "conversation_id": "1985730563316339078",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -40,7 +160,7 @@
       "conversation_id": "1985730504407335132",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,7 +233,7 @@
     "timestamp": "2025-11-04T14:56:02.000Z",
     "metadata": {
       "conversation_id": "1985722714611425568",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -143,7 +263,7 @@
     "timestamp": "2025-11-04T14:54:55.000Z",
     "metadata": {
       "conversation_id": "1985722431365882211",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -158,9 +278,9 @@
     "timestamp": "2025-11-04T14:31:45.000Z",
     "metadata": {
       "conversation_id": "1985716602759684153",
-      "likes": 5,
+      "likes": 7,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -174,126 +294,6 @@
     "metadata": {
       "conversation_id": "1985712191526649918",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985709059262087231",
-    "source": "twitter",
-    "author": "i_can_manage",
-    "content": "I was starting to wonder how long I was going to enjoy all this free coding with @FactoryAI. So far, probably much more reliable code produced than the competition.",
-    "url": "https://x.com/i_can_manage/status/1985709059262087231",
-    "timestamp": "2025-11-04T14:01:47.000Z",
-    "metadata": {
-      "conversation_id": "1985709059262087231",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985708422629617759",
-    "source": "twitter",
-    "author": "EvanDeKim",
-    "content": "MCPs are AI-product agnostic. I can port multi-database analytics workflows between @OpenAI codex, @claudeai code, and @FactoryAI cli depending on my use cases:\n* codex cli for tool call visualization and context management\n* droid to power agents for gpt models\n* claude code for anything that codex and droid don't have",
-    "url": "https://x.com/EvanDeKim/status/1985708422629617759",
-    "timestamp": "2025-11-04T13:59:15.000Z",
-    "metadata": {
-      "conversation_id": "1985708422629617759",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985699920964207017",
-    "source": "twitter",
-    "author": "MoizIbnYousaf",
-    "content": "@nest_elf @FactoryAI How do you even have gpt5pro in factory? it’s not available as a model there afaik",
-    "url": "https://x.com/MoizIbnYousaf/status/1985699920964207017",
-    "timestamp": "2025-11-04T13:25:28.000Z",
-    "metadata": {
-      "conversation_id": "1985699920964207017",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985693257787957606",
-    "source": "twitter",
-    "author": "JCodesMore",
-    "content": "@AntonioJASmith @nkgoutham @FactoryAI Why does this whole thread read like an undercover promo campaign",
-    "url": "https://x.com/JCodesMore/status/1985693257787957606",
-    "timestamp": "2025-11-04T12:58:59.000Z",
-    "metadata": {
-      "conversation_id": "1985693257787957606",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985680635776704745",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Aristotleless @FactoryAI thx will look",
-    "url": "https://x.com/bentossell/status/1985680635776704745",
-    "timestamp": "2025-11-04T12:08:50.000Z",
-    "metadata": {
-      "conversation_id": "1985680635776704745",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985680542155599957",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@5aikat @FactoryAI 🧠",
-    "url": "https://x.com/bentossell/status/1985680542155599957",
-    "timestamp": "2025-11-04T12:08:28.000Z",
-    "metadata": {
-      "conversation_id": "1985680542155599957",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985677799680852249",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "I love @FactoryAI cli, its my daily driver, using with cliproxyapi and chatgpt pro, recently facing issues like web search failing, i blv if once custom models get first class support in here with everything, that would be dope, right now cant choose custom model as spec model",
-    "url": "https://x.com/immoinulmoin/status/1985677799680852249",
-    "timestamp": "2025-11-04T11:57:34.000Z",
-    "metadata": {
-      "conversation_id": "1985677799680852249",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985674181632020608",
-    "source": "twitter",
-    "author": "emot",
-    "content": "@edels0n @matanSF @FactoryAI good one. \n(side note: what software do you use for the vertical video and captions there? is it Riverside?)",
-    "url": "https://x.com/emot/status/1985674181632020608",
-    "timestamp": "2025-11-04T11:43:11.000Z",
-    "metadata": {
-      "conversation_id": "1985674181632020608",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -326,6 +326,19 @@
     }
   },
   {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -336,6 +349,32 @@
       "type": "issue",
       "labels": [],
       "number": 302
+    }
+  },
+  {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 8,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -365,6 +404,19 @@
     }
   },
   {
+    "id": "reddit_1om3tvt",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
+    "timestamp": "2025-11-02T00:38:45.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_298",
     "source": "github",
     "author": "tgerighty",
@@ -388,6 +440,32 @@
       "type": "issue",
       "labels": [],
       "number": 297
+    }
+  },
+  {
+    "id": "reddit_1oljgx4",
+    "source": "reddit",
+    "author": "steve1215",
+    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
+    "timestamp": "2025-11-01T09:23:30.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1okwodb",
+    "source": "reddit",
+    "author": "Uzeii",
+    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
+    "timestamp": "2025-10-31T14:51:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -453,6 +531,19 @@
       "type": "issue",
       "labels": [],
       "number": 279
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -570,6 +661,45 @@
       "type": "issue",
       "labels": [],
       "number": 262
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 13,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
