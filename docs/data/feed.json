@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1985887106389189099",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "Feature request for @FactoryAI @claudeai et all to have a Q&amp;A mode, so that it can capture &amp; test my thinking, and then work using that.. Not return ~15 complex questions for be to answered which is overwhelming ¯\\_(ツ)_/¯",
+    "url": "https://x.com/launchaddict/status/1985887106389189099",
+    "timestamp": "2025-11-05T01:49:16.000Z",
+    "metadata": {
+      "conversation_id": "1985887106389189099",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985879085571248269",
+    "source": "twitter",
+    "author": "tanayj",
+    "content": "@brexton @cursor_ai @AmpCode @FactoryAI very cool!",
+    "url": "https://x.com/tanayj/status/1985879085571248269",
+    "timestamp": "2025-11-05T01:17:24.000Z",
+    "metadata": {
+      "conversation_id": "1985879085571248269",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985861387722317977",
+    "source": "twitter",
+    "author": "Social_Quotient",
+    "content": "hey @FactoryAI  any chance I can tease out of you an eta on pre/post hooks? keep cookin🔥",
+    "url": "https://x.com/Social_Quotient/status/1985861387722317977",
+    "timestamp": "2025-11-05T00:07:05.000Z",
+    "metadata": {
+      "conversation_id": "1985861387722317977",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985854714676912519",
     "source": "twitter",
     "author": "dogancanbaris",
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985796268992708877",
-    "source": "twitter",
-    "author": "abhagsain",
-    "content": "@sqs @AmpCode @FactoryAI It couldn't understand the issue. Kept doing same things over and over. The reasoning was all over the place. Kept  contradicting previous steps.\nThen finally I asked it to create a problem PRD and fed that into Droid with high reasoning mode and it got it right in 3 tries.",
-    "url": "https://x.com/abhagsain/status/1985796268992708877",
-    "timestamp": "2025-11-04T19:48:19.000Z",
-    "metadata": {
-      "conversation_id": "1985796268992708877",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985794651454902442",
-    "source": "twitter",
-    "author": "lghtneon",
-    "content": "@thinkbuildnext @xai @FactoryAI do you use API from openrouter?",
-    "url": "https://x.com/lghtneon/status/1985794651454902442",
-    "timestamp": "2025-11-04T19:41:53.000Z",
-    "metadata": {
-      "conversation_id": "1985794651454902442",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985794299238154649",
-    "source": "twitter",
-    "author": "davidrsdlife",
-    "content": "@nest_elf @FactoryAI it’s so good",
-    "url": "https://x.com/davidrsdlife/status/1985794299238154649",
-    "timestamp": "2025-11-04T19:40:29.000Z",
-    "metadata": {
-      "conversation_id": "1985794299238154649",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_314",
     "source": "github",
     "author": "lifeisnphard",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -698,19 +698,6 @@
     "timestamp": "2025-10-25T03:21:56.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }
