@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1986063756871536660",
+    "source": "twitter",
+    "author": "CudaSlayer",
+    "content": "And it's ready on droid @FactoryAI https://t.co/3veqlpRgCh",
+    "url": "https://x.com/CudaSlayer/status/1986063756871536660",
+    "timestamp": "2025-11-05T13:31:13.000Z",
+    "metadata": {
+      "conversation_id": "1986063756871536660",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986062970456019265",
+    "source": "twitter",
+    "author": "snyksec",
+    "content": "Snyk and @FactoryAI Partner to Secure AI-Native Development! 🚀 \n\n⚡ Speed &amp; Security\n🧠 AI-Powered\n🔒 Secure from Inception\n\nLearn how we're redefining secure AI-driven software delivery:\nhttps://t.co/cdyuxaIUSO\n\n#Snyk #FactoryAI #AISecurity #DevSecOps #SnykStudio https://t.co/sn6rNJE1i4",
+    "url": "https://x.com/snyksec/status/1986062970456019265",
+    "timestamp": "2025-11-05T13:28:06.000Z",
+    "metadata": {
+      "conversation_id": "1986062970456019265",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986061425757073755",
+    "source": "twitter",
+    "author": "hassandev22",
+    "content": "@rezaul_arif @FactoryAI what prompt you gave",
+    "url": "https://x.com/hassandev22/status/1986061425757073755",
+    "timestamp": "2025-11-05T13:21:57.000Z",
+    "metadata": {
+      "conversation_id": "1986061425757073755",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986060281722830853",
+    "source": "twitter",
+    "author": "samuelekpe",
+    "content": "This is the future of work: i am orchestrating @FactoryAI 's droid to work with @claudeai claude code to work with @OpenAI 's codex to work with @GoogleDeepMind Jules to work as a team to solve a complex problem.\nMulti-agent collaboration and autonomous orchestration is the future of work; and Collective Super Intelligence is the next frontier; that's our bet at @grupa_ai",
+    "url": "https://x.com/samuelekpe/status/1986060281722830853",
+    "timestamp": "2025-11-05T13:17:25.000Z",
+    "metadata": {
+      "conversation_id": "1986060281722830853",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986045094487847375",
     "source": "twitter",
     "author": "rezaul_arif",
@@ -10,7 +70,7 @@
       "conversation_id": "1986045094487847375",
       "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985930456823710041",
-    "source": "twitter",
-    "author": "pgbouncer",
-    "content": "@jeffreyhuber Are they really underrated though? Feel like there’s lots of talk around what eg @FactoryAI are doing to improve harness experience",
-    "url": "https://x.com/pgbouncer/status/1985930456823710041",
-    "timestamp": "2025-11-05T04:41:32.000Z",
-    "metadata": {
-      "conversation_id": "1985930456823710041",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985922655279857822",
-    "source": "twitter",
-    "author": "garyfung",
-    "content": "@brexton @cursor_ai @AmpCode @FactoryAI no for gemini too dumb. Cheap is cheap with pro 2.5. Waiting for Sir Demis to give us 3.0 ultra",
-    "url": "https://x.com/garyfung/status/1985922655279857822",
-    "timestamp": "2025-11-05T04:10:32.000Z",
-    "metadata": {
-      "conversation_id": "1985922655279857822",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985922101438791906",
-    "source": "twitter",
-    "author": "brexton",
-    "content": "@garyfung @cursor_ai @AmpCode @FactoryAI Factory has been really good recently and they’re super generous with credits\n\nIf you’re looking for super cost effective I would try Gemini CLI too!!",
-    "url": "https://x.com/brexton/status/1985922101438791906",
-    "timestamp": "2025-11-05T04:08:20.000Z",
-    "metadata": {
-      "conversation_id": "1985922101438791906",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985922073253073226",
-    "source": "twitter",
-    "author": "turnedninja",
-    "content": "@5aikat @FactoryAI How much did they pay you to post this? \n\nMy 3 hours session consumed all $20. Just like previous cursor. If you’re not careful, then the billing would go wild.",
-    "url": "https://x.com/turnedninja/status/1985922073253073226",
-    "timestamp": "2025-11-05T04:08:13.000Z",
-    "metadata": {
-      "conversation_id": "1985922073253073226",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oomptx",
     "source": "reddit",
     "author": "samplifyk",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 7,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
