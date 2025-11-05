@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1986118241618698729",
+    "source": "twitter",
+    "author": "samuelekpe",
+    "content": "@bentossell @FactoryAI @claudeai @OpenAI @GoogleDeepMind Thanks! Wanna see what we’re cooking?",
+    "url": "https://x.com/samuelekpe/status/1986118241618698729",
+    "timestamp": "2025-11-05T17:07:43.000Z",
+    "metadata": {
+      "conversation_id": "1986118241618698729",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986112561658368039",
     "source": "twitter",
     "author": "BillCrosby",
@@ -38,9 +53,9 @@
     "timestamp": "2025-11-05T16:35:06.000Z",
     "metadata": {
       "conversation_id": "1986110032048480464",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -156,7 +171,7 @@
     "timestamp": "2025-11-05T14:57:18.000Z",
     "metadata": {
       "conversation_id": "1986085421462536417",
-      "likes": 16,
+      "likes": 17,
       "retweets": 2,
       "replies": 2,
       "quotes": 0
@@ -186,7 +201,7 @@
     "timestamp": "2025-11-05T14:03:27.000Z",
     "metadata": {
       "conversation_id": "1986071869699522627",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -246,7 +261,7 @@
     "timestamp": "2025-11-05T13:28:06.000Z",
     "metadata": {
       "conversation_id": "1986062970456019265",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -276,7 +291,7 @@
     "timestamp": "2025-11-05T13:17:25.000Z",
     "metadata": {
       "conversation_id": "1986060281722830853",
-      "likes": 4,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -291,24 +306,9 @@
     "timestamp": "2025-11-05T12:17:04.000Z",
     "metadata": {
       "conversation_id": "1986045094487847375",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986044661912527189",
-    "source": "twitter",
-    "author": "MickeyShaughnes",
-    "content": "@LeeLeepenkman @FactoryAI ain't it the way",
-    "url": "https://x.com/MickeyShaughnes/status/1986044661912527189",
-    "timestamp": "2025-11-05T12:15:20.000Z",
-    "metadata": {
-      "conversation_id": "1986044661912527189",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -690,15 +690,15 @@
     }
   },
   {
-    "id": "reddit_1ofh9so",
+    "id": "reddit_1ofmunx",
     "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 1,
+      "score": 12,
+      "num_comments": 11,
       "subreddit": "FactoryAi"
     }
   },
