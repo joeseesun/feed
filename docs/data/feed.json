@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1986394722152091822",
+    "source": "twitter",
+    "author": "asensitivedev",
+    "content": "@FactoryAI 3/3 I'm aware it can be wrong sometimes, but if you imagine a CS student trying to build personal project, it's very very surprisingly. I'm gonna try deeper and deeper to build more complex projects and I'm gonna share the whole process here.",
+    "url": "https://x.com/asensitivedev/status/1986394722152091822",
+    "timestamp": "2025-11-06T11:26:21.000Z",
+    "metadata": {
+      "conversation_id": "1986394722152091822",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986394382833230254",
+    "source": "twitter",
+    "author": "asensitivedev",
+    "content": "@FactoryAI 2/3 I'm using it to build some very simple app/websites just by giving a very SIMPLE prompt without optimizing it, in less then 20 minutes it has built the whole project, refactored it and implemented new features without doing any errors, it always built smoothly.",
+    "url": "https://x.com/asensitivedev/status/1986394382833230254",
+    "timestamp": "2025-11-06T11:25:00.000Z",
+    "metadata": {
+      "conversation_id": "1986394382833230254",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986393924332585285",
+    "source": "twitter",
+    "author": "asensitivedev",
+    "content": "I've been playing around with Droid by @FactoryAI and IT IS AWESOME. I've never used AI agents in the last years but I've always followed the progress during this time. I've started trying them with Codex, Claude Code with Sonnet 4.5 and Droid literally outperformed all them all.",
+    "url": "https://x.com/asensitivedev/status/1986393924332585285",
+    "timestamp": "2025-11-06T11:23:11.000Z",
+    "metadata": {
+      "conversation_id": "1986393924332585285",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986393294247718945",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FactoryAI @snyksec yes, DROID already stopped a couple of times API keys being pushed to GitHub! 🙏🏻",
+    "url": "https://x.com/SvenMeyer/status/1986393294247718945",
+    "timestamp": "2025-11-06T11:20:41.000Z",
+    "metadata": {
+      "conversation_id": "1986393294247718945",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986371793414680840",
     "source": "twitter",
     "author": "CuratedDesignHQ",
@@ -180,21 +240,6 @@
     }
   },
   {
-    "id": "twitter_1986300588284649880",
-    "source": "twitter",
-    "author": "hqmank",
-    "content": "@sha_sujin @FactoryAI Factory AI is so generous — they give new users a huge amount of tokens!",
-    "url": "https://x.com/hqmank/status/1986300588284649880",
-    "timestamp": "2025-11-06T05:12:18.000Z",
-    "metadata": {
-      "conversation_id": "1986300588284649880",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "twitter_1986299882332954918",
     "source": "twitter",
     "author": "sha_sujin",
@@ -248,51 +293,6 @@
     "timestamp": "2025-11-06T02:10:06.000Z",
     "metadata": {
       "conversation_id": "1986254735993938084",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986251582359675373",
-    "source": "twitter",
-    "author": "mikez93",
-    "content": "Truly mind-bending to watch Sonnet 4.5 with @FactoryAI Droid harness collaborating with GPT-5 High in @RepoPrompt  to solve ridiculously complex issues that are WAY beyond my paygrade... But crucial to making my project work. \n\nTrippy times... man. https://t.co/H7eYtKrWyw",
-    "url": "https://x.com/mikez93/status/1986251582359675373",
-    "timestamp": "2025-11-06T01:57:34.000Z",
-    "metadata": {
-      "conversation_id": "1986251582359675373",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986250019540988403",
-    "source": "twitter",
-    "author": "1Bexly",
-    "content": "@FactoryAI @snyksec Good move 🔥🔥",
-    "url": "https://x.com/1Bexly/status/1986250019540988403",
-    "timestamp": "2025-11-06T01:51:22.000Z",
-    "metadata": {
-      "conversation_id": "1986250019540988403",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986245550484738211",
-    "source": "twitter",
-    "author": "_abilshr",
-    "content": "droids are coming @FactoryAI",
-    "url": "https://x.com/_abilshr/status/1986245550484738211",
-    "timestamp": "2025-11-06T01:33:36.000Z",
-    "metadata": {
-      "conversation_id": "1986245550484738211",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
