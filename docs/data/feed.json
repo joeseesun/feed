@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1986608136250364036",
+    "source": "twitter",
+    "author": "aerionmm",
+    "content": "@FactoryAI  still can't authenticate with figma mcp ... lol let me submit a pr to fix this if yall need to",
+    "url": "https://x.com/aerionmm/status/1986608136250364036",
+    "timestamp": "2025-11-07T01:34:23.000Z",
+    "metadata": {
+      "conversation_id": "1986608136250364036",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986603770315243878",
+    "source": "twitter",
+    "author": "PrinceJuni22547",
+    "content": "EVEN THOU droid BY @FactoryAI  is using 3.7 under the hood ,it's way better than @OpenAI  codex !  or anything out right now !! ANYTHING ! @OpenAIDevs",
+    "url": "https://x.com/PrinceJuni22547/status/1986603770315243878",
+    "timestamp": "2025-11-07T01:17:02.000Z",
+    "metadata": {
+      "conversation_id": "1986603770315243878",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986586818394128661",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@arafatkatze @kcosr Yes , switching models mid way too often is not helpful. @FactoryAI DROID CLI shows repeatedly ~90% Cache read hit rates, so that helps at least a lot to keep the amount of used tokens low.",
+    "url": "https://x.com/SvenMeyer/status/1986586818394128661",
+    "timestamp": "2025-11-07T00:09:41.000Z",
+    "metadata": {
+      "conversation_id": "1986586818394128661",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986578490720764245",
     "source": "twitter",
     "author": "zeddotdev",
@@ -268,48 +313,16 @@
     }
   },
   {
-    "id": "twitter_1986499824016105925",
-    "source": "twitter",
-    "author": "yaghsizian",
-    "content": "@bentossell @dogancanbaris @5aikat @FactoryAI Hmm possible. Is there logging somewhere i can dig into? i’ll try to time and capture the error message next time",
-    "url": "https://x.com/yaghsizian/status/1986499824016105925",
-    "timestamp": "2025-11-06T18:24:00.000Z",
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "conversation_id": "1986499824016105925",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986499085172396346",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@yaghsizian @dogancanbaris @5aikat @FactoryAI oh. a timeout perhaps?",
-    "url": "https://x.com/bentossell/status/1986499085172396346",
-    "timestamp": "2025-11-06T18:21:03.000Z",
-    "metadata": {
-      "conversation_id": "1986499085172396346",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986499010668920974",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@kylantomita @FactoryAI this is expected with sonnet being around 5x more expensive",
-    "url": "https://x.com/bentossell/status/1986499010668920974",
-    "timestamp": "2025-11-06T18:20:46.000Z",
-    "metadata": {
-      "conversation_id": "1986499010668920974",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -398,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 9,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -443,6 +456,19 @@
     }
   },
   {
+    "id": "reddit_1om3tvt",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
+    "timestamp": "2025-11-02T00:38:45.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 13,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_298",
     "source": "github",
     "author": "tgerighty",
@@ -466,6 +492,32 @@
       "type": "issue",
       "labels": [],
       "number": 297
+    }
+  },
+  {
+    "id": "reddit_1oljgx4",
+    "source": "reddit",
+    "author": "steve1215",
+    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
+    "timestamp": "2025-11-01T09:23:30.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1okwodb",
+    "source": "reddit",
+    "author": "Uzeii",
+    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
+    "timestamp": "2025-10-31T14:51:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -518,6 +570,19 @@
       "type": "issue",
       "labels": [],
       "number": 282
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -632,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 13,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -651,32 +716,6 @@
     }
   },
   {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -687,19 +726,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
-  },
-  {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -716,19 +742,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -739,19 +752,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {
