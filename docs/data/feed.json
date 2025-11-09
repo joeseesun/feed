@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1987363177433341996",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@lucas_montano No - Not every AI model needs its own proprietary CLI Agentic coding tool ! We already have more than enough. Actually, one good one is enough which can run with any model. One of the reasons why I only use @FactoryAI DROID CLI.",
+    "url": "https://x.com/SvenMeyer/status/1987363177433341996",
+    "timestamp": "2025-11-09T03:34:39.000Z",
+    "metadata": {
+      "conversation_id": "1987363177433341996",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987324467433951683",
     "source": "twitter",
     "author": "nest_elf",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1987216401980137633",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@matanSF @gilhildebrand @cursor_ai @FactoryAI thats native chatgpt/claude subs integration will be hugeeee",
-    "url": "https://x.com/immoinulmoin/status/1987216401980137633",
-    "timestamp": "2025-11-08T17:51:25.000Z",
-    "metadata": {
-      "conversation_id": "1987216401980137633",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_328",
     "source": "github",
     "author": "a112121788",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
