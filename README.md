@@ -1,5 +1,7 @@
 # Social Feed Aggregator
 
+Built with [Droid](https://factory.ai)
+
 A private social media feed aggregator for tracking mentions and content across Twitter, Reddit, and GitHub. Perfect for monitoring brand mentions, competitor activity, or topic-specific content. Runs on GitHub Pages with automated scraping via GitHub Actions.
 
 ## Use Cases
