@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_331",
+    "source": "github",
+    "author": "spionkind",
+    "content": "[Issue] Issue with GPT5 Codex and Custom Model on Droid\n\n Hi,\n\nwhenever I chosed GPT5-codex model it show this error message:\nError: 400 Invalid 'tools[40].name': string too long. Expected a string with maximum length 64, but got a string with length 66 instead.\n\nand when I try with custom model (qwen3 coder), it shows this:\nError: 400 <400> InternalError.Algo.InvalidParameter: The length of the tool name cannot exceed 64.\n\nDroid still works well with other model suchas sonnet 4.5, glm 4.6\n\nPlease help me on this issues\n\nBest regards,\nGiang",
+    "url": "https://github.com/Factory-AI/factory/issues/331",
+    "timestamp": "2025-11-09T16:19:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 331
+    }
+  },
+  {
     "id": "twitter_1987546544346898633",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -398,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -687,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 275
-    }
-  },
-  {
-    "id": "github_issue_269",
-    "source": "github",
-    "author": "acomarcho",
-    "content": "[Issue] Droid having troubles accessing Git in remote workspace/integration via Slack\n\nI keep having to babysit it to tell they can run something like this to make it work:\n\n```\ngit config --global credential.helper store && echo \"https://factory-droid[bot]:${GH_TOKEN}@github.com\" > ~/.git-credentials 2>&1 || true\n```\n\nAs a result, most of my runs using Haiku/Codex just stopped and not create an actual PR afterwards because of this.\n\nSome sample screenshots showing it was struggling:\n\n<img width=\"512\" height=\"399\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/17d1b4b",
-    "url": "https://github.com/Factory-AI/factory/issues/269",
-    "timestamp": "2025-10-27T15:25:17Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 269
     }
   },
   {
