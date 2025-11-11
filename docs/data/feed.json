@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988200642209607873",
+    "source": "twitter",
+    "author": "ArchiSoftTech",
+    "content": "@bentossell @FactoryAI please add a -flag  for debug  thx",
+    "url": "https://x.com/ArchiSoftTech/status/1988200642209607873",
+    "timestamp": "2025-11-11T11:02:26.000Z",
+    "metadata": {
+      "conversation_id": "1988200642209607873",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988194948920009112",
     "source": "twitter",
     "author": "AVGVSTVS96",
@@ -145,7 +160,7 @@
       "conversation_id": "1988190378499936361",
       "likes": 1,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -295,21 +310,6 @@
       "retweets": 0,
       "replies": 2,
       "quotes": 1
-    }
-  },
-  {
-    "id": "twitter_1987984858585706699",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@bentossell @FactoryAI @Kimi_Moonshot @nahcrof oh a birthday gift to meeee ( tomorrow )",
-    "url": "https://x.com/fire/status/1987984858585706699",
-    "timestamp": "2025-11-10T20:44:59.000Z",
-    "metadata": {
-      "conversation_id": "1987984858585706699",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
