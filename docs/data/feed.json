@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988452486634786975",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@melodykoh @FactoryAI @claudeai @OpenAI Melody, that's a cool experiment, but I wonder, are you also looking at the cost factor, yaar?",
+    "url": "https://x.com/codewithimanshu/status/1988452486634786975",
+    "timestamp": "2025-11-12T03:43:11.000Z",
+    "metadata": {
+      "conversation_id": "1988452486634786975",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988440783092150539",
     "source": "twitter",
     "author": "shreyas1009",
@@ -38,7 +53,7 @@
     "timestamp": "2025-11-12T02:51:23.000Z",
     "metadata": {
       "conversation_id": "1988439451669057723",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -203,7 +218,7 @@
     "timestamp": "2025-11-12T00:53:24.000Z",
     "metadata": {
       "conversation_id": "1988409761805869214",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -280,21 +295,6 @@
       "conversation_id": "1988394401975202289",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988393089426403701",
-    "source": "twitter",
-    "author": "damien_r_h",
-    "content": "@elonmusk Convince @FactoryAI team to make it available through Droid. Any Grok model ftm.",
-    "url": "https://x.com/damien_r_h/status/1988393089426403701",
-    "timestamp": "2025-11-11T23:47:09.000Z",
-    "metadata": {
-      "conversation_id": "1988393089426403701",
-      "likes": 3,
-      "retweets": 2,
       "replies": 0,
       "quotes": 0
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
