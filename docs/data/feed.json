@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988848495474692470",
+    "source": "twitter",
+    "author": "HaasOnSaaS",
+    "content": "@kartiksmath @FactoryAI In a NUC in my homelab :)",
+    "url": "https://x.com/HaasOnSaaS/status/1988848495474692470",
+    "timestamp": "2025-11-13T05:56:46.000Z",
+    "metadata": {
+      "conversation_id": "1988848495474692470",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988847316409692498",
     "source": "twitter",
     "author": "immoinulmoin",
@@ -40,7 +55,7 @@
       "conversation_id": "1988822884861792751",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1988774270928056470",
-    "source": "twitter",
-    "author": "gabedev_",
-    "content": "@nathanpareo @FactoryAI getting the same error",
-    "url": "https://x.com/gabedev_/status/1988774270928056470",
-    "timestamp": "2025-11-13T01:01:50.000Z",
-    "metadata": {
-      "conversation_id": "1988774270928056470",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ovbn7q",
     "source": "reddit",
     "author": "UrAn8",
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
