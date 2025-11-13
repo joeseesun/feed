@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1988962813172457817",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@5aikat @Social_Quotient @ReplyGrinder1 @FactoryAI @AnthropicAI i'll check it out :)",
+    "url": "https://x.com/bentossell/status/1988962813172457817",
+    "timestamp": "2025-11-13T13:31:02.000Z",
+    "metadata": {
+      "conversation_id": "1988962813172457817",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988962676509405424",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@bentossell @FactoryAI @agent_wrap yeah that works to redirect them for sure which is nice to be out of site and out of mind https://t.co/JEMQddQBmu",
+    "url": "https://x.com/Ricardo_Nth/status/1988962676509405424",
+    "timestamp": "2025-11-13T13:30:29.000Z",
+    "metadata": {
+      "conversation_id": "1988962676509405424",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988961464389104088",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@bentossell @Social_Quotient @ReplyGrinder1 @FactoryAI @AnthropicAI Ben you may want to test out https://t.co/RzTd0qSukv vs context7, it's got amazing context mgmt.\n\nits one of the 3 MCP tools that I've set up with Droid - it's like putting 2 frugal friends together who tools hard for you 😅",
+    "url": "https://x.com/5aikat/status/1988961464389104088",
+    "timestamp": "2025-11-13T13:25:40.000Z",
+    "metadata": {
+      "conversation_id": "1988961464389104088",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988960483471421945",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nuspy @FactoryAI we have a discord, respond to tweets, subreddit and github repo + support@factory.ai \n\nhappy to help",
+    "url": "https://x.com/bentossell/status/1988960483471421945",
+    "timestamp": "2025-11-13T13:21:47.000Z",
+    "metadata": {
+      "conversation_id": "1988960483471421945",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988960333583773862",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nuspy @FactoryAI which model are you using? our built-in or BYOK?",
+    "url": "https://x.com/bentossell/status/1988960333583773862",
+    "timestamp": "2025-11-13T13:21:11.000Z",
+    "metadata": {
+      "conversation_id": "1988960333583773862",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988960204046909826",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Social_Quotient @ReplyGrinder1 @FactoryAI @AnthropicAI can you share your context7 ones 😊 would love to copy",
+    "url": "https://x.com/bentossell/status/1988960204046909826",
+    "timestamp": "2025-11-13T13:20:40.000Z",
+    "metadata": {
+      "conversation_id": "1988960204046909826",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988960106042782150",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Jborgwing @AdhamAlkhaja @Tgerighty @FactoryAI wdym metered plan? we have pay as you go ?",
+    "url": "https://x.com/bentossell/status/1988960106042782150",
+    "timestamp": "2025-11-13T13:20:17.000Z",
+    "metadata": {
+      "conversation_id": "1988960106042782150",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988959909430649224",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Ricardo_Nth @FactoryAI ahh a bug that @agent_wrap is handling atm!\n\nas a temporary workaround, can you test adding this to your ~/.factory/settings.json \n\n\"specSaveDir\": \"~/.factory/specs\"",
+    "url": "https://x.com/bentossell/status/1988959909430649224",
+    "timestamp": "2025-11-13T13:19:30.000Z",
+    "metadata": {
+      "conversation_id": "1988959909430649224",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988959610628354162",
     "source": "twitter",
     "author": "bentossell",
@@ -8,7 +128,7 @@
     "timestamp": "2025-11-13T13:18:18.000Z",
     "metadata": {
       "conversation_id": "1988959610628354162",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -55,7 +175,7 @@
       "conversation_id": "1988951674397028677",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -193,126 +313,6 @@
     }
   },
   {
-    "id": "twitter_1988933235376795829",
-    "source": "twitter",
-    "author": "Jborgwing",
-    "content": "@AdhamAlkhaja @Tgerighty @FactoryAI Droid is amazing, just wish they had a metered plan like Claude code Max!",
-    "url": "https://x.com/Jborgwing/status/1988933235376795829",
-    "timestamp": "2025-11-13T11:33:30.000Z",
-    "metadata": {
-      "conversation_id": "1988933235376795829",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988929742834393380",
-    "source": "twitter",
-    "author": "thedanifrim",
-    "content": "@AdhamAlkhaja @FactoryAI Yeap, it eats tokens like crazy haha",
-    "url": "https://x.com/thedanifrim/status/1988929742834393380",
-    "timestamp": "2025-11-13T11:19:37.000Z",
-    "metadata": {
-      "conversation_id": "1988929742834393380",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988923741347217860",
-    "source": "twitter",
-    "author": "Social_Quotient",
-    "content": "@ReplyGrinder1 @FactoryAI @AnthropicAI 1- a couple around context7 pre and post \n2- my Claude speaks hook has become invaluable to me… I use it all day long \n\nhttps://t.co/rxqsX8Gfni\n\nHaving this in droid will be great. I’ll also expand the audio providers so people have more options.",
-    "url": "https://x.com/Social_Quotient/status/1988923741347217860",
-    "timestamp": "2025-11-13T10:55:47.000Z",
-    "metadata": {
-      "conversation_id": "1988923741347217860",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988922796362113358",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@captaink99 @FactoryAI What model did you use",
-    "url": "https://x.com/martin_ict_algo/status/1988922796362113358",
-    "timestamp": "2025-11-13T10:52:01.000Z",
-    "metadata": {
-      "conversation_id": "1988922796362113358",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988922489716482074",
-    "source": "twitter",
-    "author": "nuspy",
-    "content": "@FactoryAI anyone noticed how Droid become dumber in last updates? Rarely something is done with success or without errors at first trying!",
-    "url": "https://x.com/nuspy/status/1988922489716482074",
-    "timestamp": "2025-11-13T10:50:48.000Z",
-    "metadata": {
-      "conversation_id": "1988922489716482074",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988921724755202339",
-    "source": "twitter",
-    "author": "ReplyGrinder1",
-    "content": "@Social_Quotient @FactoryAI @AnthropicAI Love seeing hooks land which use-case made you most hyped to migrate?",
-    "url": "https://x.com/ReplyGrinder1/status/1988921724755202339",
-    "timestamp": "2025-11-13T10:47:46.000Z",
-    "metadata": {
-      "conversation_id": "1988921724755202339",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988920519077371936",
-    "source": "twitter",
-    "author": "nuspy",
-    "content": "@FactoryAI very good product, but many issues and is impossible to communicate with the firm to ask to solve them, make a feature request. isn´t a  professional behaviour in this industry.",
-    "url": "https://x.com/nuspy/status/1988920519077371936",
-    "timestamp": "2025-11-13T10:42:58.000Z",
-    "metadata": {
-      "conversation_id": "1988920519077371936",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988918689329012815",
-    "source": "twitter",
-    "author": "mdsiaofficial",
-    "content": "@AdhamAlkhaja @FactoryAI droid amazing",
-    "url": "https://x.com/mdsiaofficial/status/1988918689329012815",
-    "timestamp": "2025-11-13T10:35:42.000Z",
-    "metadata": {
-      "conversation_id": "1988918689329012815",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_348",
     "source": "github",
     "author": "aranej",
@@ -347,7 +347,7 @@
     "timestamp": "2025-11-12T17:34:16.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
