@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_360",
+    "source": "github",
+    "author": "hanlin-luo",
+    "content": "[Issue] CJK double-width characters problem\n\nChinese input (CJK double-width characters) causes cursor misalignment once the input spans more than two lines.\nThis is due to the line editor not correctly implementing Unicode East Asian Width, resulting in incorrect wcwidth calculations，（maybe）.\nIt’s recommended to enable or fix proper wide-character support in the TUI/line editor being used.\n\nhttps://github.com/user-attachments/assets/7be46a43-0fe3-4e76-98c0-bea3727137e3",
+    "url": "https://github.com/Factory-AI/factory/issues/360",
+    "timestamp": "2025-11-14T20:31:10Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 360
+    }
+  },
+  {
     "id": "twitter_1989423126388817977",
     "source": "twitter",
     "author": "ben_vargas",
@@ -171,7 +184,7 @@
     "timestamp": "2025-11-14T18:40:25.000Z",
     "metadata": {
       "conversation_id": "1989403060578521468",
-      "likes": 5,
+      "likes": 6,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -306,7 +319,7 @@
     "timestamp": "2025-11-14T16:45:55.000Z",
     "metadata": {
       "conversation_id": "1989374246393713038",
-      "likes": 36,
+      "likes": 38,
       "retweets": 6,
       "replies": 2,
       "quotes": 0
@@ -687,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 298
-    }
-  },
-  {
-    "id": "github_issue_292",
-    "source": "github",
-    "author": "krit3dvanced",
-    "content": "[Issue] How to select branch other than main in web?\n\nI want to create a document of my project (dev branch) using knowledge droid.\nBut I cannot find a menu to switch branch from `main` to `dev` branch",
-    "url": "https://github.com/Factory-AI/factory/issues/292",
-    "timestamp": "2025-10-31T09:00:34Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 292
     }
   },
   {
