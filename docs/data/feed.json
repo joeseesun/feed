@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989473066636955718",
+    "source": "twitter",
+    "author": "Mattslayga",
+    "content": "@itsbyrobin @FactoryAI Love droid so much haha. Just can’t get over my first love for opencode… plus @thdxr is a legend. I currently use both in every session and alternate responsibilities. Mostly using custom models via @basetenco 🤙",
+    "url": "https://x.com/Mattslayga/status/1989473066636955718",
+    "timestamp": "2025-11-14T23:18:36.000Z",
+    "metadata": {
+      "conversation_id": "1989473066636955718",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989468608234389946",
     "source": "twitter",
     "author": "jdbowman",
@@ -337,21 +352,6 @@
     }
   },
   {
-    "id": "twitter_1989405646245302719",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@aeitroc @Star_Knight12 @FactoryAI How have you found the plans, like the $200 plan, you burn through the 200mill tokens?",
-    "url": "https://x.com/martin_ict_algo/status/1989405646245302719",
-    "timestamp": "2025-11-14T18:50:42.000Z",
-    "metadata": {
-      "conversation_id": "1989405646245302719",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -635,6 +635,19 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
     }
   },
   {
