@@ -23,7 +23,7 @@
     "timestamp": "2025-11-14T16:45:55.000Z",
     "metadata": {
       "conversation_id": "1989374246393713038",
-      "likes": 7,
+      "likes": 9,
       "retweets": 1,
       "replies": 2,
       "quotes": 0
@@ -113,7 +113,7 @@
     "timestamp": "2025-11-14T16:22:36.000Z",
     "metadata": {
       "conversation_id": "1989368377278603752",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -593,8 +593,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
