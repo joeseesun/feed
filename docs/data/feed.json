@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989413935561543957",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@thdxr @FactoryAI",
+    "url": "https://x.com/aeitroc/status/1989413935561543957",
+    "timestamp": "2025-11-14T19:23:38.000Z",
+    "metadata": {
+      "conversation_id": "1989413935561543957",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989412481564135810",
+    "source": "twitter",
+    "author": "milesprojolivia",
+    "content": "exactly but most miss that context management only matters if anyone can build with it\n\n@FactoryAI droids are powerful but the real shift is when non-devs can deploy agents with their own knowledge. accessibility > raw capability\n\nin 2 years every business has custom agents. whoever makes it dead simple wins\n\n#AI #AIAgents #NoCode",
+    "url": "https://x.com/milesprojolivia/status/1989412481564135810",
+    "timestamp": "2025-11-14T19:17:51.000Z",
+    "metadata": {
+      "conversation_id": "1989412481564135810",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989411336737231350",
     "source": "twitter",
     "author": "bentossell",
@@ -158,7 +188,7 @@
     "timestamp": "2025-11-14T17:45:01.000Z",
     "metadata": {
       "conversation_id": "1989389117633818643",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 1
@@ -173,7 +203,7 @@
     "timestamp": "2025-11-14T17:40:22.000Z",
     "metadata": {
       "conversation_id": "1989387947809148950",
-      "likes": 2,
+      "likes": 3,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -188,7 +218,7 @@
     "timestamp": "2025-11-14T17:39:30.000Z",
     "metadata": {
       "conversation_id": "1989387729965388189",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989369168387571831",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "I wouldn't expect 100% parity with Factory's direct API use for API models, especially OpenAI's.\n\nThe \"workaround\" 3rd party tools are using, such as CLIProxyAPI, opencode, etc. for using anthropic oauth is just a few headers and first sentence of the system prompt... but for the openai models the url of the api endpoint is entirely different. Codex CLI uses a backend endpoint and actually validates the **entire** system prompt.\n\nTherefore, any solution spoofing the codex cli, must swap out the system prompt for Codex's system prompt to use the OAuth/backend-api and move what the harness intended to send to a higher level user prompt or similar, that changes the weights/behavior and adds all the extra instruction from the Codex CLI system prompt.\n\nSo, I never expect the openai models via oauth/sub in 3rd party harnesses to behave **exactly** as the harnesses intend, because of the workaround.",
-    "url": "https://x.com/ben_vargas/status/1989369168387571831",
-    "timestamp": "2025-11-14T16:25:45.000Z",
-    "metadata": {
-      "conversation_id": "1989369168387571831",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989368382664376762",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@ben_vargas @FactoryAI Hey Ben, how have you found droid uses this proxy with like planning, executing versus using their own models?",
-    "url": "https://x.com/martin_ict_algo/status/1989368382664376762",
-    "timestamp": "2025-11-14T16:22:37.000Z",
-    "metadata": {
-      "conversation_id": "1989368382664376762",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -648,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 308
-    }
-  },
-  {
-    "id": "reddit_1oneja7",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
-    "timestamp": "2025-11-03T15:20:27.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
