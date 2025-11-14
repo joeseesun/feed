@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989476115040063560",
+    "source": "twitter",
+    "author": "red___square",
+    "content": "@melodykoh @AnthropicAI @FactoryAI 130 story points, what does that even mean. I am glad ai will quickly get rid of scrum &amp; agile.",
+    "url": "https://x.com/red___square/status/1989476115040063560",
+    "timestamp": "2025-11-14T23:30:43.000Z",
+    "metadata": {
+      "conversation_id": "1989476115040063560",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989473066636955718",
     "source": "twitter",
     "author": "Mattslayga",
@@ -337,21 +352,6 @@
     }
   },
   {
-    "id": "twitter_1989409263526228440",
-    "source": "twitter",
-    "author": "tridentasia",
-    "content": "@melodykoh @AnthropicAI @FactoryAI Agents always overestimate time taken in implementing a plan.",
-    "url": "https://x.com/tridentasia/status/1989409263526228440",
-    "timestamp": "2025-11-14T19:05:04.000Z",
-    "metadata": {
-      "conversation_id": "1989409263526228440",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -635,19 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 319
-    }
-  },
-  {
-    "id": "reddit_1op6njm",
-    "source": "reddit",
-    "author": "Sakrilegi0us",
-    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
-    "timestamp": "2025-11-05T15:57:27.000Z",
-    "metadata": {
-      "score": 6,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
     }
   },
   {
