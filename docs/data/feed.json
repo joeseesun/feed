@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1989423126388817977",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@iamRamavar @trungns95vn @FactoryAI I'd suggest doing the login/oauth workflow before setting the amp.url in ~/.config/amp/settings.json - there's probably additionally handling needed for the URL redirects for oauth workflow that isn't done in CLIProxyAPI fork.",
+    "url": "https://x.com/ben_vargas/status/1989423126388817977",
+    "timestamp": "2025-11-14T20:00:09.000Z",
+    "metadata": {
+      "conversation_id": "1989423126388817977",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1ox6p07",
+    "source": "reddit",
+    "author": "ShipSpecialist6727",
+    "content": "Being charge for all limit overage while having credit balance\n\nhttps://preview.redd.it/apq9eqc22a1g1.png?width=713&amp;format=png&amp;auto=webp&amp;s=b55698314d83f7e933e7c750576ab10285a54f3a\n\nhttps://preview.redd.it/c4n0ms032a1g1.png?width=1088&amp;format=png&amp;auto=webp&amp;s=4c124b65440a28c118b9d8a714f0da7618eaf4aa\n\nhttps://preview.redd.it/h2scb4072a1g1.png?width=1226&amp;format=png&amp;auto=webp&amp;s=7fbc4d224122903a737d9f9b4ed0c2092e03ce72\n\n  \nI'm being charge for 40$ limit overage while having my credit balance from my referral .  \nThe support is to",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ox6p07/being_charge_for_all_limit_overage_while_having/",
+    "timestamp": "2025-11-14T19:54:09.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1989421388223091038",
     "source": "twitter",
     "author": "iamRamavar",
@@ -10,7 +38,7 @@
       "conversation_id": "1989421388223091038",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +66,7 @@
     "timestamp": "2025-11-14T19:23:38.000Z",
     "metadata": {
       "conversation_id": "1989413935561543957",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -143,7 +171,7 @@
     "timestamp": "2025-11-14T18:40:25.000Z",
     "metadata": {
       "conversation_id": "1989403060578521468",
-      "likes": 3,
+      "likes": 4,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -248,7 +276,7 @@
     "timestamp": "2025-11-14T17:39:30.000Z",
     "metadata": {
       "conversation_id": "1989387729965388189",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -278,24 +306,9 @@
     "timestamp": "2025-11-14T16:45:55.000Z",
     "metadata": {
       "conversation_id": "1989374246393713038",
-      "likes": 33,
+      "likes": 35,
       "retweets": 6,
       "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989373336615620820",
-    "source": "twitter",
-    "author": "shreyas1009",
-    "content": "@melodykoh @AnthropicAI @FactoryAI what was the project about?",
-    "url": "https://x.com/shreyas1009/status/1989373336615620820",
-    "timestamp": "2025-11-14T16:42:18.000Z",
-    "metadata": {
-      "conversation_id": "1989373336615620820",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -648,6 +661,19 @@
       "type": "issue",
       "labels": [],
       "number": 308
+    }
+  },
+  {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
