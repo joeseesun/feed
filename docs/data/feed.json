@@ -8,7 +8,7 @@
     "timestamp": "2025-11-14T00:08:18.000Z",
     "metadata": {
       "conversation_id": "1989123184734662750",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,7 +38,7 @@
     "timestamp": "2025-11-13T23:06:41.000Z",
     "metadata": {
       "conversation_id": "1989107678774202796",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,7 +53,7 @@
     "timestamp": "2025-11-13T23:03:33.000Z",
     "metadata": {
       "conversation_id": "1989106889787941323",
-      "likes": 8,
+      "likes": 16,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -263,9 +263,9 @@
     "timestamp": "2025-11-13T21:26:49.000Z",
     "metadata": {
       "conversation_id": "1989082548119773485",
-      "likes": 21,
+      "likes": 22,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
