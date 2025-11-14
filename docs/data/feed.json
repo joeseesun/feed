@@ -1,5 +1,318 @@
 [
   {
+    "id": "twitter_1989123184734662750",
+    "source": "twitter",
+    "author": "oliviakoshy",
+    "content": "@jeffreyhuber @mttrdmnd @stripepress @tbpn @FactoryAI @NousResearch @vercel @WorkOS @EricNewcomer @_hex_tech @isidoremiller @barrald Oh we have some SWEET hats!",
+    "url": "https://x.com/oliviakoshy/status/1989123184734662750",
+    "timestamp": "2025-11-14T00:08:18.000Z",
+    "metadata": {
+      "conversation_id": "1989123184734662750",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989115707607642359",
+    "source": "twitter",
+    "author": "cooosyku23",
+    "content": "@FactoryAI @OpenAI Are you saying this in general, or specifically in Droids?",
+    "url": "https://x.com/cooosyku23/status/1989115707607642359",
+    "timestamp": "2025-11-13T23:38:35.000Z",
+    "metadata": {
+      "conversation_id": "1989115707607642359",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989107678774202796",
+    "source": "twitter",
+    "author": "pietrosandonato",
+    "content": ".@FactoryAI helps teams code and document faster with agentic intelligence. As they grew, their multi-database setup slowed them down. Switching to @MongoDB Atlas brought everything together, so they could scale with ease. https://t.co/dQdSunTmIo https://t.co/766bSKEyLr",
+    "url": "https://x.com/pietrosandonato/status/1989107678774202796",
+    "timestamp": "2025-11-13T23:06:41.000Z",
+    "metadata": {
+      "conversation_id": "1989107678774202796",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989106889787941323",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "So I tested GPT-5.1-Codex with @FactoryAI droid.\n\nSetup a Nextjs app with web scrape functionality. The reason for choosing web scraping is it is a complex task for  LLMs and they tend to fail, generates buggy/sloppy code.\n\nCreated a concise and brief AGENTS[.]md . Contains high level overview of the app, tech stack to use and some simple features that I wanted.\n\n1- \"Spec - research and plan only\" GPT-5.1-Codex generated a clean and concise plan. It wasn't over complexed or long, pretty simple and solid suggestions.\n2- I didn't notice any speed difference with GPT-5-Codex, it almost spent same time for every query.\n\nWhat I found interesting is how the model approach to the bug fixes/error handling. Normally droid generally created a 5-6 tasks plan for issue resolving but GPT-5.1-Codex created 3 tasks every time for bug fixes/error handling. Plan/execution/run validators. It was same approach from the model every time. (though I only used for 2 hours and ~300 messages)\n\nI think it has something with @FactoryAI droid about how it is handling the bugs/errors. Huge shoutout to team.\n\nBug fixes were exceptional, every issue resolved at the first try. I have to mention this, you have to be very specific about the bug/issue/error and guide the model but it wasn't something that I am doing first time so I found the bug fixing performance pretty satisfying. \n\nFor frontend design, nothing exceptional, still needs much more from user and I think models still needs to get better at design but thats another topic.\n\nTLDR; Planning and bug fixing seems like got an upgrade. Will give more insights when I use it more this weekend.",
+    "url": "https://x.com/CloudTrader4/status/1989106889787941323",
+    "timestamp": "2025-11-13T23:03:33.000Z",
+    "metadata": {
+      "conversation_id": "1989106889787941323",
+      "likes": 8,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989105515084046690",
+    "source": "twitter",
+    "author": "ain3sh",
+    "content": "@ssh_sharma135 @gilhildebrand @cursor_ai @FactoryAI Did the needle move up non-trivially with 5.1? V curious to see if the new claude frontend design skill helps or hurts gpt @ssh_sharma135",
+    "url": "https://x.com/ain3sh/status/1989105515084046690",
+    "timestamp": "2025-11-13T22:58:05.000Z",
+    "metadata": {
+      "conversation_id": "1989105515084046690",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989102746440806463",
+    "source": "twitter",
+    "author": "StressarN",
+    "content": "@FactoryAI example here 👇 https://t.co/uK4q54w7AB",
+    "url": "https://x.com/StressarN/status/1989102746440806463",
+    "timestamp": "2025-11-13T22:47:05.000Z",
+    "metadata": {
+      "conversation_id": "1989102746440806463",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989102124761026779",
+    "source": "twitter",
+    "author": "StressarN",
+    "content": "@FactoryAI Hey! I'm experiencing Apply Patch loops that does nothing for 10-15 minutes at a time using gpt-5.1-codex in Droid. (MacOS)",
+    "url": "https://x.com/StressarN/status/1989102124761026779",
+    "timestamp": "2025-11-13T22:44:36.000Z",
+    "metadata": {
+      "conversation_id": "1989102124761026779",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989101721545846892",
+    "source": "twitter",
+    "author": "ssh_sharma135",
+    "content": "@CloudTrader4 @OpenAI @FactoryAI Let us know what you think!",
+    "url": "https://x.com/ssh_sharma135/status/1989101721545846892",
+    "timestamp": "2025-11-13T22:43:00.000Z",
+    "metadata": {
+      "conversation_id": "1989101721545846892",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989096977934741559",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FactoryAI @OpenAI Ah, that's good to know ! 👍🏻",
+    "url": "https://x.com/SvenMeyer/status/1989096977934741559",
+    "timestamp": "2025-11-13T22:24:09.000Z",
+    "metadata": {
+      "conversation_id": "1989096977934741559",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989096806350045439",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FactoryAI I used a trial code 1~2 weeks ago to sign up and only got 10 instead of the advertised 40 million tokens, even with mobile registration. Is that the new default amount ?",
+    "url": "https://x.com/SvenMeyer/status/1989096806350045439",
+    "timestamp": "2025-11-13T22:23:28.000Z",
+    "metadata": {
+      "conversation_id": "1989096806350045439",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989094756794921423",
+    "source": "twitter",
+    "author": "BehnamEbrahimi",
+    "content": "@bentossell @FactoryAI @RayFernando1337 @FactoryAI",
+    "url": "https://x.com/BehnamEbrahimi/status/1989094756794921423",
+    "timestamp": "2025-11-13T22:15:20.000Z",
+    "metadata": {
+      "conversation_id": "1989094756794921423",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989092148151742854",
+    "source": "twitter",
+    "author": "moeintechoff",
+    "content": "@jeffreyhuber @stripepress @tbpn @FactoryAI @NousResearch @vercel @WorkOS @EricNewcomer Love to see it!",
+    "url": "https://x.com/moeintechoff/status/1989092148151742854",
+    "timestamp": "2025-11-13T22:04:58.000Z",
+    "metadata": {
+      "conversation_id": "1989092148151742854",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989088793639678250",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@CloudTrader4 @OpenAI @FactoryAI Nice! Curious about what you think",
+    "url": "https://x.com/pascallammers_/status/1989088793639678250",
+    "timestamp": "2025-11-13T21:51:38.000Z",
+    "metadata": {
+      "conversation_id": "1989088793639678250",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989088624709914646",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@pascallammers_ @OpenAI @FactoryAI Just started using it, will report back as soon as I get a good understanding",
+    "url": "https://x.com/CloudTrader4/status/1989088624709914646",
+    "timestamp": "2025-11-13T21:50:58.000Z",
+    "metadata": {
+      "conversation_id": "1989088624709914646",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989088367297065316",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@CloudTrader4 @OpenAI @FactoryAI How ist it?",
+    "url": "https://x.com/pascallammers_/status/1989088367297065316",
+    "timestamp": "2025-11-13T21:49:56.000Z",
+    "metadata": {
+      "conversation_id": "1989088367297065316",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989083047975932286",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "@hqmank @FactoryAI Okay this is good",
+    "url": "https://x.com/captaink99/status/1989083047975932286",
+    "timestamp": "2025-11-13T21:28:48.000Z",
+    "metadata": {
+      "conversation_id": "1989083047975932286",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989082582517207462",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "@martin_ict_algo @FactoryAI I was using Claude,  boy does that model drink tokens.  🍺 \n\nI figure out my problem.  I should have used the command /sessions to retrieve the old droid session.\n\nAll good",
+    "url": "https://x.com/captaink99/status/1989082582517207462",
+    "timestamp": "2025-11-13T21:26:57.000Z",
+    "metadata": {
+      "conversation_id": "1989082582517207462",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989082548119773485",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Ok lets test @OpenAI 's GPT-5.1-Codex with @FactoryAI https://t.co/fPMvP42mWA",
+    "url": "https://x.com/CloudTrader4/status/1989082548119773485",
+    "timestamp": "2025-11-13T21:26:49.000Z",
+    "metadata": {
+      "conversation_id": "1989082548119773485",
+      "likes": 21,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989078563702862271",
+    "source": "twitter",
+    "author": "AVGVSTVS96",
+    "content": "@FactoryAI would be helpful to have a little extra logic for where specs are saved\n\nthe spec save dir setting is outdated, it lists ~/.factory/docs but a recent update changed the spec save location to ~/specs.\n\nadding a specs/ dir to working dir doesn’t automatically prompt droid to save specs there, they still go to ~/specs\n\n the setting does take effect after updating from ~/.factory/docs to ~/specs/\n\n^ but with this setting, a specs/ dir is created in every cwd when a spec is approved.\n\ni like having specs default to ~/.factory/docs or ~/specs/ (no preference) — with logic that saves to a nested project’s spec/ dir if found/created by user, like how it previously worked",
+    "url": "https://x.com/AVGVSTVS96/status/1989078563702862271",
+    "timestamp": "2025-11-13T21:10:59.000Z",
+    "metadata": {
+      "conversation_id": "1989078563702862271",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989076367334670607",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@immoinulmoin @FactoryAI oh i see - they should do community approved badges! paging @nikitabier",
+    "url": "https://x.com/bentossell/status/1989076367334670607",
+    "timestamp": "2025-11-13T21:02:15.000Z",
+    "metadata": {
+      "conversation_id": "1989076367334670607",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1owbvoj",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "How should we post changelogs here?\n\nhey, i'm ben - dev rel at factory. you may have seen me answering comments.\n\nwe have a changelog now but has like 4/5 updates a week. its automated as a bot in our discord channel. \n\nshould we add anything here? if so, what format is best?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
+    "timestamp": "2025-11-13T20:22:54.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_352",
     "source": "github",
     "author": "ajdiyassin",
@@ -10,6 +323,32 @@
       "type": "issue",
       "labels": [],
       "number": 352
+    }
+  },
+  {
+    "id": "reddit_1ow4spq",
+    "source": "reddit",
+    "author": "Rough-Aioli-7829",
+    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
+    "timestamp": "2025-11-13T15:58:33.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow0203",
+    "source": "reddit",
+    "author": "vargalas",
+    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
+    "timestamp": "2025-11-13T12:42:42.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -36,6 +375,19 @@
       "type": "issue",
       "labels": [],
       "number": 345
+    }
+  },
+  {
+    "id": "reddit_1ovbn7q",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
+    "timestamp": "2025-11-12T17:34:16.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -130,6 +482,19 @@
     }
   },
   {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -169,6 +534,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -192,6 +570,32 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -231,6 +635,32 @@
       "type": "issue",
       "labels": [],
       "number": 308
+    }
+  },
+  {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
