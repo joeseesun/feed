@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1989340430237143158",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@CloudTrader4 @OpenAI @FactoryAI Right, Cloud, let's see how well GPT-5.1-Codex performs with FactoryAI; it'll be interesting to watch the results, no?",
+    "url": "https://x.com/codewithimanshu/status/1989340430237143158",
+    "timestamp": "2025-11-14T14:31:33.000Z",
+    "metadata": {
+      "conversation_id": "1989340430237143158",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989338868987133981",
+    "source": "twitter",
+    "author": "nexiumship",
+    "content": "@FactoryAI I love droid trying to get agents on web to work as good as the CLI has been a challenge let me know any pointers.",
+    "url": "https://x.com/nexiumship/status/1989338868987133981",
+    "timestamp": "2025-11-14T14:25:21.000Z",
+    "metadata": {
+      "conversation_id": "1989338868987133981",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989337847283769567",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@smithstephen @FactoryAI np. no our tokens dont roll-over unfortunately",
+    "url": "https://x.com/bentossell/status/1989337847283769567",
+    "timestamp": "2025-11-14T14:21:17.000Z",
+    "metadata": {
+      "conversation_id": "1989337847283769567",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989337620384825443",
+    "source": "twitter",
+    "author": "smithstephen",
+    "content": "@bentossell @FactoryAI Ok thanks for letting me know so quickly - appreciate it. Outside of the free trial tokens - I hope that the paid ones will roll over (e.g. the way https://t.co/UYHKaFYojt rolls over unused credits).",
+    "url": "https://x.com/smithstephen/status/1989337620384825443",
+    "timestamp": "2025-11-14T14:20:23.000Z",
+    "metadata": {
+      "conversation_id": "1989337620384825443",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989336030080844226",
     "source": "twitter",
     "author": "bentossell",
@@ -10,7 +70,7 @@
       "conversation_id": "1989336030080844226",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -253,66 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989284800163958809",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@ben_vargas @FactoryAI https://t.co/DPi30ZAmiN",
-    "url": "https://x.com/immoinulmoin/status/1989284800163958809",
-    "timestamp": "2025-11-14T10:50:30.000Z",
-    "metadata": {
-      "conversation_id": "1989284800163958809",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989283803278499957",
-    "source": "twitter",
-    "author": "LignoL23",
-    "content": "@ben_vargas @FactoryAI From my experience, limits are reached WAY faster when using ChatGPT Plus via proxy compared to codex.",
-    "url": "https://x.com/LignoL23/status/1989283803278499957",
-    "timestamp": "2025-11-14T10:46:32.000Z",
-    "metadata": {
-      "conversation_id": "1989283803278499957",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989282916292301255",
-    "source": "twitter",
-    "author": "Mohanad423461",
-    "content": "@ben_vargas @FactoryAI the TODO one is so tricky im thinking of unsubing because of how literally unpractical the usage is, its like teh guardrails approving every single tool call",
-    "url": "https://x.com/Mohanad423461/status/1989282916292301255",
-    "timestamp": "2025-11-14T10:43:00.000Z",
-    "metadata": {
-      "conversation_id": "1989282916292301255",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989282653514891319",
-    "source": "twitter",
-    "author": "Mohanad423461",
-    "content": "@ben_vargas @FactoryAI 2 things about the plus sub:\n \n1. have you actually used the proxy for a while without an issue (i proxied early before the codex models update and got banned right after that)\n\n2. they limit plus to 4 TODO subtasks before prompting, did you find a way to go around that?",
-    "url": "https://x.com/Mohanad423461/status/1989282653514891319",
-    "timestamp": "2025-11-14T10:41:58.000Z",
-    "metadata": {
-      "conversation_id": "1989282653514891319",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owpdgs",
     "source": "reddit",
     "author": "Informal-Spinach-345",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -648,6 +648,32 @@
       "type": "issue",
       "labels": [],
       "number": 308
+    }
+  },
+  {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
