@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989363817952997447",
+    "source": "twitter",
+    "author": "HanifCarroll",
+    "content": "@martin_ict_algo @ben_vargas @FactoryAI Token cost",
+    "url": "https://x.com/HanifCarroll/status/1989363817952997447",
+    "timestamp": "2025-11-14T16:04:29.000Z",
+    "metadata": {
+      "conversation_id": "1989363817952997447",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989361124140322915",
     "source": "twitter",
     "author": "shreyas1009",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989324498391257425",
-    "source": "twitter",
-    "author": "LignoL23",
-    "content": "@rahulvrane @ben_vargas @FactoryAI This or something similar to github copilot. When using github copilot one user chat messages (resulting in many api requests) is equal to one premium request. when using github copilot somewhere else (e.g. cline/roo/kilo), each api request counts as one premium request.",
-    "url": "https://x.com/LignoL23/status/1989324498391257425",
-    "timestamp": "2025-11-14T13:28:14.000Z",
-    "metadata": {
-      "conversation_id": "1989324498391257425",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -648,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 308
-    }
-  },
-  {
-    "id": "reddit_1omo14j",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
-    "timestamp": "2025-11-02T17:56:04.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
