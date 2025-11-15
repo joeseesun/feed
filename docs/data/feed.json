@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989722671362220430",
+    "source": "twitter",
+    "author": "alemart87",
+    "content": "@melodykoh @AnthropicAI @FactoryAI I use the VS Code IDE and the terminal to run Claude Code. You can also install the Claude Code plugin in VS Code.",
+    "url": "https://x.com/alemart87/status/1989722671362220430",
+    "timestamp": "2025-11-15T15:50:26.000Z",
+    "metadata": {
+      "conversation_id": "1989722671362220430",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989721429307257231",
     "source": "twitter",
     "author": "melodykoh",
@@ -55,7 +70,7 @@
       "conversation_id": "1989720283486257594",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -186,7 +201,7 @@
     "timestamp": "2025-11-15T14:50:43.000Z",
     "metadata": {
       "conversation_id": "1989707640532767031",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1989694606343025046",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@5aikat @iannuttall @shadcn @FactoryAI @ryancarson sweet - publish a repo when you're happy with them and i'll check em out",
-    "url": "https://x.com/bentossell/status/1989694606343025046",
-    "timestamp": "2025-11-15T13:58:55.000Z",
-    "metadata": {
-      "conversation_id": "1989694606343025046",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -648,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 325
-    }
-  },
-  {
-    "id": "reddit_1or5cow",
-    "source": "reddit",
-    "author": "Durst123",
-    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
-    "timestamp": "2025-11-07T20:29:10.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
