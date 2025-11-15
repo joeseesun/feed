@@ -1,5 +1,185 @@
 [
   {
+    "id": "twitter_1989488797911072951",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@FactoryAI Can someone hire me so I can spend $ $24000 a year on agents",
+    "url": "https://x.com/fire/status/1989488797911072951",
+    "timestamp": "2025-11-15T00:21:06.000Z",
+    "metadata": {
+      "conversation_id": "1989488797911072951",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989488095885177274",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "Plus is pretty limited on anything, but often provider cli does the best job in token minimization and caching, though that doesn't necessarily equate to the \"best output\" - I definitely use codex cli and claude code heavily too though, they'd be my default if on $20/mo plan(s).\n\nI think the value of this type of proxy approach is if you're on $100/$200 Claude or $200 OAI Pro subs.",
+    "url": "https://x.com/ben_vargas/status/1989488095885177274",
+    "timestamp": "2025-11-15T00:18:19.000Z",
+    "metadata": {
+      "conversation_id": "1989488095885177274",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989487850103144645",
+    "source": "twitter",
+    "author": "FHulayyil",
+    "content": "@FactoryAI read the tweet 3 times and each time I saw it as $200 for 2B 😅",
+    "url": "https://x.com/FHulayyil/status/1989487850103144645",
+    "timestamp": "2025-11-15T00:17:21.000Z",
+    "metadata": {
+      "conversation_id": "1989487850103144645",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989486862386471181",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@Mohanad423461 @FactoryAI I've seen longer than 4 todo in the plan if that's what you mean? I haven't had issue with a bans personally, but note the disclaimer on the linked md page. :) https://t.co/E8hc8SfQlc",
+    "url": "https://x.com/ben_vargas/status/1989486862386471181",
+    "timestamp": "2025-11-15T00:13:25.000Z",
+    "metadata": {
+      "conversation_id": "1989486862386471181",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989486578683756994",
+    "source": "twitter",
+    "author": "tekbog",
+    "content": "@FactoryAI YES YES MORE TOKENS https://t.co/C44F28Fh6U",
+    "url": "https://x.com/tekbog/status/1989486578683756994",
+    "timestamp": "2025-11-15T00:12:17.000Z",
+    "metadata": {
+      "conversation_id": "1989486578683756994",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989486253843386704",
+    "source": "twitter",
+    "author": "meddi_kada",
+    "content": "@FactoryAI have this plan been tested enough? I would love to volunteer for testing it",
+    "url": "https://x.com/meddi_kada/status/1989486253843386704",
+    "timestamp": "2025-11-15T00:11:00.000Z",
+    "metadata": {
+      "conversation_id": "1989486253843386704",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989486249196097848",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@raulsaavedra_ @FactoryAI too good not to share :)",
+    "url": "https://x.com/ben_vargas/status/1989486249196097848",
+    "timestamp": "2025-11-15T00:10:59.000Z",
+    "metadata": {
+      "conversation_id": "1989486249196097848",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989486156602642439",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "Not super clear on what you're asking here, but the gpt-5-pro model isn't accessible to subscribers via API with OAuth (web only as far as I know). I haven't looked deep into CLIProxyAPI though, they may have some trickery to route requests to pro through the web frontend but I've never done it if so.",
+    "url": "https://x.com/ben_vargas/status/1989486156602642439",
+    "timestamp": "2025-11-15T00:10:37.000Z",
+    "metadata": {
+      "conversation_id": "1989486156602642439",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989486092513685729",
+    "source": "twitter",
+    "author": "AntonioJASmith",
+    "content": "@FactoryAI $20 $200 $2000 what about $2 😂",
+    "url": "https://x.com/AntonioJASmith/status/1989486092513685729",
+    "timestamp": "2025-11-15T00:10:21.000Z",
+    "metadata": {
+      "conversation_id": "1989486092513685729",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989485658197692507",
+    "source": "twitter",
+    "author": "sporadica",
+    "content": "@FactoryAI https://t.co/hvOPcDfdsR",
+    "url": "https://x.com/sporadica/status/1989485658197692507",
+    "timestamp": "2025-11-15T00:08:38.000Z",
+    "metadata": {
+      "conversation_id": "1989485658197692507",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989485340424638652",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@FactoryAI 👀",
+    "url": "https://x.com/NathanLands/status/1989485340424638652",
+    "timestamp": "2025-11-15T00:07:22.000Z",
+    "metadata": {
+      "conversation_id": "1989485340424638652",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989484349017002166",
+    "source": "twitter",
+    "author": "creatine_cycle",
+    "content": "@FactoryAI the factory plan for factories.\nthe droid army",
+    "url": "https://x.com/creatine_cycle/status/1989484349017002166",
+    "timestamp": "2025-11-15T00:03:26.000Z",
+    "metadata": {
+      "conversation_id": "1989484349017002166",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989476115040063560",
     "source": "twitter",
     "author": "red___square",
@@ -120,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989456110781391007",
-    "source": "twitter",
-    "author": "jc50000000",
-    "content": "@zivdotcat All of them and use @FactoryAI",
-    "url": "https://x.com/jc50000000/status/1989456110781391007",
-    "timestamp": "2025-11-14T22:11:13.000Z",
-    "metadata": {
-      "conversation_id": "1989456110781391007",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989449304621408672",
-    "source": "twitter",
-    "author": "Danishafzalkhan",
-    "content": "@francesca_lab @RhysSullivan @FactoryAI I did and the freezes mid code made me cancel my sub. I had to ctrl c and continue every other time.",
-    "url": "https://x.com/Danishafzalkhan/status/1989449304621408672",
-    "timestamp": "2025-11-14T21:44:11.000Z",
-    "metadata": {
-      "conversation_id": "1989449304621408672",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ox98ue",
     "source": "reddit",
     "author": "bentossell",
@@ -157,24 +307,9 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1989446153130446986",
-    "source": "twitter",
-    "author": "sarlalian",
-    "content": "@tridentasia @melodykoh @AnthropicAI @FactoryAI Humans always underestimate as well.",
-    "url": "https://x.com/sarlalian/status/1989446153130446986",
-    "timestamp": "2025-11-14T21:31:39.000Z",
-    "metadata": {
-      "conversation_id": "1989446153130446986",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -191,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1989441487327965490",
-    "source": "twitter",
-    "author": "bradvangelder",
-    "content": "@CloudTrader4 @OpenAI @FactoryAI I've been loving gpt-5.1-codex-mini for the last couple of hours...\n\nHow has glm 4.6 been performing for you lately?",
-    "url": "https://x.com/bradvangelder/status/1989441487327965490",
-    "timestamp": "2025-11-14T21:13:07.000Z",
-    "metadata": {
-      "conversation_id": "1989441487327965490",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_360",
     "source": "github",
     "author": "hanlin-luo",
@@ -219,21 +339,6 @@
     }
   },
   {
-    "id": "twitter_1989423126388817977",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@iamRamavar @trungns95vn @FactoryAI I'd suggest doing the login/oauth workflow before setting the amp.url in ~/.config/amp/settings.json - there's probably additionally handling needed for the URL redirects for oauth workflow that isn't done in CLIProxyAPI fork.",
-    "url": "https://x.com/ben_vargas/status/1989423126388817977",
-    "timestamp": "2025-11-14T20:00:09.000Z",
-    "metadata": {
-      "conversation_id": "1989423126388817977",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ox6p07",
     "source": "reddit",
     "author": "ShipSpecialist6727",
@@ -244,111 +349,6 @@
       "score": 2,
       "num_comments": 2,
       "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1989421388223091038",
-    "source": "twitter",
-    "author": "iamRamavar",
-    "content": "@trungns95vn @ben_vargas @FactoryAI Hi @ben_vargas - amp login after setting proxy is thorwing \"404 page not found\"",
-    "url": "https://x.com/iamRamavar/status/1989421388223091038",
-    "timestamp": "2025-11-14T19:53:15.000Z",
-    "metadata": {
-      "conversation_id": "1989421388223091038",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989420741197222321",
-    "source": "twitter",
-    "author": "MinChonChiSF",
-    "content": "@melodykoh @AnthropicAI @FactoryAI The active QA time is an interesting tradeoff for using AI coding agents.",
-    "url": "https://x.com/MinChonChiSF/status/1989420741197222321",
-    "timestamp": "2025-11-14T19:50:41.000Z",
-    "metadata": {
-      "conversation_id": "1989420741197222321",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989413935561543957",
-    "source": "twitter",
-    "author": "aeitroc",
-    "content": "@thdxr @FactoryAI",
-    "url": "https://x.com/aeitroc/status/1989413935561543957",
-    "timestamp": "2025-11-14T19:23:38.000Z",
-    "metadata": {
-      "conversation_id": "1989413935561543957",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989412481564135810",
-    "source": "twitter",
-    "author": "milesprojolivia",
-    "content": "exactly but most miss that context management only matters if anyone can build with it\n\n@FactoryAI droids are powerful but the real shift is when non-devs can deploy agents with their own knowledge. accessibility > raw capability\n\nin 2 years every business has custom agents. whoever makes it dead simple wins\n\n#AI #AIAgents #NoCode",
-    "url": "https://x.com/milesprojolivia/status/1989412481564135810",
-    "timestamp": "2025-11-14T19:17:51.000Z",
-    "metadata": {
-      "conversation_id": "1989412481564135810",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989411336737231350",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@prannoy_p @dakshgup @FactoryAI as we intend it to 😊",
-    "url": "https://x.com/bentossell/status/1989411336737231350",
-    "timestamp": "2025-11-14T19:13:18.000Z",
-    "metadata": {
-      "conversation_id": "1989411336737231350",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989411109582114938",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@laplacian_demon @FactoryAI 🔔",
-    "url": "https://x.com/bentossell/status/1989411109582114938",
-    "timestamp": "2025-11-14T19:12:24.000Z",
-    "metadata": {
-      "conversation_id": "1989411109582114938",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989410925430837614",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@melodykoh @AnthropicAI @FactoryAI 🔥",
-    "url": "https://x.com/bentossell/status/1989410925430837614",
-    "timestamp": "2025-11-14T19:11:40.000Z",
-    "metadata": {
-      "conversation_id": "1989410925430837614",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
