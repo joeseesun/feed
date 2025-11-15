@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989789920156885218",
+    "source": "twitter",
+    "author": "MedonB082602",
+    "content": "The different types of droids rlly make @FactoryAI  superior to Claude code. It does it so much better! Comment if you agree or what you think. \n#AI #startup #fyp",
+    "url": "https://x.com/MedonB082602/status/1989789920156885218",
+    "timestamp": "2025-11-15T20:17:40.000Z",
+    "metadata": {
+      "conversation_id": "1989789920156885218",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989787731694940161",
+    "source": "twitter",
+    "author": "mjs527",
+    "content": "i blew through my @FactoryAI MAX plan in 3 days!!! my systems are working more effectively than ever now, but even with intense architecture optimization, progressive disclosure, tiered skills/mcp/subdroid usage, i’m still crushing through my limits. really need this upgrade",
+    "url": "https://x.com/mjs527/status/1989787731694940161",
+    "timestamp": "2025-11-15T20:08:58.000Z",
+    "metadata": {
+      "conversation_id": "1989787731694940161",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989779818582310994",
     "source": "twitter",
     "author": "bentossell",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989737978667933864",
-    "source": "twitter",
-    "author": "nuspy",
-    "content": "@bentossell @FactoryAI Can I have the Discord invite please? :)",
-    "url": "https://x.com/nuspy/status/1989737978667933864",
-    "timestamp": "2025-11-15T16:51:16.000Z",
-    "metadata": {
-      "conversation_id": "1989737978667933864",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989732805673160860",
-    "source": "twitter",
-    "author": "constantin_e21",
-    "content": "@FactoryAI I've been having a lot of fun setting up custom droids with custom models and running them on a schedule in my own cloud server.\n\n2 questions: How can I enable reasoning for custom models? And it seems that MCPs are sometimes not available on headless runs?",
-    "url": "https://x.com/constantin_e21/status/1989732805673160860",
-    "timestamp": "2025-11-15T16:30:42.000Z",
-    "metadata": {
-      "conversation_id": "1989732805673160860",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_370",
     "source": "github",
     "author": "aranej",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
