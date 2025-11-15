@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1989592481986482220",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@theodorvaryag @FactoryAI looks like vercel blocked your email. ping support@factory.ai and they should get you unblocked",
+    "url": "https://x.com/bentossell/status/1989592481986482220",
+    "timestamp": "2025-11-15T07:13:07.000Z",
+    "metadata": {
+      "conversation_id": "1989592481986482220",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989592316030468287",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MedonB082602 @FactoryAI support@factory.ai",
+    "url": "https://x.com/bentossell/status/1989592316030468287",
+    "timestamp": "2025-11-15T07:12:27.000Z",
+    "metadata": {
+      "conversation_id": "1989592316030468287",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989592278122348760",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@yzx396 @FactoryAI built in model only works on a plan. our free plan is only byok - so you'l need to set up custom models https://t.co/MGaQMD9zZy",
+    "url": "https://x.com/bentossell/status/1989592278122348760",
+    "timestamp": "2025-11-15T07:12:18.000Z",
+    "metadata": {
+      "conversation_id": "1989592278122348760",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989592205103890655",
+    "source": "twitter",
+    "author": "Mattslayga",
+    "content": "@bentossell @OpenAIDevs @FactoryAI 🤖📈",
+    "url": "https://x.com/Mattslayga/status/1989592205103890655",
+    "timestamp": "2025-11-15T07:12:01.000Z",
+    "metadata": {
+      "conversation_id": "1989592205103890655",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989591970981790138",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Mattslayga @OpenAIDevs @FactoryAI 🧠",
+    "url": "https://x.com/bentossell/status/1989591970981790138",
+    "timestamp": "2025-11-15T07:11:05.000Z",
+    "metadata": {
+      "conversation_id": "1989591970981790138",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989591891717833118",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JoshGwapoJo_ @FactoryAI just wait for tbench 2.0 😊",
+    "url": "https://x.com/bentossell/status/1989591891717833118",
+    "timestamp": "2025-11-15T07:10:46.000Z",
+    "metadata": {
+      "conversation_id": "1989591891717833118",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989585099848032404",
     "source": "twitter",
     "author": "curiouslychase",
@@ -38,7 +128,7 @@
     "timestamp": "2025-11-15T06:41:21.000Z",
     "metadata": {
       "conversation_id": "1989584488544846236",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,7 +143,7 @@
     "timestamp": "2025-11-15T06:27:53.000Z",
     "metadata": {
       "conversation_id": "1989581099924697258",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,9 +188,9 @@
     "timestamp": "2025-11-15T06:24:37.000Z",
     "metadata": {
       "conversation_id": "1989580277555859581",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,7 +203,7 @@
     "timestamp": "2025-11-15T06:23:08.000Z",
     "metadata": {
       "conversation_id": "1989579904896167996",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -143,9 +233,9 @@
     "timestamp": "2025-11-15T06:16:26.000Z",
     "metadata": {
       "conversation_id": "1989578218798473437",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -210,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989576895919247444",
-    "source": "twitter",
-    "author": "MedonB082602",
-    "content": "@FactoryAI How do we get in touch with technical support I can’t reach u guys",
-    "url": "https://x.com/MedonB082602/status/1989576895919247444",
-    "timestamp": "2025-11-15T06:11:11.000Z",
-    "metadata": {
-      "conversation_id": "1989576895919247444",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -233,83 +308,8 @@
     "timestamp": "2025-11-15T06:07:46.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1989568847150813633",
-    "source": "twitter",
-    "author": "DanielW_Kiwi",
-    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor I feel like Claude code should get a mention",
-    "url": "https://x.com/DanielW_Kiwi/status/1989568847150813633",
-    "timestamp": "2025-11-15T05:39:12.000Z",
-    "metadata": {
-      "conversation_id": "1989568847150813633",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989566330685866012",
-    "source": "twitter",
-    "author": "yzx396",
-    "content": "@FactoryAI I want to give Droid a try but the built-in GLM 4.6 doesn’t work at all for free tier user. The error is 403 no content. 😢",
-    "url": "https://x.com/yzx396/status/1989566330685866012",
-    "timestamp": "2025-11-15T05:29:12.000Z",
-    "metadata": {
-      "conversation_id": "1989566330685866012",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989562209702162803",
-    "source": "twitter",
-    "author": "theodorvaryag",
-    "content": "so much for using @FactoryAI ig https://t.co/mWjdFVfsgD",
-    "url": "https://x.com/theodorvaryag/status/1989562209702162803",
-    "timestamp": "2025-11-15T05:12:49.000Z",
-    "metadata": {
-      "conversation_id": "1989562209702162803",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989555466494673127",
-    "source": "twitter",
-    "author": "contxtkng",
-    "content": "@FactoryAI I am so curious to know how many users this has. @matanSF will you spill the beans for us a few months in or so?",
-    "url": "https://x.com/contxtkng/status/1989555466494673127",
-    "timestamp": "2025-11-15T04:46:02.000Z",
-    "metadata": {
-      "conversation_id": "1989555466494673127",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989540981272711387",
-    "source": "twitter",
-    "author": "ivanfioravanti",
-    "content": "@traskjd @curiouslychase @AmpCode @FactoryAI @Cursor Same! And I still see people thinking that AI coding assistants are bad.\nIncredible 😱",
-    "url": "https://x.com/ivanfioravanti/status/1989540981272711387",
-    "timestamp": "2025-11-15T03:48:28.000Z",
-    "metadata": {
-      "conversation_id": "1989540981272711387",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -453,6 +453,19 @@
       "type": "issue",
       "labels": [],
       "number": 345
+    }
+  },
+  {
+    "id": "reddit_1ovbn7q",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
+    "timestamp": "2025-11-12T17:34:16.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -586,6 +599,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -609,6 +635,19 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -677,19 +716,6 @@
     }
   },
   {
-    "id": "reddit_1om3tvt",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
-    "timestamp": "2025-11-02T00:38:45.000Z",
-    "metadata": {
-      "score": 9,
-      "num_comments": 13,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_298",
     "source": "github",
     "author": "tgerighty",
@@ -700,19 +726,6 @@
       "type": "issue",
       "labels": [],
       "number": 298
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
