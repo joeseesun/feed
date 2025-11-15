@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1989695709378220441",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "@QuinnyPig droid from @FactoryAI also deserves a mention",
+    "url": "https://x.com/MickeyShaughnes/status/1989695709378220441",
+    "timestamp": "2025-11-15T14:03:18.000Z",
+    "metadata": {
+      "conversation_id": "1989695709378220441",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989695381702402373",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "@bentossell @IceSolst @FactoryAI ooooooo",
+    "url": "https://x.com/MickeyShaughnes/status/1989695381702402373",
+    "timestamp": "2025-11-15T14:02:00.000Z",
+    "metadata": {
+      "conversation_id": "1989695381702402373",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989695242736451636",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MickeyShaughnes @IceSolst @FactoryAI https://t.co/l53YsU1EDo",
+    "url": "https://x.com/bentossell/status/1989695242736451636",
+    "timestamp": "2025-11-15T14:01:27.000Z",
+    "metadata": {
+      "conversation_id": "1989695242736451636",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989695100566286492",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@C72Al @AdhamAlkhaja @FactoryAI yes we have smart context management and systems to get more out of the models\n\nhttps://t.co/rQ3JwmbMvD\nhttps://t.co/P2rElYqE6l",
+    "url": "https://x.com/bentossell/status/1989695100566286492",
+    "timestamp": "2025-11-15T14:00:53.000Z",
+    "metadata": {
+      "conversation_id": "1989695100566286492",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989694606343025046",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@5aikat @iannuttall @shadcn @FactoryAI @ryancarson sweet - publish a repo when you're happy with them and i'll check em out",
+    "url": "https://x.com/bentossell/status/1989694606343025046",
+    "timestamp": "2025-11-15T13:58:55.000Z",
+    "metadata": {
+      "conversation_id": "1989694606343025046",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989694466555273513",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mhadtk @jcurtis @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1989694466555273513",
+    "timestamp": "2025-11-15T13:58:22.000Z",
+    "metadata": {
+      "conversation_id": "1989694466555273513",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989693400879095854",
+    "source": "twitter",
+    "author": "tinkerersanky",
+    "content": "@bentossell @FactoryAI That would be amazing.",
+    "url": "https://x.com/tinkerersanky/status/1989693400879095854",
+    "timestamp": "2025-11-15T13:54:08.000Z",
+    "metadata": {
+      "conversation_id": "1989693400879095854",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989689812744368263",
     "source": "twitter",
     "author": "5aikat",
@@ -8,9 +113,9 @@
     "timestamp": "2025-11-15T13:39:52.000Z",
     "metadata": {
       "conversation_id": "1989689812744368263",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +143,7 @@
     "timestamp": "2025-11-15T13:38:09.000Z",
     "metadata": {
       "conversation_id": "1989689381637267802",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,7 +158,7 @@
     "timestamp": "2025-11-15T13:36:01.000Z",
     "metadata": {
       "conversation_id": "1989688841855176946",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,7 +188,7 @@
     "timestamp": "2025-11-15T13:34:50.000Z",
     "metadata": {
       "conversation_id": "1989688543413715432",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -98,7 +203,7 @@
     "timestamp": "2025-11-15T13:33:39.000Z",
     "metadata": {
       "conversation_id": "1989688249611165756",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -113,9 +218,9 @@
     "timestamp": "2025-11-15T13:31:55.000Z",
     "metadata": {
       "conversation_id": "1989687809909686293",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -128,9 +233,9 @@
     "timestamp": "2025-11-15T13:29:24.000Z",
     "metadata": {
       "conversation_id": "1989687176662323298",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -143,7 +248,7 @@
     "timestamp": "2025-11-15T13:20:39.000Z",
     "metadata": {
       "conversation_id": "1989684975097037293",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -195,111 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989681071840268712",
-    "source": "twitter",
-    "author": "brendanh_au",
-    "content": "@bentossell @Bogorad @FactoryAI Yeah - only until we don’t.  The change in framing implies the bonus can and might be removed at any point.",
-    "url": "https://x.com/brendanh_au/status/1989681071840268712",
-    "timestamp": "2025-11-15T13:05:08.000Z",
-    "metadata": {
-      "conversation_id": "1989681071840268712",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989680237811306665",
-    "source": "twitter",
-    "author": "kksrini89",
-    "content": "@bentossell @Context7AI @FactoryAI Thanks for being open.\n\nI use @AmpCode, but to have @FactoryAI in my weapon list. exploring further!",
-    "url": "https://x.com/kksrini89/status/1989680237811306665",
-    "timestamp": "2025-11-15T13:01:49.000Z",
-    "metadata": {
-      "conversation_id": "1989680237811306665",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989680048001908862",
-    "source": "twitter",
-    "author": "magma_man_dd",
-    "content": "@bentossell @FactoryAI If your product could stand on its own you wouldn't need to offer so many free credits. Its just another cli agent among so many. I have used it.",
-    "url": "https://x.com/magma_man_dd/status/1989680048001908862",
-    "timestamp": "2025-11-15T13:01:04.000Z",
-    "metadata": {
-      "conversation_id": "1989680048001908862",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989679966431084907",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@brendanh_au @Bogorad @FactoryAI i think its just framing. still get the same amount of tokens per month.",
-    "url": "https://x.com/bentossell/status/1989679966431084907",
-    "timestamp": "2025-11-15T13:00:45.000Z",
-    "metadata": {
-      "conversation_id": "1989679966431084907",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989679769055871156",
-    "source": "twitter",
-    "author": "brendanh_au",
-    "content": "@bentossell @Bogorad @FactoryAI Pro did just change from 2M to 1M + 1M “bonus”, which is highly suspicious.",
-    "url": "https://x.com/brendanh_au/status/1989679769055871156",
-    "timestamp": "2025-11-15T12:59:58.000Z",
-    "metadata": {
-      "conversation_id": "1989679769055871156",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989679318147240098",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@cjayls @AdhamAlkhaja @FactoryAI ty!",
-    "url": "https://x.com/bentossell/status/1989679318147240098",
-    "timestamp": "2025-11-15T12:58:10.000Z",
-    "metadata": {
-      "conversation_id": "1989679318147240098",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989679281128018390",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@kksrini89 @Context7AI @FactoryAI thanks lmk if any requests :)",
-    "url": "https://x.com/bentossell/status/1989679281128018390",
-    "timestamp": "2025-11-15T12:58:01.000Z",
-    "metadata": {
-      "conversation_id": "1989679281128018390",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -336,6 +336,58 @@
       "type": "issue",
       "labels": [],
       "number": 360
+    }
+  },
+  {
+    "id": "reddit_1owv5gf",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "how to set up custom models with Groq in &lt;1 min\n\nhttps://reddit.com/link/1owv5gf/video/vfpxccohu71g1/player\n\nvideo above  \ndocs: [https://docs.factory.ai/cli/byok/groq](https://docs.factory.ai/cli/byok/groq)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owv5gf/how_to_set_up_custom_models_with_groq_in_1_min/",
+    "timestamp": "2025-11-14T12:27:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owpdgs",
+    "source": "reddit",
+    "author": "Informal-Spinach-345",
+    "content": "Todo list with minimax m2\n\nAny one else have issues with Minimax M2 on vllm not being able to properly use the todo list? \n\n  \nThis is what the output looks like, it eventually moves on but I never see a todo list:\n\n   Let me create a comprehensive todo list that captures all the remaining work.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;I need to fix the todo format - the todos parameter should be an array, not an object.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;Let me check the todo structure more carefully. Looking",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owpdgs/todo_list_with_minimax_m2/",
+    "timestamp": "2025-11-14T06:41:19.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owbvoj",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "How should we post changelogs here?\n\nhey, i'm ben - dev rel at factory. you may have seen me answering comments.\n\nwe have a changelog now but has like 4/5 updates a week. its automated as a bot in our discord channel. \n\nshould we add anything here? if so, what format is best?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
+    "timestamp": "2025-11-13T20:22:54.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow4spq",
+    "source": "reddit",
+    "author": "Rough-Aioli-7829",
+    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
+    "timestamp": "2025-11-13T15:58:33.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -456,19 +508,6 @@
     }
   },
   {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -541,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -619,21 +658,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omlc3f",
-    "source": "reddit",
-    "author": "IslandOceanWater",
-    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
-    "timestamp": "2025-11-02T16:11:56.000Z",
-    "metadata": {
-      "score": 9,
-      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
@@ -684,7 +710,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -710,8 +736,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 23,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 12,
+      "num_comments": 11,
       "subreddit": "FactoryAi"
     }
   },
