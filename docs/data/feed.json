@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989673890327806268",
+    "source": "twitter",
+    "author": "kksrini89",
+    "content": "@bentossell @Context7AI @FactoryAI Just watched the video. Really helpful to see this in action! Thanks for sharing 🙏",
+    "url": "https://x.com/kksrini89/status/1989673890327806268",
+    "timestamp": "2025-11-15T12:36:36.000Z",
+    "metadata": {
+      "conversation_id": "1989673890327806268",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989671709348069741",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "Now that I’m an “influencer,” I’m getting bombarded with questions about my weekend plans… Well, since @FactoryAI just dropped the one missing feature… Hooks… I’m gonna try migrating all my subagents and hooks over to Droid lingo and see if I can survive a full week without CC.\n\n(Note: Literally no one but my kids has asked what I’m doing this weekend.)",
+    "url": "https://x.com/jcurtis/status/1989671709348069741",
+    "timestamp": "2025-11-15T12:27:56.000Z",
+    "metadata": {
+      "conversation_id": "1989671709348069741",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989671674405646593",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@melodykoh @AnthropicAI @FactoryAI Melody, sounds like a lot of work! These AI coding agents definitely need a lot of baby-sitting, no?",
+    "url": "https://x.com/codewithimanshu/status/1989671674405646593",
+    "timestamp": "2025-11-15T12:27:48.000Z",
+    "metadata": {
+      "conversation_id": "1989671674405646593",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989667377429319877",
     "source": "twitter",
     "author": "iamcienlim",
@@ -68,7 +113,7 @@
     "timestamp": "2025-11-15T11:33:42.000Z",
     "metadata": {
       "conversation_id": "1989658060588290158",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989613222437998773",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@degenhours @yzx396 @FactoryAI you’ll need to email support@factory.ai it looks like vercel blocked it. sorry about that",
-    "url": "https://x.com/bentossell/status/1989613222437998773",
-    "timestamp": "2025-11-15T08:35:32.000Z",
-    "metadata": {
-      "conversation_id": "1989613222437998773",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989612481078333471",
-    "source": "twitter",
-    "author": "degenhours",
-    "content": "@bentossell @yzx396 @FactoryAI when trying to get the 10M tokens to try out droid I get this error after submitting my card details: {\"detail\":\"Vercel BotId check failed. Ensure your browser or network firewall is not blocking BotId scripts.\",\"\n\nCan you please look into it",
-    "url": "https://x.com/degenhours/status/1989612481078333471",
-    "timestamp": "2025-11-15T08:32:35.000Z",
-    "metadata": {
-      "conversation_id": "1989612481078333471",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989612143621132297",
-    "source": "twitter",
-    "author": "Ethan_Smartsys",
-    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor Feels like the 'no-code' moment all over again. Powerful tools, but the real bottleneck is still strategy.",
-    "url": "https://x.com/Ethan_Smartsys/status/1989612143621132297",
-    "timestamp": "2025-11-15T08:31:14.000Z",
-    "metadata": {
-      "conversation_id": "1989612143621132297",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
