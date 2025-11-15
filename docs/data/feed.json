@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989620011154248062",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@iannuttall have been writing a few cool hooks &amp; is awesome (though experimental, so it falters)\n\nanother one is @shadcn gets called with shadcn-ui, although it went away in CC, it pops back in @FactoryAI\n\nWith a 🪝problem solved 😌",
+    "url": "https://x.com/5aikat/status/1989620011154248062",
+    "timestamp": "2025-11-15T09:02:30.000Z",
+    "metadata": {
+      "conversation_id": "1989620011154248062",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989617440054247647",
     "source": "twitter",
     "author": "magma_man_dd",
@@ -278,24 +293,9 @@
     "timestamp": "2025-11-15T07:57:43.000Z",
     "metadata": {
       "conversation_id": "1989603706149777905",
-      "likes": 5,
+      "likes": 6,
       "retweets": 2,
       "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989603477987668116",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@NZT2048 @Context7AI @FactoryAI fabulous",
-    "url": "https://x.com/bentossell/status/1989603477987668116",
-    "timestamp": "2025-11-15T07:56:48.000Z",
-    "metadata": {
-      "conversation_id": "1989603477987668116",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
