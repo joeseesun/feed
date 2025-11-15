@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1989614966345802215",
+    "source": "twitter",
+    "author": "magma_man_dd",
+    "content": "@melodykoh @shreyas1009 @AnthropicAI @FactoryAI I mean we can tell when your code base cant even decide if it wants to work with js files or ts files... https://t.co/Y4dWTn4wlY",
+    "url": "https://x.com/magma_man_dd/status/1989614966345802215",
+    "timestamp": "2025-11-15T08:42:27.000Z",
+    "metadata": {
+      "conversation_id": "1989614966345802215",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989613563011285477",
+    "source": "twitter",
+    "author": "degenhours",
+    "content": "@bentossell @yzx396 @FactoryAI yea I tried all browsers, even in incognito and still getting it. Alright will do",
+    "url": "https://x.com/degenhours/status/1989613563011285477",
+    "timestamp": "2025-11-15T08:36:53.000Z",
+    "metadata": {
+      "conversation_id": "1989613563011285477",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989613236925468749",
+    "source": "twitter",
+    "author": "AdhamAlkhaja",
+    "content": "@bentossell @FactoryAI def, need for refactoring the codebase",
+    "url": "https://x.com/AdhamAlkhaja/status/1989613236925468749",
+    "timestamp": "2025-11-15T08:35:35.000Z",
+    "metadata": {
+      "conversation_id": "1989613236925468749",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989613222437998773",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@degenhours @yzx396 @FactoryAI you’ll need to email support@factory.ai it looks like vercel blocked it. sorry about that",
+    "url": "https://x.com/bentossell/status/1989613222437998773",
+    "timestamp": "2025-11-15T08:35:32.000Z",
+    "metadata": {
+      "conversation_id": "1989613222437998773",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989612481078333471",
     "source": "twitter",
     "author": "degenhours",
@@ -10,7 +70,7 @@
       "conversation_id": "1989612481078333471",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,7 +83,7 @@
     "timestamp": "2025-11-15T08:31:14.000Z",
     "metadata": {
       "conversation_id": "1989612143621132297",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,9 +113,9 @@
     "timestamp": "2025-11-15T08:23:24.000Z",
     "metadata": {
       "conversation_id": "1989610170389868758",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989600585726005426",
-    "source": "twitter",
-    "author": "iamRamavar",
-    "content": "@ben_vargas @trungns95vn @FactoryAI Okay thanks @ben_vargas seems amp got updated - I did login first - then set proxy still unable to get it working - can you may be update setting or docs or an video with latest cli will help please",
-    "url": "https://x.com/iamRamavar/status/1989600585726005426",
-    "timestamp": "2025-11-15T07:45:19.000Z",
-    "metadata": {
-      "conversation_id": "1989600585726005426",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989599862279528529",
-    "source": "twitter",
-    "author": "NZT2048",
-    "content": "@bentossell @Context7AI @FactoryAI Nice setup. Curious how the hooks are working out with Context7AI so far?",
-    "url": "https://x.com/NZT2048/status/1989599862279528529",
-    "timestamp": "2025-11-15T07:42:26.000Z",
-    "metadata": {
-      "conversation_id": "1989599862279528529",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989598259589820536",
-    "source": "twitter",
-    "author": "philliphaydon",
-    "content": "@traskjd @curiouslychase @AmpCode @FactoryAI @Cursor We need a CTO… 🙋🏼‍♂️",
-    "url": "https://x.com/philliphaydon/status/1989598259589820536",
-    "timestamp": "2025-11-15T07:36:04.000Z",
-    "metadata": {
-      "conversation_id": "1989598259589820536",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989596939147776297",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@iamRamavar @trungns95vn @FactoryAI I did get @rabbitholesai working with CLIProxyAPI though as they allow custom providers. That was the most recent tool I use that I was able to get working.",
-    "url": "https://x.com/ben_vargas/status/1989596939147776297",
-    "timestamp": "2025-11-15T07:30:49.000Z",
-    "metadata": {
-      "conversation_id": "1989596939147776297",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -308,7 +308,7 @@
     "timestamp": "2025-11-15T06:07:46.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 2,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -321,7 +321,7 @@
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
       "score": 4,
-      "num_comments": 4,
+      "num_comments": 5,
       "subreddit": "FactoryAi"
     }
   },
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
