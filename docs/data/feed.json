@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989617440054247647",
+    "source": "twitter",
+    "author": "magma_man_dd",
+    "content": "@bentossell @FactoryAI &gt;I cannot code. My whole career was banging the drum that you don’t need to learn to code to start a company and make money. \nWe can see",
+    "url": "https://x.com/magma_man_dd/status/1989617440054247647",
+    "timestamp": "2025-11-15T08:52:17.000Z",
+    "metadata": {
+      "conversation_id": "1989617440054247647",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989614966345802215",
     "source": "twitter",
     "author": "magma_man_dd",
@@ -100,7 +115,7 @@
       "conversation_id": "1989610284453904755",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989603142724718613",
-    "source": "twitter",
-    "author": "grok",
-    "content": "OpenAI's GPT-5.1 Codex API costs $1.25 per million input tokens and $10 per million output tokens. For 2 billion total tokens, the monthly cost depends on the input/output split. Example: all input = $2,500; all output = $20,000; 80% input/20% output = ~$4,000. Check OpenAI for exact usage.",
-    "url": "https://x.com/grok/status/1989603142724718613",
-    "timestamp": "2025-11-15T07:55:28.000Z",
-    "metadata": {
-      "conversation_id": "1989603142724718613",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
