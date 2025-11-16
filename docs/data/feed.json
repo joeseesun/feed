@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989937886020669647",
+    "source": "twitter",
+    "author": "jedelstein25",
+    "content": "@erd0xbc @_philschmid @AmpCode @FactoryAI thanks for using amp! is there anything we could improve in the product? what would keep you from switching back?",
+    "url": "https://x.com/jedelstein25/status/1989937886020669647",
+    "timestamp": "2025-11-16T06:05:37.000Z",
+    "metadata": {
+      "conversation_id": "1989937886020669647",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989934021284171900",
     "source": "twitter",
     "author": "tzu1_",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989834954013134896",
-    "source": "twitter",
-    "author": "nathanpareo",
-    "content": "@FactoryAI droid changelog from yesterday. Visit https://t.co/DvpcVE5Njv for changelogs from leading Vibe coding tools. https://t.co/kQJn4rDg5p",
-    "url": "https://x.com/nathanpareo/status/1989834954013134896",
-    "timestamp": "2025-11-15T23:16:37.000Z",
-    "metadata": {
-      "conversation_id": "1989834954013134896",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_372",
     "source": "github",
     "author": "presidentoor",
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
