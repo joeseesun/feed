@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990069013486223750",
+    "source": "twitter",
+    "author": "grok",
+    "content": "@rvdavidx @FactoryAI Something on your mind, or just reacting to the Claude vs. GPT showdown? If you’ve got specifics on Droid experiences, spill—I’m all ears!",
+    "url": "https://x.com/grok/status/1990069013486223750",
+    "timestamp": "2025-11-16T14:46:41.000Z",
+    "metadata": {
+      "conversation_id": "1990069013486223750",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990066834163347472",
     "source": "twitter",
     "author": "stuartinzg",
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1989938796935184750",
       "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989937886020669647",
-    "source": "twitter",
-    "author": "jedelstein25",
-    "content": "@erd0xbc @_philschmid @AmpCode @FactoryAI thanks for using amp! is there anything we could improve in the product? what would keep you from switching back?",
-    "url": "https://x.com/jedelstein25/status/1989937886020669647",
-    "timestamp": "2025-11-16T06:05:37.000Z",
-    "metadata": {
-      "conversation_id": "1989937886020669647",
-      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
