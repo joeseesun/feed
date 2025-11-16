@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990072382359285995",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "@fred_pope @AnthropicAI @FactoryAI @every Yea have been testing the front end design skills by anthropic but haven’t tried others.",
+    "url": "https://x.com/melodykoh/status/1990072382359285995",
+    "timestamp": "2025-11-16T15:00:04.000Z",
+    "metadata": {
+      "conversation_id": "1990072382359285995",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990069013486223750",
     "source": "twitter",
     "author": "grok",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989938796935184750",
-    "source": "twitter",
-    "author": "kcosr",
-    "content": "I just paid $20 to sign up and run a similar test with codex vs. droid and gpt-5.1-codex medium. It reviewed and made changes in about 7 minutes while codex took 7:45. It skipped executing most of my GitLab workflow from AGENTS dot md, however. It created an issue and implemented the work locally in main. I had to ask it to create a branch, push, open a MR and update the issue with details. I usually use gpt-5.1 high, so maybe this was model related (codex followed it, though). I will have to experiment with droid in my repository now that it is getting past reading files.",
-    "url": "https://x.com/kcosr/status/1989938796935184750",
-    "timestamp": "2025-11-16T06:09:15.000Z",
-    "metadata": {
-      "conversation_id": "1989938796935184750",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -491,19 +491,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow0203",
-    "source": "reddit",
-    "author": "vargalas",
-    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
-    "timestamp": "2025-11-13T12:42:42.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -703,6 +690,32 @@
     }
   },
   {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_309",
     "source": "github",
     "author": "msneijders",
@@ -713,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 309
+    }
+  },
+  {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
