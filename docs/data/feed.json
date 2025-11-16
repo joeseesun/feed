@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990031859569541563",
+    "source": "twitter",
+    "author": "0xCRASHOUT",
+    "content": "@FactoryAI finally a monthly plan fit for me",
+    "url": "https://x.com/0xCRASHOUT/status/1990031859569541563",
+    "timestamp": "2025-11-16T12:19:02.000Z",
+    "metadata": {
+      "conversation_id": "1990031859569541563",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990027793850307056",
     "source": "twitter",
     "author": "alpes_aux_andes",
@@ -38,7 +53,7 @@
     "timestamp": "2025-11-16T11:59:35.000Z",
     "metadata": {
       "conversation_id": "1990026963256582199",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -128,7 +143,7 @@
     "timestamp": "2025-11-16T07:54:35.000Z",
     "metadata": {
       "conversation_id": "1989965306845172084",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -218,9 +233,9 @@
     "timestamp": "2025-11-16T05:50:16.000Z",
     "metadata": {
       "conversation_id": "1989934021284171900",
-      "likes": 1,
+      "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -292,21 +307,6 @@
     "metadata": {
       "conversation_id": "1989918390568587627",
       "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989917339664388270",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "The next capability that felt different for me was threads. Droid and CC both have resumable sessions you can rewind; but having the entire thread state stored online and instantly available as a first-class context primitive hit differently. This is one thing I missed when I switched back to @FactoryAI.\n\nRead thread works well with handoff  too.\n\nhttps://t.co/jNw8kXRl3Y",
-    "url": "https://x.com/erd0xbc/status/1989917339664388270",
-    "timestamp": "2025-11-16T04:43:59.000Z",
-    "metadata": {
-      "conversation_id": "1989917339664388270",
-      "likes": 0,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
