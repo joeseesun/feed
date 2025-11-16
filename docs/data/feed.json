@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990006460776894670",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "GM\n\nTesting skills with @FactoryAI droid.\n\nP.S.: The /skills command is not triggering anything.\nI updated it, reopened the terminal, etc.). However, pointing to the location of the skill document makes the model find and list it as \"Available Skills.\" https://t.co/W6jYwbRtCO",
+    "url": "https://x.com/CloudTrader4/status/1990006460776894670",
+    "timestamp": "2025-11-16T10:38:07.000Z",
+    "metadata": {
+      "conversation_id": "1990006460776894670",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990000997759123593",
     "source": "twitter",
     "author": "Mind9Excel",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989895370172719339",
-    "source": "twitter",
-    "author": "ain3sh",
-    "content": "@badlogicgames @FactoryAI doesn’t have this problem 🥹",
-    "url": "https://x.com/ain3sh/status/1989895370172719339",
-    "timestamp": "2025-11-16T03:16:41.000Z",
-    "metadata": {
-      "conversation_id": "1989895370172719339",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_372",
     "source": "github",
     "author": "presidentoor",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
