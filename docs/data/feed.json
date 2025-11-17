@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990362977271214184",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@frankekn @FactoryAI kudos for their 2k plan!",
+    "url": "https://x.com/steipete/status/1990362977271214184",
+    "timestamp": "2025-11-17T10:14:47.000Z",
+    "metadata": {
+      "conversation_id": "1990362977271214184",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990342203303137309",
     "source": "twitter",
     "author": "0motionguy",
@@ -248,9 +263,9 @@
     "timestamp": "2025-11-17T03:10:19.000Z",
     "metadata": {
       "conversation_id": "1990256155608957338",
-      "likes": 12,
+      "likes": 13,
       "retweets": 2,
-      "replies": 3,
+      "replies": 4,
       "quotes": 1
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990227025093931196",
-    "source": "twitter",
-    "author": "momenabdelkarim",
-    "content": "Been using Claude Code, Codex, and @FactoryAI Droid CLI with various models to do this migration and I’ve noticed GPT 5/5.1 High in Codex has been the best for writing code in a @tan_stack Start (TSS) project. Codex does a much better job actually looking up the latest documentation for TSS, which is important for such a new framework as things change quickly. Otherwise it ends up writing a bunch of NextJS-like code and weird bugs start popping up. All these models don’t know much about TSS by default in their training dataset clearly.\n\nAlso I specify Codex because when I ran GPT 5/5.1 High in Droid CLI I was getting much lower quality output than via Codex.\n\nMake sure to set “web_search_request = true” in your Codex config.toml to ensure it can access the latest info! It’s off by default.",
-    "url": "https://x.com/momenabdelkarim/status/1990227025093931196",
-    "timestamp": "2025-11-17T01:14:34.000Z",
-    "metadata": {
-      "conversation_id": "1990227025093931196",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -310,45 +310,6 @@
       "type": "discussion",
       "category": "General",
       "number": 374
-    }
-  },
-  {
-    "id": "reddit_1oz18qh",
-    "source": "reddit",
-    "author": "EggNo4904",
-    "content": "not sure if i am the only one getting this, interestingly enough it had my card details saved tho.\n\nImages:\n\thttps://preview.redd.it/uu8xf048jp1g1.png?auto=webp&amp;s=9574291f2513a281eca97c75667653da65da086d\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oz18qh/not_sure_if_i_am_the_only_one_getting_this/",
-    "timestamp": "2025-11-16T23:56:02.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oys5f5",
-    "source": "reddit",
-    "author": "SensitiveUpstairs803",
-    "content": "Fix large file parsing crash issue.\n\nIf we have a large file Droid's file view tool will try to parse it and then crash because the file is to large but to solve the crashing you should add something that detects the size of the file then if its too large it will resort to using a powershell command instead of the built in droid file parser tool to parse a few lines of the file to get the format etc based on whatever the question involving the file is. Simple feature simple fix.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oys5f5/fix_large_file_parsing_crash_issue/",
-    "timestamp": "2025-11-16T17:50:18.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oydnzt",
-    "source": "reddit",
-    "author": "EggNo4904",
-    "content": "When i put my real number this is what i get ( i moved it out, also the pretty print some vercel blocks heard a lot of droid would love to be able to try it)\n\nImages:\n\thttps://preview.redd.it/huzzfboe3k1g1.png?auto=webp&amp;s=f342b5e1a1ba7e0c301f58a658fd42ac56fe6535\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oydnzt/when_i_put_my_real_number_this_is_what_i_get_i/",
-    "timestamp": "2025-11-16T05:38:43.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -437,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -482,19 +443,6 @@
     }
   },
   {
-    "id": "reddit_1owv5gf",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "how to set up custom models with Groq in &lt;1 min\n\nhttps://reddit.com/link/1owv5gf/video/vfpxccohu71g1/player\n\nvideo above  \ndocs: [https://docs.factory.ai/cli/byok/groq](https://docs.factory.ai/cli/byok/groq)",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owv5gf/how_to_set_up_custom_models_with_groq_in_1_min/",
-    "timestamp": "2025-11-14T12:27:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 0,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1owpdgs",
     "source": "reddit",
     "author": "Informal-Spinach-345",
@@ -530,19 +478,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow0203",
-    "source": "reddit",
-    "author": "vargalas",
-    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
-    "timestamp": "2025-11-13T12:42:42.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -703,6 +638,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -729,6 +677,32 @@
     }
   },
   {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_309",
     "source": "github",
     "author": "msneijders",
@@ -739,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 309
+    }
+  },
+  {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
     }
   },
   {
