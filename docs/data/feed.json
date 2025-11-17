@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990400390026670168",
+    "source": "twitter",
+    "author": "CryptoSolana_OG",
+    "content": "@FHulayyil @FactoryAI @greptile Really?",
+    "url": "https://x.com/CryptoSolana_OG/status/1990400390026670168",
+    "timestamp": "2025-11-17T12:43:27.000Z",
+    "metadata": {
+      "conversation_id": "1990400390026670168",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990399057605345648",
+    "source": "twitter",
+    "author": "itsbyrobin",
+    "content": "@bentossell @michael_chomsky @FactoryAI agree you guys definitely do a lot of things right, and I hope that one day I will see the light\n\nnot yet tho 🤣",
+    "url": "https://x.com/itsbyrobin/status/1990399057605345648",
+    "timestamp": "2025-11-17T12:38:09.000Z",
+    "metadata": {
+      "conversation_id": "1990399057605345648",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990396104886702095",
     "source": "twitter",
     "author": "BillCrosby",
@@ -143,9 +173,9 @@
     "timestamp": "2025-11-17T11:18:08.000Z",
     "metadata": {
       "conversation_id": "1990378918512382417",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -175,7 +205,7 @@
       "conversation_id": "1990371815198269442",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -263,40 +293,10 @@
     "timestamp": "2025-11-17T07:42:39.000Z",
     "metadata": {
       "conversation_id": "1990324689840095734",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 3,
       "quotes": 1
-    }
-  },
-  {
-    "id": "twitter_1990313057827090874",
-    "source": "twitter",
-    "author": "michael_chomsky",
-    "content": "@itsbyrobin @FactoryAI the Droid people give ‘idk how this makes it better but the vibes are good let’s ship it’",
-    "url": "https://x.com/michael_chomsky/status/1990313057827090874",
-    "timestamp": "2025-11-17T06:56:25.000Z",
-    "metadata": {
-      "conversation_id": "1990313057827090874",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990308433447551014",
-    "source": "twitter",
-    "author": "barkleesanders",
-    "content": "use https://t.co/EkDi5QvOTe to build pwa for you and then push to github and then connect to @FactoryAI to code within no limits, you technically can deploy with Google studio two but for me this is how I design a lot of things you can use a lot of Google products honestly, they’re really great",
-    "url": "https://x.com/barkleesanders/status/1990308433447551014",
-    "timestamp": "2025-11-17T06:38:03.000Z",
-    "metadata": {
-      "conversation_id": "1990308433447551014",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -515,21 +515,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow4spq",
-    "source": "reddit",
-    "author": "Rough-Aioli-7829",
-    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
-    "timestamp": "2025-11-13T15:58:33.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -651,6 +638,19 @@
     }
   },
   {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -690,6 +690,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -713,6 +726,32 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
