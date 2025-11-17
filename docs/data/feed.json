@@ -1,20 +1,5 @@
 [
   {
-    "id": "twitter_1990524414430228941",
-    "source": "twitter",
-    "author": "mudassir_siddi",
-    "content": "Kylan, love the 2-reviewer rule with Droid and Codex, keeps things tight without endless loops. We've got something similar in Hikaflow for PRs plus post-merge impact scans to flag regressions early. Fits your 'rinse and repeat' vibe? \nWould be fun to compare setups: https://t.co/hICfvFSkqx",
-    "url": "https://x.com/mudassir_siddi/status/1990524414430228941",
-    "timestamp": "2025-11-17T20:56:17.000Z",
-    "metadata": {
-      "conversation_id": "1990524414430228941",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "twitter_1990518267719660008",
     "source": "twitter",
     "author": "duru_tobe",
@@ -300,6 +285,21 @@
     }
   },
   {
+    "id": "twitter_1990418831030759457",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JoelDeTeves @FactoryAI trying my best!",
+    "url": "https://x.com/bentossell/status/1990418831030759457",
+    "timestamp": "2025-11-17T13:56:44.000Z",
+    "metadata": {
+      "conversation_id": "1990418831030759457",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
