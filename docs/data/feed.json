@@ -128,7 +128,7 @@
     "timestamp": "2025-11-17T03:10:19.000Z",
     "metadata": {
       "conversation_id": "1990256155608957338",
-      "likes": 8,
+      "likes": 9,
       "retweets": 2,
       "replies": 3,
       "quotes": 1
@@ -183,7 +183,7 @@
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
-    "content": "[Discussion] 20M tokens promised, 1M tokens received...\n\nThe website https://factorycli.com/ promises free 20M tokens. After clicking on the link and signing up, I only received 1M tokens . \r\n\r\nNot a good first impression...",
+    "content": "[Discussion] 20M tokens promised, 1M tokens received...\n\nThe website https://factorycli.com/ promises free 20M tokens. After clicking on the link and signing up, I only received 1M tokens . ",
     "url": "https://github.com/Factory-AI/factory/discussions/374",
     "timestamp": "2025-11-17T00:05:46Z",
     "metadata": {
@@ -201,7 +201,7 @@
     "timestamp": "2025-11-16T23:56:02.000Z",
     "metadata": {
       "score": 3,
-      "num_comments": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -504,6 +504,32 @@
     "metadata": {
       "score": 1,
       "num_comments": 8,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owbvoj",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "How should we post changelogs here?\n\nhey, i'm ben - dev rel at factory. you may have seen me answering comments.\n\nwe have a changelog now but has like 4/5 updates a week. its automated as a bot in our discord channel. \n\nshould we add anything here? if so, what format is best?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
+    "timestamp": "2025-11-13T20:22:54.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow4spq",
+    "source": "reddit",
+    "author": "Rough-Aioli-7829",
+    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
+    "timestamp": "2025-11-13T15:58:33.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -687,32 +713,6 @@
       "type": "issue",
       "labels": [],
       "number": 319
-    }
-  },
-  {
-    "id": "reddit_1op6njm",
-    "source": "reddit",
-    "author": "Sakrilegi0us",
-    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
-    "timestamp": "2025-11-05T15:57:27.000Z",
-    "metadata": {
-      "score": 6,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oomptx",
-    "source": "reddit",
-    "author": "samplifyk",
-    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
-    "timestamp": "2025-11-04T23:17:50.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
     }
   },
   {
