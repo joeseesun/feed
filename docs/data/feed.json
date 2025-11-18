@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1990762198193598478",
+    "source": "twitter",
+    "author": "bez69259",
+    "content": "Waiting for Gemini 3.0 Pro in Droid CLI @FactoryAI 🫡. Probably will be SOTA setup for coding",
+    "url": "https://x.com/bez69259/status/1990762198193598478",
+    "timestamp": "2025-11-18T12:41:09.000Z",
+    "metadata": {
+      "conversation_id": "1990762198193598478",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_380",
+    "source": "github",
+    "author": "ajdiyassin",
+    "content": "[Issue] Gemini 3\n\nDo you guys plan to add the Gemini 3 pro model?",
+    "url": "https://github.com/Factory-AI/factory/issues/380",
+    "timestamp": "2025-11-18T12:34:06Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 380
+    }
+  },
+  {
     "id": "twitter_1990757585704923591",
     "source": "twitter",
     "author": "MullerNavas",
