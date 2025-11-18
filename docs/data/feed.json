@@ -1,5 +1,108 @@
 [
   {
+    "id": "github_issue_381",
+    "source": "github",
+    "author": "masakielastic",
+    "content": "[Issue] Auto-update hang: Droid CLI stuck ~7 minutes on “Checking for updates…” on Linux/Crostini\n\n### Summary\n\nDroid CLI on Linux (ChromeOS Crostini) hangs for **6–7 minutes** at startup with\n**“Checking for updates…”**, then eventually loads the TUI.\nDuring the delay, the logs show repeated attempts to create `/.factory` and `/home/.factory`, causing `EACCES` errors.\n\nThis appears related to Issue #378 (macOS), but occurs on Linux with similar symptoms.\n\n---\n\n### Environment\n\n* **OS**: ChromeOS + Crostini (Debian 12 bookworm)\n* **CLI Version**: 0.26.4 (latest)\n* **Architecture**: linux-x64\n",
+    "url": "https://github.com/Factory-AI/factory/issues/381",
+    "timestamp": "2025-11-18T18:29:49Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 381
+    }
+  },
+  {
+    "id": "twitter_1990849883020935226",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mikez93 @FactoryAI 🔥🔥🔥",
+    "url": "https://x.com/bentossell/status/1990849883020935226",
+    "timestamp": "2025-11-18T18:29:34.000Z",
+    "metadata": {
+      "conversation_id": "1990849883020935226",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990848506190254158",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@jcurtis @GoogleAIStudio @FactoryAI Next 9fig SaaS cooking",
+    "url": "https://x.com/CloudTrader4/status/1990848506190254158",
+    "timestamp": "2025-11-18T18:24:06.000Z",
+    "metadata": {
+      "conversation_id": "1990848506190254158",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990847967666856138",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "Okay, was hoping to jump last weekend but, @GoogleAIStudio  #Gemini3  distracted me a bit... but I’ve just  moved over to @FactoryAI with my crew. \n\nNow, I will see how the rest of the week goes. https://t.co/GVhubEUhuP",
+    "url": "https://x.com/jcurtis/status/1990847967666856138",
+    "timestamp": "2025-11-18T18:21:58.000Z",
+    "metadata": {
+      "conversation_id": "1990847967666856138",
+      "likes": 3,
+      "retweets": 2,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990846690547339674",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@davidrsdlife @nathanpareo @FactoryAI follow our changelog https://t.co/c5pzDR734B\n\njoin the discord https://t.co/Vsxt781qZr\n\nfavourite was only tuesday i believe",
+    "url": "https://x.com/bentossell/status/1990846690547339674",
+    "timestamp": "2025-11-18T18:16:53.000Z",
+    "metadata": {
+      "conversation_id": "1990846690547339674",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990846202859180484",
+    "source": "twitter",
+    "author": "ssh_sharma135",
+    "content": "@nathanpareo @FactoryAI https://t.co/03dtbxcuML",
+    "url": "https://x.com/ssh_sharma135/status/1990846202859180484",
+    "timestamp": "2025-11-18T18:14:57.000Z",
+    "metadata": {
+      "conversation_id": "1990846202859180484",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990845911698747548",
+    "source": "twitter",
+    "author": "ssh_sharma135",
+    "content": "@meTheKarthik @danshipper @every @FactoryAI https://t.co/03dtbxbWXd",
+    "url": "https://x.com/ssh_sharma135/status/1990845911698747548",
+    "timestamp": "2025-11-18T18:13:48.000Z",
+    "metadata": {
+      "conversation_id": "1990845911698747548",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990845238575796710",
     "source": "twitter",
     "author": "_drozdgabriel",
