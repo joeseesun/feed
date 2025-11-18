@@ -1,5 +1,185 @@
 [
   {
+    "id": "twitter_1990798315936788742",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "🔥 @FactoryAI Droid tip most people don't know:  \n\nYou can resume old sessions instead of starting fresh every time.  \n\nHow: \n- Open https://t.co/6ZV6b8bft0 → Sessions tab\n- Copy the session ID \n- Terminal: droid --resume &lt;session-id&gt;  \n\nGame changer for long-running projects.",
+    "url": "https://x.com/nathanpareo/status/1990798315936788742",
+    "timestamp": "2025-11-18T15:04:40.000Z",
+    "metadata": {
+      "conversation_id": "1990798315936788742",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797868169638391",
+    "source": "twitter",
+    "author": "BEAST_OFFICIIAL",
+    "content": "@bentossell @iannuttall @FactoryAI https://t.co/WpDAiPxDIG",
+    "url": "https://x.com/BEAST_OFFICIIAL/status/1990797868169638391",
+    "timestamp": "2025-11-18T15:02:53.000Z",
+    "metadata": {
+      "conversation_id": "1990797868169638391",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797579844771979",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@BEAST_OFFICIIAL @iannuttall @FactoryAI ask google 😂",
+    "url": "https://x.com/bentossell/status/1990797579844771979",
+    "timestamp": "2025-11-18T15:01:44.000Z",
+    "metadata": {
+      "conversation_id": "1990797579844771979",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797404787143011",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@buggyDcode @FactoryAI yes its coming asap! love zed also",
+    "url": "https://x.com/bentossell/status/1990797404787143011",
+    "timestamp": "2025-11-18T15:01:03.000Z",
+    "metadata": {
+      "conversation_id": "1990797404787143011",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797360470049066",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@bez69259 @FactoryAI (it is)",
+    "url": "https://x.com/bentossell/status/1990797360470049066",
+    "timestamp": "2025-11-18T15:00:52.000Z",
+    "metadata": {
+      "conversation_id": "1990797360470049066",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797356640710777",
+    "source": "twitter",
+    "author": "BEAST_OFFICIIAL",
+    "content": "@bentossell @iannuttall @FactoryAI Oh will it be cheap enough?",
+    "url": "https://x.com/BEAST_OFFICIIAL/status/1990797356640710777",
+    "timestamp": "2025-11-18T15:00:51.000Z",
+    "metadata": {
+      "conversation_id": "1990797356640710777",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797351037116622",
+    "source": "twitter",
+    "author": "MirAI_Newz",
+    "content": "@bentossell @iannuttall @FactoryAI Oh I smell some insider info here 😂",
+    "url": "https://x.com/MirAI_Newz/status/1990797351037116622",
+    "timestamp": "2025-11-18T15:00:50.000Z",
+    "metadata": {
+      "conversation_id": "1990797351037116622",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797333920207237",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@softcoda @iannuttall @FactoryAI we will 😊",
+    "url": "https://x.com/bentossell/status/1990797333920207237",
+    "timestamp": "2025-11-18T15:00:46.000Z",
+    "metadata": {
+      "conversation_id": "1990797333920207237",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797247399997580",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@stnkvcs @iannuttall @FactoryAI coming 👀",
+    "url": "https://x.com/bentossell/status/1990797247399997580",
+    "timestamp": "2025-11-18T15:00:25.000Z",
+    "metadata": {
+      "conversation_id": "1990797247399997580",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797169243402751",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@iannuttall @FactoryAI oh it will be and oh it will be GOOD",
+    "url": "https://x.com/bentossell/status/1990797169243402751",
+    "timestamp": "2025-11-18T15:00:07.000Z",
+    "metadata": {
+      "conversation_id": "1990797169243402751",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990797083264405619",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nathanpareo @FactoryAI when its on, we'll be on 😊",
+    "url": "https://x.com/bentossell/status/1990797083264405619",
+    "timestamp": "2025-11-18T14:59:46.000Z",
+    "metadata": {
+      "conversation_id": "1990797083264405619",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990796984723386571",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@ArchiSoftTech @nathanpareo @FactoryAI i re-escalated this morning! im trying 😬",
+    "url": "https://x.com/bentossell/status/1990796984723386571",
+    "timestamp": "2025-11-18T14:59:23.000Z",
+    "metadata": {
+      "conversation_id": "1990796984723386571",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990794772450324817",
     "source": "twitter",
     "author": "ingoa_dev",
