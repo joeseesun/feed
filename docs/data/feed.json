@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990960878972436825",
+    "source": "twitter",
+    "author": "0xnihilism",
+    "content": "@eter_inquirer @cory_analla @FactoryAI got you back\nhttps://t.co/iruae5Q1q2",
+    "url": "https://x.com/0xnihilism/status/1990960878972436825",
+    "timestamp": "2025-11-19T01:50:38.000Z",
+    "metadata": {
+      "conversation_id": "1990960878972436825",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990960196597002459",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@FactoryAI and @PaloAltoNtwks are partnering to bring security against prompt-injection directly into the Factory platform.\n\nInspect prompts, model responses, and tool calls for injection risks with Droid powered by Prisma AIRS.\n\nIt's been a privilege working with the PANW team on this.",
+    "url": "https://x.com/francesca_lab/status/1990960196597002459",
+    "timestamp": "2025-11-19T01:47:55.000Z",
+    "metadata": {
+      "conversation_id": "1990960196597002459",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990952537579794754",
     "source": "twitter",
     "author": "minheo93698092",
