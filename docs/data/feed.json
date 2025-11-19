@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990985678490948027",
+    "source": "twitter",
+    "author": "hightbunker",
+    "content": "idk man, used G3 in Cursor, used it in Antigravity, Windsurf, Gemini CLI, and somehow @FactoryAI’s Droid CLI still comes out stronger on the stuff I need. Hands down, I had contradictory opinions about the $2000 tier, but damn, if Droid continues at this level of quality, then…",
+    "url": "https://x.com/hightbunker/status/1990985678490948027",
+    "timestamp": "2025-11-19T03:29:11.000Z",
+    "metadata": {
+      "conversation_id": "1990985678490948027",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
     "id": "github_issue_383",
     "source": "github",
     "author": "bimapopo345",
