@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1991239615353876686",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "Working on getting @FactoryAI Droid working with Gemini 3 via BYOK and CLIProxyAPI... there's a lot of rate limiting occurring on the API side, likely because of the insane demand.\n\nI expect as TPUs come online and Google can ramp up capacity, or demand subsides some, G3 will get a lot faster.",
+    "url": "https://x.com/ben_vargas/status/1991239615353876686",
+    "timestamp": "2025-11-19T20:18:14.000Z",
+    "metadata": {
+      "conversation_id": "1991239615353876686",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991239537020817481",
+    "source": "twitter",
+    "author": "withmegg",
+    "content": "Agentic workflows powered by Gemini 3? @FactoryAI  Droid said \"say less\"",
+    "url": "https://x.com/withmegg/status/1991239537020817481",
+    "timestamp": "2025-11-19T20:17:55.000Z",
+    "metadata": {
+      "conversation_id": "1991239537020817481",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991238648004542915",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@AriesTheCoder @antigravity @docusaurus @FactoryAI How are you liking kimi k2 in droid?",
+    "url": "https://x.com/bradvangelder/status/1991238648004542915",
+    "timestamp": "2025-11-19T20:14:23.000Z",
+    "metadata": {
+      "conversation_id": "1991238648004542915",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991237024397832632",
+    "source": "twitter",
+    "author": "marcgregory_",
+    "content": "@itsbyrobin UI it’s good, complex feature builds it makes a ton of mistakes and loses context fast. I’ve only tested it within @FactoryAI droid - where codex is really good in",
+    "url": "https://x.com/marcgregory_/status/1991237024397832632",
+    "timestamp": "2025-11-19T20:07:56.000Z",
+    "metadata": {
+      "conversation_id": "1991237024397832632",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991234632214257949",
     "source": "twitter",
     "author": "kadiruludag",
