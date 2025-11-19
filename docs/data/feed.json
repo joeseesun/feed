@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991158169687474598",
+    "source": "twitter",
+    "author": "andupoto",
+    "content": "@bentossell @hightbunker @FactoryAI Gotcha, so it's not for vibe coders. Hope it works out!",
+    "url": "https://x.com/andupoto/status/1991158169687474598",
+    "timestamp": "2025-11-19T14:54:36.000Z",
+    "metadata": {
+      "conversation_id": "1991158169687474598",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991157886249025716",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@andupoto @hightbunker @FactoryAI notably better than warp, and can work inside your IDE but yes its a CLI coding tool.",
+    "url": "https://x.com/bentossell/status/1991157886249025716",
+    "timestamp": "2025-11-19T14:53:28.000Z",
+    "metadata": {
+      "conversation_id": "1991157886249025716",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991157528391004214",
+    "source": "twitter",
+    "author": "catslikeseaweed",
+    "content": "@JohnONolan @FactoryAI wtf did I just read",
+    "url": "https://x.com/catslikeseaweed/status/1991157528391004214",
+    "timestamp": "2025-11-19T14:52:03.000Z",
+    "metadata": {
+      "conversation_id": "1991157528391004214",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991154924894183839",
     "source": "twitter",
     "author": "hightbunker",
