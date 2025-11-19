@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1991253413577756999",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "Fine\n\nTrying Droid from @FactoryAI \n\nIf it's good buying a paid plan 👀 https://t.co/CDP4X4y0yg",
+    "url": "https://x.com/leoisadev/status/1991253413577756999",
+    "timestamp": "2025-11-19T21:13:04.000Z",
+    "metadata": {
+      "conversation_id": "1991253413577756999",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991253155628409140",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "Status update: Droid (with Gemini 3 Pro) is the clear winner for my workflow.\n\nIn my tests It was slower than Antigravity, but Droid's orchestration layer is still unmatched, it was able to recognize and fix its own errors more reliably and showed better prompt adherence leading to better results.\n\nFull benchmark thread with the evidence tomorrow.",
+    "url": "https://x.com/makerfounder/status/1991253155628409140",
+    "timestamp": "2025-11-19T21:12:02.000Z",
+    "metadata": {
+      "conversation_id": "1991253155628409140",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991253094240514098",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @FactoryAI my trial ran out at the beginning of the month \n\nhttps://t.co/B65v7VfFNs",
+    "url": "https://x.com/fire/status/1991253094240514098",
+    "timestamp": "2025-11-19T21:11:48.000Z",
+    "metadata": {
+      "conversation_id": "1991253094240514098",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991253081078808598",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "Status update: Droid (with Gemini 3 Pro) is the clear winner for my workflow.  \n\nIn my tests It was slower than Antigravity, but Droid's orchestration layer is still unmatched, it was able to recognize and fix its own errors more reliably and showed better prompt adherence leading to better results.  \n\nFull benchmark thread with the evidence tomorrow.",
+    "url": "https://x.com/makerfounder/status/1991253081078808598",
+    "timestamp": "2025-11-19T21:11:44.000Z",
+    "metadata": {
+      "conversation_id": "1991253081078808598",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991252129453916564",
+    "source": "twitter",
+    "author": "doesdatmaksense",
+    "content": "i have never advocated for any coding tool so far, but @FactoryAI droid is an amazing amazing tool. far super experience than claude code, cursor, and codex.",
+    "url": "https://x.com/doesdatmaksense/status/1991252129453916564",
+    "timestamp": "2025-11-19T21:07:57.000Z",
+    "metadata": {
+      "conversation_id": "1991252129453916564",
+      "likes": 4,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1991251526451679370",
+    "source": "twitter",
+    "author": "creatine_cycle",
+    "content": "@FactoryAI @PaloAltoNtwks thank you @PaloAltoNtwks for keeping my droid army safe",
+    "url": "https://x.com/creatine_cycle/status/1991251526451679370",
+    "timestamp": "2025-11-19T21:05:34.000Z",
+    "metadata": {
+      "conversation_id": "1991251526451679370",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991251409602478229",
     "source": "twitter",
     "author": "makerfounder",
