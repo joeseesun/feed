@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991462150498578942",
+    "source": "twitter",
+    "author": "athleticKoder",
+    "content": "@LyalinDotCom @geminicli i would stick to @FactoryAI",
+    "url": "https://x.com/athleticKoder/status/1991462150498578942",
+    "timestamp": "2025-11-20T11:02:30.000Z",
+    "metadata": {
+      "conversation_id": "1991462150498578942",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991460882732445827",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@RayFernando1337 @altryne @OpenAI I end up often with 20 million tokens/session with @FactoryAI DROID, but 90%+ of them are cached (which is good, because faster and much cheaper = 1/10 price)",
+    "url": "https://x.com/SvenMeyer/status/1991460882732445827",
+    "timestamp": "2025-11-20T10:57:28.000Z",
+    "metadata": {
+      "conversation_id": "1991460882732445827",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1p1zh3p",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
