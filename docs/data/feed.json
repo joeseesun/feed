@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1991583565537312798",
+    "source": "twitter",
+    "author": "Klaudioz",
+    "content": "My stack to solve any problems rn with CLI AI agents:\n\n- Planning: @AnthropicAI Claude Code (plan mode)\n- Execution: @OpenAI Codex, cheaper &amp; good\n- Execution (when stuck): @FactoryAI using Gemini 3.0 pro\n- Frontend: @Google gemini/V0 (non-cli)\n- Wiki: @cognition Deepwiki Devin",
+    "url": "https://x.com/Klaudioz/status/1991583565537312798",
+    "timestamp": "2025-11-20T19:04:58.000Z",
+    "metadata": {
+      "conversation_id": "1991583565537312798",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991583046236270965",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@gootecks @FactoryAI I don't think regulation fixes this fwiw, we just need to advance defense faster than offense.",
+    "url": "https://x.com/EnoReyes/status/1991583046236270965",
+    "timestamp": "2025-11-20T19:02:54.000Z",
+    "metadata": {
+      "conversation_id": "1991583046236270965",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991582523483386329",
+    "source": "twitter",
+    "author": "Langerius",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI ai security's about to get next level, for better or worse",
+    "url": "https://x.com/Langerius/status/1991582523483386329",
+    "timestamp": "2025-11-20T19:00:50.000Z",
+    "metadata": {
+      "conversation_id": "1991582523483386329",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991581527441043684",
+    "source": "twitter",
+    "author": "gootecks",
+    "content": "@FactoryAI ok well i didn't believe them, but i believe you guys. \n\nbut if you guys start pushing for some dystopian AI regulation, probably will be canceling",
+    "url": "https://x.com/gootecks/status/1991581527441043684",
+    "timestamp": "2025-11-20T18:56:52.000Z",
+    "metadata": {
+      "conversation_id": "1991581527441043684",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991580596083327348",
     "source": "twitter",
     "author": "JimSlemaker",
