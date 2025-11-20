@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991641374769434947",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@rafiulm_ @GoodFarmingAdam @FactoryAI awesome! will watch in the morning 😊",
+    "url": "https://x.com/bentossell/status/1991641374769434947",
+    "timestamp": "2025-11-20T22:54:41.000Z",
+    "metadata": {
+      "conversation_id": "1991641374769434947",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991641108410167515",
+    "source": "twitter",
+    "author": "JaymeBuilds",
+    "content": "@FactoryAI might be dropping their own agentic coding IDE 👀\n\nHuge if true given the massive usage benefits from their CLI tool for all frontier models https://t.co/1rinxd1CTf",
+    "url": "https://x.com/JaymeBuilds/status/1991641108410167515",
+    "timestamp": "2025-11-20T22:53:37.000Z",
+    "metadata": {
+      "conversation_id": "1991641108410167515",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991639326242037826",
     "source": "twitter",
     "author": "rafiulm_",
