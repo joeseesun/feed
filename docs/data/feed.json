@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991371365593792987",
+    "source": "twitter",
+    "author": "hightbunker",
+    "content": "@janaksunil My gf did that last night with Droid from @FactoryAI, SSHed straight into the VPS by running G3 for like 2-3 hours. I expect CTOs to do crazy stuff, not clone Gmail in the AI age lmao",
+    "url": "https://x.com/hightbunker/status/1991371365593792987",
+    "timestamp": "2025-11-20T05:01:46.000Z",
+    "metadata": {
+      "conversation_id": "1991371365593792987",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991371100845142525",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": ".@FactoryAI Droid with Gemini 3 is everything I anticipated it would be and more.\n\nIt’s one-shotting its way through every single thing I throw at it.\n\nSimply an insane combo.\n\nPower levels are off the charts.",
+    "url": "https://x.com/JoelDeTeves/status/1991371100845142525",
+    "timestamp": "2025-11-20T05:00:42.000Z",
+    "metadata": {
+      "conversation_id": "1991371100845142525",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991364284987896288",
     "source": "twitter",
     "author": "AIFlow_ML",
