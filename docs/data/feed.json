@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_1991595669690404926",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AVGVSTVS96 @FactoryAI looking!",
+    "url": "https://x.com/bentossell/status/1991595669690404926",
+    "timestamp": "2025-11-20T19:53:04.000Z",
+    "metadata": {
+      "conversation_id": "1991595669690404926",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991595605106532353",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JaymeBuilds @FactoryAI maybe we'll have an early xmas present for you",
+    "url": "https://x.com/bentossell/status/1991595605106532353",
+    "timestamp": "2025-11-20T19:52:48.000Z",
+    "metadata": {
+      "conversation_id": "1991595605106532353",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991595597267366054",
+    "source": "twitter",
+    "author": "Will_Hackspeare",
+    "content": "Re the recent Chinese state sponsored cyber campaigns reported by @AnthropicAI and @FactoryAI, I think a lot of people have a wrong picture of what Chinese state-sponsored hacking looks like in practice. The general, open hacking culture gets a fair bit of government support and a relative blank-check with regards to methods and targets. So just because these campaigns came from Chinese state sponsored groups, doesn't indicate any significant intentionality on the part of the Chinese government. But it doesn't bode well for future prospects, since this does mean that automating attacks is in fact on their agenda.",
+    "url": "https://x.com/Will_Hackspeare/status/1991595597267366054",
+    "timestamp": "2025-11-20T19:52:47.000Z",
+    "metadata": {
+      "conversation_id": "1991595597267366054",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991595402873958829",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MihailVarich @matanSF @FactoryAI sweet - would love more detail on this 😊",
+    "url": "https://x.com/bentossell/status/1991595402873958829",
+    "timestamp": "2025-11-20T19:52:00.000Z",
+    "metadata": {
+      "conversation_id": "1991595402873958829",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991594985641373890",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@martin_ict_algo @minheo93698092 @FactoryAI 👀",
+    "url": "https://x.com/bentossell/status/1991594985641373890",
+    "timestamp": "2025-11-20T19:50:21.000Z",
+    "metadata": {
+      "conversation_id": "1991594985641373890",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991594941987057871",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@StressarN @benhylak @FactoryAI CLEAN!!!!",
+    "url": "https://x.com/bentossell/status/1991594941987057871",
+    "timestamp": "2025-11-20T19:50:10.000Z",
+    "metadata": {
+      "conversation_id": "1991594941987057871",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991594676592492595",
+    "source": "twitter",
+    "author": "StressarN",
+    "content": "@bentossell @leoisadev @orange_boy @FactoryAI Yepp! VibeProxy just adds a GUI layer on top of this! :) CLIProxyAPI does all the heavy lifting!\n\nDroid is AMAZING btw!!!",
+    "url": "https://x.com/StressarN/status/1991594676592492595",
+    "timestamp": "2025-11-20T19:49:07.000Z",
+    "metadata": {
+      "conversation_id": "1991594676592492595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991594658095591778",
+    "source": "twitter",
+    "author": "liamrebel2",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI There are evil people out there that will exploit this technology without a doubt.",
+    "url": "https://x.com/liamrebel2/status/1991594658095591778",
+    "timestamp": "2025-11-20T19:49:03.000Z",
+    "metadata": {
+      "conversation_id": "1991594658095591778",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991594487043559718",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@_abilshr @FactoryAI thats cleeeeean",
+    "url": "https://x.com/bentossell/status/1991594487043559718",
+    "timestamp": "2025-11-20T19:48:22.000Z",
+    "metadata": {
+      "conversation_id": "1991594487043559718",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991594346022596939",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@leoisadev @StressarN @orange_boy @FactoryAI and this one https://t.co/XNOdhDGxRF",
+    "url": "https://x.com/bentossell/status/1991594346022596939",
+    "timestamp": "2025-11-20T19:47:48.000Z",
+    "metadata": {
+      "conversation_id": "1991594346022596939",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991593077606424945",
     "source": "twitter",
     "author": "dmaman",
