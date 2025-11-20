@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991568816942534939",
+    "source": "twitter",
+    "author": "nathaniyerr",
+    "content": "@FactoryAI Some seal team 6 type detection. Good work",
+    "url": "https://x.com/nathaniyerr/status/1991568816942534939",
+    "timestamp": "2025-11-20T18:06:22.000Z",
+    "metadata": {
+      "conversation_id": "1991568816942534939",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991566346078069090",
+    "source": "twitter",
+    "author": "kylantomita",
+    "content": "@NathanLands @FactoryAI I find it pretty good at frontend but still prefer sonnet 4.5 in factory\n\nSonnet 4.5 just listens better, seems to piece things together better, but is just pretty expensive 🫤",
+    "url": "https://x.com/kylantomita/status/1991566346078069090",
+    "timestamp": "2025-11-20T17:56:33.000Z",
+    "metadata": {
+      "conversation_id": "1991566346078069090",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991565568730869928",
     "source": "twitter",
     "author": "joshwagenbach",
