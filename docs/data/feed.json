@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991863446372266204",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "@_devJNS It might be good at other tasks, but it's not very good at coding. It's slow, worse at refactoring than others, and it constantly throws errors in @antigravity \n@FactoryAI + Sonnet 4.5 is still the best - fast and smart",
+    "url": "https://x.com/MihailVarich/status/1991863446372266204",
+    "timestamp": "2025-11-21T13:37:07.000Z",
+    "metadata": {
+      "conversation_id": "1991863446372266204",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991860411919175754",
+    "source": "twitter",
+    "author": "dannyveigatx",
+    "content": "Just switched to @FactoryAI from @augmentcode and enjoying it so far. I’ve been using AC since the beginning and Auggie was truly ground breaking in our dev but their recent pricing got ridiculous",
+    "url": "https://x.com/dannyveigatx/status/1991860411919175754",
+    "timestamp": "2025-11-21T13:25:03.000Z",
+    "metadata": {
+      "conversation_id": "1991860411919175754",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991859227862925627",
     "source": "twitter",
     "author": "SvenMeyer",
