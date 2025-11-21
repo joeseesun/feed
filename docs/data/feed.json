@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1991939492979388562",
+    "source": "twitter",
+    "author": "RobotServicesX",
+    "content": "@a18648809871 @FactoryAI 哥们儿，你一定要试试！它就是一个给大模型用的 agent 框架，几乎你电脑上能干的任何事（包括连其他电脑、摄像头、执行器啥的）它全都能干。 前两天我把它接到了我的激光雕刻机上，还接了个小 USB 摄像头，真的太猛了。",
+    "url": "https://x.com/RobotServicesX/status/1991939492979388562",
+    "timestamp": "2025-11-21T18:39:18.000Z",
+    "metadata": {
+      "conversation_id": "1991939492979388562",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991938693096198609",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@dannyveigatx @FactoryAI @augmentcode @cunardline ty man",
+    "url": "https://x.com/bentossell/status/1991938693096198609",
+    "timestamp": "2025-11-21T18:36:07.000Z",
+    "metadata": {
+      "conversation_id": "1991938693096198609",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991938569443893293",
+    "source": "twitter",
+    "author": "a18648809871",
+    "content": "@RobotServicesX @FactoryAI 是的  你是对的 你说的这ai\n是用做什么的？",
+    "url": "https://x.com/a18648809871/status/1991938569443893293",
+    "timestamp": "2025-11-21T18:35:38.000Z",
+    "metadata": {
+      "conversation_id": "1991938569443893293",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991937984938344919",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@pascallammers_ @FactoryAI Its a matter of money for me, i invest when i have a paid project, otherwise im good with the weaker models.",
+    "url": "https://x.com/aeitroc/status/1991937984938344919",
+    "timestamp": "2025-11-21T18:33:18.000Z",
+    "metadata": {
+      "conversation_id": "1991937984938344919",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991937361052389566",
+    "source": "twitter",
+    "author": "dannyveigatx",
+    "content": "@bentossell @FactoryAI @augmentcode @cunardline Happy blessings your way!",
+    "url": "https://x.com/dannyveigatx/status/1991937361052389566",
+    "timestamp": "2025-11-21T18:30:49.000Z",
+    "metadata": {
+      "conversation_id": "1991937361052389566",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991937227749052618",
+    "source": "twitter",
+    "author": "RobotServicesX",
+    "content": "@a18648809871 我现在还续着 Claude 的订阅，但日常主力几乎 100% 换成了 @factoryai 的 droid 了。\n我学新工具一直都很挑剔，只肯学最精简的那几招，刚好够把事情做完就行。 我的导师以前教过我：别在工具上投入太多感情，因为工具来来去去，真正要练的是对问题的直觉。",
+    "url": "https://x.com/RobotServicesX/status/1991937227749052618",
+    "timestamp": "2025-11-21T18:30:18.000Z",
+    "metadata": {
+      "conversation_id": "1991937227749052618",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991936485973807504",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@dannyveigatx @FactoryAI @augmentcode @cunardline oh wow! our third coming in a few weeks 😅",
+    "url": "https://x.com/bentossell/status/1991936485973807504",
+    "timestamp": "2025-11-21T18:27:21.000Z",
+    "metadata": {
+      "conversation_id": "1991936485973807504",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991934675296911847",
     "source": "twitter",
     "author": "dannyveigatx",
