@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.85,
+      "reason": "User reports an issue with Droid taking unwanted actions despite instructions to plan only",
+      "classifiedAt": "2025-11-21T23:18:44.111Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.75,
+      "reason": "Comment about growth metrics without specific praise or question",
+      "classifiedAt": "2025-11-21T23:18:44.111Z"
     }
   },
   {
