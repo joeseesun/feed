@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1991678776317735287",
+    "source": "twitter",
+    "author": "creatine_cycle",
+    "content": "@FactoryAI finally\n\nstar wars the droid wars https://t.co/3YlctO6GpO",
+    "url": "https://x.com/creatine_cycle/status/1991678776317735287",
+    "timestamp": "2025-11-21T01:23:18.000Z",
+    "metadata": {
+      "conversation_id": "1991678776317735287",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991678189475885103",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@alvinsng @FactoryAI How did you hire them? Any tips?",
+    "url": "https://x.com/shreyas1009/status/1991678189475885103",
+    "timestamp": "2025-11-21T01:20:58.000Z",
+    "metadata": {
+      "conversation_id": "1991678189475885103",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991671362776404081",
+    "source": "twitter",
+    "author": "KalGrinberg",
+    "content": "@bradvangelder @FactoryAI This is so sick.",
+    "url": "https://x.com/KalGrinberg/status/1991671362776404081",
+    "timestamp": "2025-11-21T00:53:51.000Z",
+    "metadata": {
+      "conversation_id": "1991671362776404081",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991670350732750918",
+    "source": "twitter",
+    "author": "vijaybolina",
+    "content": "They built a fully autonomous, adaptive system to support their Infra using the very same coding agents we celebrate.\n\nDefenders are still patching CVEs from 2021.\n\nWe are not ready. Not even close.\n\nProps to the @FactoryAI team on deploying Droid to fight machines with machines.",
+    "url": "https://x.com/vijaybolina/status/1991670350732750918",
+    "timestamp": "2025-11-21T00:49:49.000Z",
+    "metadata": {
+      "conversation_id": "1991670350732750918",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991661873293586905",
     "source": "twitter",
     "author": "NathanLands",
