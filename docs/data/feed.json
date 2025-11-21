@@ -1,5 +1,78 @@
 [
   {
+    "id": "github_issue_410",
+    "source": "github",
+    "author": "captjt",
+    "content": "[Issue] Hook Input Payload Mismatch\n\nIt seems after debugging some of the hooks to tie into `PreToolUse` or other hooks the official docs don't reflect the actual payloads getting passed around.\n\nHere are my debug hook configurations from my `~/.factory/settings.json`. I am running droid version `0.26.10`.\n\n```json\n{\n  \"hooks\": {\n    \"PostToolUse\": [\n      {\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \"jq -r '.' >> ~/.factory/post-tool-hook-log.txt\"\n          }\n        ],\n        \"matcher\": ",
+    "url": "https://github.com/Factory-AI/factory/issues/410",
+    "timestamp": "2025-11-21T17:35:46Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 410
+    }
+  },
+  {
+    "id": "twitter_1991922037858894235",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@pascallammers_ @FactoryAI I usully use codex when i have a project on going, right now just using chinese and claude.",
+    "url": "https://x.com/aeitroc/status/1991922037858894235",
+    "timestamp": "2025-11-21T17:29:56.000Z",
+    "metadata": {
+      "conversation_id": "1991922037858894235",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991920765592326530",
+    "source": "twitter",
+    "author": "wolfaidev",
+    "content": "@bentossell @FactoryAI @leoisadev can you check DMs here pls? we've talked before :)",
+    "url": "https://x.com/wolfaidev/status/1991920765592326530",
+    "timestamp": "2025-11-21T17:24:53.000Z",
+    "metadata": {
+      "conversation_id": "1991920765592326530",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991920657656132089",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@aeitroc @FactoryAI No not yet will have a look 👀\nDid you test it?",
+    "url": "https://x.com/pascallammers_/status/1991920657656132089",
+    "timestamp": "2025-11-21T17:24:27.000Z",
+    "metadata": {
+      "conversation_id": "1991920657656132089",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991919913171292217",
+    "source": "twitter",
+    "author": "wolfaidev",
+    "content": "Why do I keep getting \n\n- Connection error\n- No Body Error\n- Thinking forever\n\n@FactoryAI @bentossell \n\nIs that a problem on my end? VPN? \n\nToo many Droid agents working at once? \n\nOr overload because of Gemini 3.0 Pro?\n\nAnyone else knows a fix? https://t.co/CdcHhUj90Y",
+    "url": "https://x.com/wolfaidev/status/1991919913171292217",
+    "timestamp": "2025-11-21T17:21:30.000Z",
+    "metadata": {
+      "conversation_id": "1991919913171292217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991914713136124137",
     "source": "twitter",
     "author": "br___ian",
