@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991980672224014384",
+    "source": "twitter",
+    "author": "FeifanZ",
+    "content": "@FactoryAI factory's social media manager https://t.co/ddVf7DRzSX",
+    "url": "https://x.com/FeifanZ/status/1991980672224014384",
+    "timestamp": "2025-11-21T21:22:56.000Z",
+    "metadata": {
+      "conversation_id": "1991980672224014384",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991979017919160414",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@dannyveigatx @FactoryAI @augmentcode I'm going to check it out! Been digging antigravity too but waiting for the paid version.",
+    "url": "https://x.com/TheEcomNomad/status/1991979017919160414",
+    "timestamp": "2025-11-21T21:16:21.000Z",
+    "metadata": {
+      "conversation_id": "1991979017919160414",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991979004593865042",
+    "source": "twitter",
+    "author": "FeifanZ",
+    "content": "why is my timeline full of ppl talking about @FactoryAI all of a sudden",
+    "url": "https://x.com/FeifanZ/status/1991979004593865042",
+    "timestamp": "2025-11-21T21:16:18.000Z",
+    "metadata": {
+      "conversation_id": "1991979004593865042",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1p38zyx",
     "source": "reddit",
     "author": "bentossell",
