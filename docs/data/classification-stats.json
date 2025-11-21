@@ -1,27 +1,8 @@
 {
-<<<<<<< Updated upstream
-  "generatedAt": "2025-11-21T21:44:11.197Z",
-  "total": 759,
+  "generatedAt": "2025-11-21T21:47:31.355Z",
+  "total": 1,
   "counts": {
-    "mention": 285,
-    "love": 174,
-    "question": 128,
-    "bug": 59,
-    "other": 101,
-    "unlabeled": 12
+    "mention": 1
   },
-  "percentOther": 13.31
-=======
-  "generatedAt": "2025-11-21T21:45:24.028Z",
-  "total": 760,
-  "counts": {
-    "question": 144,
-    "mention": 283,
-    "love": 172,
-    "unlabeled": 15,
-    "bug": 64,
-    "other": 82
-  },
-  "percentOther": 10.79
->>>>>>> Stashed changes
+  "percentOther": 0
 }
