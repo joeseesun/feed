@@ -35,7 +35,7 @@ jobs:
         env:
           FACTORY_API_KEY: ${{ secrets.FACTORY_API_KEY }}
           MODEL_ID: glm-4.6
-          MODEL_REASONING: low
+          MODEL_REASONING: medium
         run: |
           export PATH="$HOME/.local/bin:$HOME/.factory/bin:$PATH"
           node docs/tools/tool-runner.js classify-feed --input docs/data/feed.json --output docs/data/feed.json
