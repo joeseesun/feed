@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992362546075156846",
+    "source": "twitter",
+    "author": "wolfaidev",
+    "content": "@leoisadev @FactoryAI @cursor_ai They should also add a polished GUI, not only the CLI. I think that would improve UX a lot to be able to use it outside of normal terminal, especially with attachments, mouse etc. =&gt; like CC and Codex did.",
+    "url": "https://x.com/wolfaidev/status/1992362546075156846",
+    "timestamp": "2025-11-22T22:40:21.000Z",
+    "metadata": {
+      "conversation_id": "1992362546075156846",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992362509635031254",
+    "source": "twitter",
+    "author": "EkaterinaJanss1",
+    "content": "@pascallammers_ @FactoryAI why not use 5.1 within droids...?",
+    "url": "https://x.com/EkaterinaJanss1/status/1992362509635031254",
+    "timestamp": "2025-11-22T22:40:13.000Z",
+    "metadata": {
+      "conversation_id": "1992362509635031254",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992360594771685584",
+    "source": "twitter",
+    "author": "pal_wise",
+    "content": "@bentossell @benvargas @immoinulmoin @FactoryAI Hi Ben, i sent dm yesterday. Can you look at it please.",
+    "url": "https://x.com/pal_wise/status/1992360594771685584",
+    "timestamp": "2025-11-22T22:32:36.000Z",
+    "metadata": {
+      "conversation_id": "1992360594771685584",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992359078518280633",
     "source": "twitter",
     "author": "bentossell",
