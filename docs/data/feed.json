@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "Factory is referenced in a conversation but no specific action or sentiment is expressed",
+      "classifiedAt": "2025-11-22T15:46:24.018Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "Factory is referenced in a conversation but no specific action or sentiment is expressed",
+      "classifiedAt": "2025-11-22T15:46:24.018Z"
     }
   },
   {
