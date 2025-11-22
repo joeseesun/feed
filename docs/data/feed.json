@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "Factory is referenced in a reply but no action needed or sentiment expressed",
+      "classifiedAt": "2025-11-22T17:18:07.369Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.8,
+      "reason": "Factory is referenced in a reply sharing an example, no specific sentiment",
+      "classifiedAt": "2025-11-22T17:18:07.369Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "Positive sentiment expressing impression and praise for DROID's ability to adapt and learn",
+      "classifiedAt": "2025-11-22T17:18:07.369Z"
     }
   },
   {
