@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992148541582823522",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@FeifanZ @FactoryAI Sorry you’re late to the alpha Intel, but it’s been going on for a while for good reason.",
+    "url": "https://x.com/mikez93/status/1992148541582823522",
+    "timestamp": "2025-11-22T08:29:59.000Z",
+    "metadata": {
+      "conversation_id": "1992148541582823522",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992147919135289780",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "Evolution of the LLM coding tools\n\nEpoch 1: ✅🟨🟨🟨🟨🟨🟨\n# of tokens + token mgmt\n\nEpoch 2: ✅✅✅🟨🟨🟨🟨\nsize of context + context mgmt\n\nEpoch 3: ✅✅✅✅✅🟨🟨\nOrchestration\n\n@FactoryAI is transitioning from being excellent at Epoch 2 to really pulling their weight on 3\n\n@RayFernando1337: where do you think @cursor_ai stand?",
+    "url": "https://x.com/5aikat/status/1992147919135289780",
+    "timestamp": "2025-11-22T08:27:30.000Z",
+    "metadata": {
+      "conversation_id": "1992147919135289780",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992129895095554536",
     "source": "twitter",
     "author": "Ricardo_Nth",
