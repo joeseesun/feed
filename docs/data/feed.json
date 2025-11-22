@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992335083752276005",
+    "source": "twitter",
+    "author": "Alex_m",
+    "content": "@bentossell @makerfounder @antigravity @FactoryAI Gate free tokens behind phone num setup. Allow BYOK (searched, couldn't find it).",
+    "url": "https://x.com/Alex_m/status/1992335083752276005",
+    "timestamp": "2025-11-22T20:51:14.000Z",
+    "metadata": {
+      "conversation_id": "1992335083752276005",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992335073585320180",
+    "source": "twitter",
+    "author": "garyfung",
+    "content": "@makerfounder @antigravity @FactoryAI doesn't seem like you tested vision input and visual UI output in a loop, agentically with its built-in jetski browser at all. What's new with @antigravity and leveraging Gemini 3's strong point: visual understanding",
+    "url": "https://x.com/garyfung/status/1992335073585320180",
+    "timestamp": "2025-11-22T20:51:11.000Z",
+    "metadata": {
+      "conversation_id": "1992335073585320180",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992334545895719392",
     "source": "twitter",
     "author": "EnoReyes",
