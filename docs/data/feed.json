@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992129895095554536",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@bentossell @FactoryAI and if i leave it running long enough it levels out and seems 'normal' which has me leaving a droid instance running just so i dont have to spike my CPU https://t.co/J8cj1fpPGP",
+    "url": "https://x.com/Ricardo_Nth/status/1992129895095554536",
+    "timestamp": "2025-11-22T07:15:53.000Z",
+    "metadata": {
+      "conversation_id": "1992129895095554536",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992128773848981972",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@bentossell i thought background process might have been the issue but i've kept it off since this sudden CPU spike change. in the video i launch droid and my CPU and temp go sky high, i also use bg-process and the esc key didn't work right away. the first time i tried it before the video i had to <C-x> to get rid of the bg process pop up but after pressing Esc enough times it closed. Maybe i should clean install and try again",
+    "url": "https://x.com/Ricardo_Nth/status/1992128773848981972",
+    "timestamp": "2025-11-22T07:11:26.000Z",
+    "metadata": {
+      "conversation_id": "1992128773848981972",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992126054102962674",
     "source": "twitter",
     "author": "pascallammers_",
