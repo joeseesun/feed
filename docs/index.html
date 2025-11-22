@@ -286,7 +286,7 @@
       border: 1px solid var(--border);
       border-radius: 8px;
       padding: 16px;
-      padding-left: 44px; /* Space for checkbox */
+      padding-right: 44px; /* Space for checkbox */
       cursor: pointer;
       transition: all 0.15s ease;
       position: relative;
@@ -320,7 +320,7 @@
     /* Checkbox */
     .card-checkbox {
       position: absolute;
-      left: 12px;
+      right: 12px;
       top: 16px;
       width: 20px;
       height: 20px;
@@ -401,7 +401,11 @@
       text-decoration: underline;
       text-underline-offset: 2px;
     }
-
+    
+    .card-content img {
+        display: none !important;
+    }
+    
     .card-footer {
       display: flex;
       align-items: center;
@@ -481,11 +485,11 @@
       transform: translateX(-50%) translateY(100px);
       background: var(--text);
       color: var(--bg);
-      padding: 12px 24px;
-      border-radius: 12px;
+      padding: 8px 16px;
+      border-radius: 99px;
       display: flex;
       align-items: center;
-      gap: 16px;
+      gap: 12px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.2);
       z-index: 50;
       transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
@@ -497,9 +501,10 @@
     
     .bulk-count {
       font-weight: 600;
-      font-size: 14px;
-      padding-right: 16px;
-      border-right: 1px solid rgba(255,255,255,0.2);
+      font-size: 13px;
+      background: rgba(255,255,255,0.2);
+      padding: 2px 8px;
+      border-radius: 12px;
     }
     
     .bulk-btn {
@@ -512,10 +517,18 @@
       display: flex;
       align-items: center;
       gap: 6px;
+      padding: 4px 8px;
+      border-radius: 6px;
     }
     
     .bulk-btn:hover {
-      opacity: 0.8;
+      background: rgba(255,255,255,0.1);
+    }
+    
+    .bulk-divider {
+        width: 1px;
+        height: 16px;
+        background: rgba(255,255,255,0.2);
     }
 
     /* Modals & Overlays */
@@ -614,11 +627,41 @@
     }
 
     @media (max-width: 640px) {
-      .app-header { padding: 0 16px; height: auto; flex-wrap: wrap; gap: 12px; py: 12px; }
-      .app-filters { overflow-x: auto; max-width: 100%; }
+      .app-header { 
+          padding: 12px 16px; 
+          height: auto; 
+          flex-direction: column;
+          align-items: stretch;
+          gap: 12px;
+      }
+      
+      .mobile-top-row {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          width: 100%;
+      }
+      
+      .app-logo {
+          font-size: 18px;
+      }
+      
+      .app-filters { 
+          overflow-x: auto; 
+          max-width: 100%; 
+          width: 100%;
+          justify-content: flex-start;
+          padding-bottom: 4px; /* Scrollbar space */
+      }
+      
+      /* Hide scrollbar */
+      .app-filters::-webkit-scrollbar {
+          display: none;
+      }
+      
       .shortcuts-help { display: none; }
-      .card { padding-left: 16px; padding-top: 44px; }
-      .card-checkbox { top: 16px; left: 16px; }
+      .card { padding-left: 16px; padding-right: 16px; padding-top: 44px; }
+      .card-checkbox { top: 16px; left: 16px; right: auto; }
       
       /* Mobile layout adjustments */
       .main-wrapper { flex-direction: column; }
@@ -669,9 +712,26 @@
 
   <!-- App Layout -->
   <header class="app-header">
-    <div class="app-logo">
-      <i data-lucide="zap" style="width: 18px; height: 18px;"></i>
-      Factory Feed
+    <div class="mobile-top-row">
+        <div class="app-logo">
+          <i data-lucide="zap" style="width: 18px; height: 18px;"></i>
+          Factory Feed
+        </div>
+        
+        <div class="app-controls">
+          <button class="icon-btn" id="refreshBtn" title="Refresh (R)">
+            <i data-lucide="refresh-cw"></i>
+          </button>
+          <button class="icon-btn" id="archiveToggleBtn" title="View Archived">
+            <i data-lucide="archive"></i>
+          </button>
+          <button class="icon-btn" id="themeBtn" title="Toggle Theme">
+            <i data-lucide="moon"></i>
+          </button>
+          <button class="icon-btn" id="settingsBtn" title="Settings">
+            <i data-lucide="settings"></i>
+          </button>
+        </div>
     </div>
     
     <div class="app-filters">
@@ -686,21 +746,6 @@
       </button>
       <button class="filter-tab" data-filter="github">
         <i data-lucide="github" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-github">0</span>
-      </button>
-    </div>
-
-    <div class="app-controls">
-      <button class="icon-btn" id="refreshBtn" title="Refresh (R)">
-        <i data-lucide="refresh-cw"></i>
-      </button>
-      <button class="icon-btn" id="archiveToggleBtn" title="View Archived">
-        <i data-lucide="archive"></i>
-      </button>
-      <button class="icon-btn" id="themeBtn" title="Toggle Theme">
-        <i data-lucide="moon"></i>
-      </button>
-      <button class="icon-btn" id="settingsBtn" title="Settings">
-        <i data-lucide="settings"></i>
       </button>
     </div>
   </header>
@@ -743,15 +788,16 @@
   </div>
   
   <div class="bulk-actions-bar" id="bulkBar">
-      <div class="bulk-count" id="bulkCount">0 selected</div>
-      <button class="bulk-btn" id="archiveSelectedBtn">
+      <button class="bulk-btn" id="clearSelectionBtn" title="Clear Selection (Esc)">
+          <i data-lucide="x"></i>
+      </button>
+      <div class="bulk-divider"></div>
+      <div class="bulk-count" id="bulkCount">0</div>
+      <button class="bulk-btn" id="archiveSelectedBtn" title="Archive Selected (E)">
           <i data-lucide="archive"></i> Archive
       </button>
-      <button class="bulk-btn" id="selectAllBtn">
-          <i data-lucide="check-square"></i> Select All
-      </button>
-      <button class="bulk-btn" id="clearSelectionBtn" style="opacity: 0.7">
-          Cancel
+      <button class="bulk-btn" id="selectAllBtn" title="Select All (Shift+A)">
+          <i data-lucide="check-square"></i>
       </button>
   </div>
   
@@ -1023,7 +1069,7 @@
               </span>
               <span class="card-author">${item.author}</span>
               <span class="card-time">• ${timeAgo}</span>
-              ${category ? `<span class="tag tag-${category}">${category}</span>` : ''}
+              ${category ? `<span class="tag tag-${category}"><i data-lucide="${getCategoryIcon(category)}" style="width: 10px; height: 10px;"></i></span>` : ''}
             </div>
             <div class="card-actions">
               <!-- Hidden by CSS as requested, but kept for logic if needed later -->
@@ -1076,9 +1122,19 @@
         const count = state.selectedIds.size;
         if (count > 0) {
             elements.bulkBar.classList.add('visible');
-            elements.bulkCount.textContent = `${count} selected`;
+            elements.bulkCount.textContent = `${count}`;
         } else {
             elements.bulkBar.classList.remove('visible');
+        }
+    }
+
+    function getCategoryIcon(category) {
+        switch(category) {
+            case 'mention': return 'at-sign';
+            case 'bug': return 'bug';
+            case 'love': return 'heart';
+            case 'question': return 'help-circle';
+            default: return 'archive';
         }
     }
 
