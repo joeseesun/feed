@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "User references FactoryAI in a comparison of development tools but no action needed.",
+      "classifiedAt": "2025-11-22T19:21:29.488Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.8,
+      "reason": "Mentions FactoryAI in a competitive context but doesn't fit other categories precisely.",
+      "classifiedAt": "2025-11-22T19:21:29.488Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.95,
+      "reason": "Explicitly states 'bug report' and provides reference ID for issue tracking.",
+      "classifiedAt": "2025-11-22T19:21:29.488Z"
     }
   },
   {
