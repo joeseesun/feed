@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "FactoryAI is mentioned in a list of companies/people but no specific action or sentiment is directed at them.",
+      "classifiedAt": "2025-11-22T19:34:50.414Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "User expresses positive sentiment saying 'Well done' and sharing positive experience with FactoryAI.",
+      "classifiedAt": "2025-11-22T19:34:50.414Z"
     }
   },
   {
