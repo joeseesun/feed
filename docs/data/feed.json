@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.9,
+      "reason": "User is asking a specific question about workflow capabilities and requesting an example.",
+      "classifiedAt": "2025-11-22T06:41:31.770Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.8,
+      "reason": "User making a request that doesn't fit other categories - asking to destroy something again, unclear intent.",
+      "classifiedAt": "2025-11-22T06:41:31.770Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "User expressing positive sentiment describing Factory as a 'powerhouse' combination.",
+      "classifiedAt": "2025-11-22T06:41:31.770Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.9,
+      "reason": "User expressing strong positive sentiment about Sonnet in Factory, saying it 'hits different' and encouraging others to try.",
+      "classifiedAt": "2025-11-22T06:41:31.770Z"
     }
   },
   {
