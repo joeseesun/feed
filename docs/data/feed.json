@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992378341287170279",
+    "source": "twitter",
+    "author": "pal_wise",
+    "content": "@bentossell @benvargas @immoinulmoin @FactoryAI i admit it was long😅",
+    "url": "https://x.com/pal_wise/status/1992378341287170279",
+    "timestamp": "2025-11-22T23:43:07.000Z",
+    "metadata": {
+      "conversation_id": "1992378341287170279",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992377990710428045",
+    "source": "twitter",
+    "author": "gtrump_t",
+    "content": "@shaunmmaguire @benvargas @FactoryAI Let me try the factory!",
+    "url": "https://x.com/gtrump_t/status/1992377990710428045",
+    "timestamp": "2025-11-22T23:41:44.000Z",
+    "metadata": {
+      "conversation_id": "1992377990710428045",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992374758244057202",
     "source": "twitter",
     "author": "neoneue",
