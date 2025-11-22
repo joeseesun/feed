@@ -56,15 +56,31 @@
 
     /* Layout */
     .app-header {
-      height: 60px;
       background: var(--card-bg);
       border-bottom: 1px solid var(--border);
       display: flex;
-      align-items: center;
-      padding: 0 24px;
-      justify-content: space-between;
+      flex-direction: column;
       flex-shrink: 0;
       z-index: 20;
+    }
+
+    .header-top {
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .header-sub {
+      height: 48px;
+      display: flex;
+      align-items: center;
+      padding: 0 24px;
+      gap: 8px;
+      overflow-x: auto;
+      background: var(--bg);
     }
 
     .app-logo {
@@ -119,6 +135,39 @@
       border-radius: 99px;
       min-width: 16px;
       text-align: center;
+    }
+
+    /* Category Pills */
+    .category-pill {
+      padding: 4px 12px;
+      border-radius: 99px;
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--card-bg);
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+
+    .category-pill:hover {
+      background: var(--hover);
+      color: var(--text);
+    }
+
+    .category-pill.active {
+      background: var(--text);
+      color: var(--bg);
+      border-color: var(--text);
+    }
+    
+    .category-pill .count {
+        opacity: 0.7;
+        font-size: 10px;
     }
 
     .app-controls {
@@ -182,6 +231,7 @@
       border: 1px solid var(--border);
       border-radius: 8px;
       padding: 16px;
+      padding-left: 44px; /* Space for checkbox */
       cursor: pointer;
       transition: all 0.15s ease;
       position: relative;
@@ -201,10 +251,46 @@
       box-shadow: 0 0 0 2px var(--text);
       z-index: 10;
     }
+    
+    .card.selected {
+      background: var(--selection);
+      border-color: var(--text);
+    }
 
     .card.archived {
       opacity: 0.5;
       filter: grayscale(100%);
+    }
+
+    /* Checkbox */
+    .card-checkbox {
+      position: absolute;
+      left: 12px;
+      top: 16px;
+      width: 20px;
+      height: 20px;
+      border: 2px solid var(--border);
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.15s;
+      color: transparent;
+    }
+    
+    .card.selected .card-checkbox, .card-checkbox:hover {
+        border-color: var(--text);
+    }
+    
+    .card.selected .card-checkbox {
+        background: var(--text);
+        color: var(--bg);
+    }
+    
+    .card-checkbox svg {
+        width: 14px;
+        height: 14px;
     }
 
     .card-header {
@@ -332,6 +418,51 @@
     [data-theme="dark"] .tag-love { background: #14532d; color: #bbf7d0; }
     [data-theme="dark"] .tag-question { background: #78350f; color: #fde68a; }
 
+    /* Bulk Actions Bar */
+    .bulk-actions-bar {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: var(--text);
+      color: var(--bg);
+      padding: 12px 24px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+      z-index: 50;
+      transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    
+    .bulk-actions-bar.visible {
+      transform: translateX(-50%) translateY(0);
+    }
+    
+    .bulk-count {
+      font-weight: 600;
+      font-size: 14px;
+      padding-right: 16px;
+      border-right: 1px solid rgba(255,255,255,0.2);
+    }
+    
+    .bulk-btn {
+      background: transparent;
+      border: none;
+      color: var(--bg);
+      font-weight: 500;
+      font-size: 13px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    
+    .bulk-btn:hover {
+      opacity: 0.8;
+    }
+
     /* Modals & Overlays */
     .overlay {
       position: fixed;
@@ -428,9 +559,12 @@
     }
 
     @media (max-width: 640px) {
-      .app-header { padding: 0 16px; height: auto; flex-wrap: wrap; gap: 12px; py: 12px; }
+      .header-top { padding: 0 16px; }
+      .header-sub { padding: 0 16px; }
       .app-filters { overflow-x: auto; max-width: 100%; }
       .shortcuts-help { display: none; }
+      .card { padding-left: 16px; padding-top: 44px; }
+      .card-checkbox { top: 16px; left: 16px; }
     }
   </style>
 </head>
@@ -449,39 +583,62 @@
 
   <!-- App Layout -->
   <header class="app-header">
-    <div class="app-logo">
-      <i data-lucide="zap" style="width: 18px; height: 18px;"></i>
-      Factory Feed
-    </div>
-    
-    <div class="app-filters">
-      <button class="filter-tab active" data-filter="all">
-        All <span class="badge" id="count-all">0</span>
-      </button>
-      <button class="filter-tab" data-filter="twitter">
-        <i data-lucide="twitter" style="width: 12px; height: 12px;"></i> Twitter <span class="badge" id="count-twitter">0</span>
-      </button>
-      <button class="filter-tab" data-filter="reddit">
-        <i data-lucide="message-square" style="width: 12px; height: 12px;"></i> Reddit <span class="badge" id="count-reddit">0</span>
-      </button>
-      <button class="filter-tab" data-filter="github">
-        <i data-lucide="github" style="width: 12px; height: 12px;"></i> GitHub <span class="badge" id="count-github">0</span>
-      </button>
+    <div class="header-top">
+      <div class="app-logo">
+        <i data-lucide="zap" style="width: 18px; height: 18px;"></i>
+        Factory Feed
+      </div>
+      
+      <div class="app-filters">
+        <button class="filter-tab active" data-filter="all">
+          All <span class="badge" id="count-all">0</span>
+        </button>
+        <button class="filter-tab" data-filter="twitter">
+          <i data-lucide="twitter" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-twitter">0</span>
+        </button>
+        <button class="filter-tab" data-filter="reddit">
+          <i data-lucide="message-square" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-reddit">0</span>
+        </button>
+        <button class="filter-tab" data-filter="github">
+          <i data-lucide="github" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-github">0</span>
+        </button>
+      </div>
+
+      <div class="app-controls">
+        <button class="icon-btn" id="refreshBtn" title="Refresh (R)">
+          <i data-lucide="refresh-cw"></i>
+        </button>
+        <button class="icon-btn" id="archiveToggleBtn" title="View Archived">
+          <i data-lucide="archive"></i>
+        </button>
+        <button class="icon-btn" id="themeBtn" title="Toggle Theme">
+          <i data-lucide="moon"></i>
+        </button>
+        <button class="icon-btn" id="settingsBtn" title="Settings">
+          <i data-lucide="settings"></i>
+        </button>
+      </div>
     </div>
 
-    <div class="app-controls">
-      <button class="icon-btn" id="refreshBtn" title="Refresh (R)">
-        <i data-lucide="refresh-cw"></i>
-      </button>
-      <button class="icon-btn" id="archiveToggleBtn" title="View Archived">
-        <i data-lucide="archive"></i>
-      </button>
-      <button class="icon-btn" id="themeBtn" title="Toggle Theme">
-        <i data-lucide="moon"></i>
-      </button>
-      <button class="icon-btn" id="settingsBtn" title="Settings">
-        <i data-lucide="settings"></i>
-      </button>
+    <div class="header-sub">
+        <button class="category-pill active" data-category="all">
+            All
+        </button>
+        <button class="category-pill" data-category="mention">
+            Mentions <span class="count" id="cat-count-mention">0</span>
+        </button>
+        <button class="category-pill" data-category="bug">
+            Bugs <span class="count" id="cat-count-bug">0</span>
+        </button>
+        <button class="category-pill" data-category="love">
+            Love <span class="count" id="cat-count-love">0</span>
+        </button>
+        <button class="category-pill" data-category="question">
+            Questions <span class="count" id="cat-count-question">0</span>
+        </button>
+        <button class="category-pill" data-category="other">
+            Other <span class="count" id="cat-count-other">0</span>
+        </button>
     </div>
   </header>
 
@@ -493,8 +650,21 @@
     </div>
   </main>
   
+  <div class="bulk-actions-bar" id="bulkBar">
+      <div class="bulk-count" id="bulkCount">0 selected</div>
+      <button class="bulk-btn" id="archiveSelectedBtn">
+          <i data-lucide="archive"></i> Archive
+      </button>
+      <button class="bulk-btn" id="selectAllBtn">
+          <i data-lucide="check-square"></i> Select All
+      </button>
+      <button class="bulk-btn" id="clearSelectionBtn" style="opacity: 0.7">
+          Cancel
+      </button>
+  </div>
+  
   <div class="shortcuts-help">
-    <p><strong>J</strong> Next • <strong>K</strong> Prev • <strong>Enter</strong> Open • <strong>E</strong> Archive • <strong>R</strong> Refresh</p>
+    <p><strong>J/K</strong> Nav • <strong>X</strong> Select • <strong>E</strong> Archive • <strong>Shift+A</strong> Select All</p>
   </div>
 
   <div id="statusToast" class="status-toast">Action completed</div>
@@ -513,7 +683,6 @@
 
   <script>
     // Config & Constants
-    // Hash of "CHANGE_THIS_PASSWORD"
     const ACCESS_TOKEN_HASH = '63fc567c78f3056569ecfdf2ba53cf1955ff86d34d2ab05a3683899e5c642dfe';
     const STORAGE_KEYS = {
       TOKEN: 'factoryAccessToken',
@@ -527,7 +696,9 @@
       items: [],
       filteredItems: [],
       archivedIds: new Set(),
+      selectedIds: new Set(),
       activeFilter: 'all', // all, twitter, reddit, github
+      activeCategory: 'all', // all, mention, bug, love, question, other
       showArchived: false,
       focusedId: null,
       config: {}
@@ -541,11 +712,21 @@
       tokenSubmit: document.getElementById('tokenSubmit'),
       tokenError: document.getElementById('tokenError'),
       filterTabs: document.querySelectorAll('.filter-tab'),
+      categoryPills: document.querySelectorAll('.category-pill'),
+      bulkBar: document.getElementById('bulkBar'),
+      bulkCount: document.getElementById('bulkCount'),
       counts: {
         all: document.getElementById('count-all'),
         twitter: document.getElementById('count-twitter'),
         reddit: document.getElementById('count-reddit'),
         github: document.getElementById('count-github')
+      },
+      catCounts: {
+          mention: document.getElementById('cat-count-mention'),
+          bug: document.getElementById('cat-count-bug'),
+          love: document.getElementById('cat-count-love'),
+          question: document.getElementById('cat-count-question'),
+          other: document.getElementById('cat-count-other')
       },
       toast: document.getElementById('statusToast'),
       settingsModal: document.getElementById('settingsModal'),
@@ -570,14 +751,12 @@
         state.archivedIds = new Set(archived);
       } catch (e) { console.error(e); }
       
-      // Load config
       state.config = getConfig();
     }
 
     async function startApp() {
       elements.accessOverlay.classList.remove('open');
       await fetchFeed();
-      // Poll every minute
       setInterval(fetchFeed, 60000);
     }
 
@@ -640,13 +819,21 @@
         const isArchived = state.archivedIds.has(item.id);
         if (state.showArchived !== isArchived) return false;
         
+        // Source filter
         if (state.activeFilter !== 'all' && item.source !== state.activeFilter) return false;
+        
+        // Category filter
+        if (state.activeCategory !== 'all') {
+            const cat = item.category || item.classification?.label || 'other';
+            if (cat !== state.activeCategory) return false;
+        }
         
         return true;
       });
 
       // Update counts
       updateCounts();
+      updateBulkBar();
 
       // Render list
       if (state.filteredItems.length === 0) {
@@ -657,38 +844,46 @@
       const html = state.filteredItems.map(item => createCardHTML(item)).join('');
       elements.feedList.innerHTML = html;
       
-      // Restore focus if possible
+      // Restore focus
       if (state.focusedId) {
         const el = document.getElementById(`card-${state.focusedId}`);
         if (el) {
             el.classList.add('focused');
-            // Ensure visible
-            // el.scrollIntoView({ block: 'nearest' });
         } else {
-            state.focusedId = null; // Reset if gone
+            state.focusedId = null; 
         }
-      } else if (state.filteredItems.length > 0) {
-          // Auto focus first if nothing focused
-          // state.focusedId = state.filteredItems[0].id;
-          // document.getElementById(`card-${state.focusedId}`)?.classList.add('focused');
       }
       
       lucide.createIcons();
       
-      // Add click listeners to cards
-      document.querySelectorAll('.card').forEach(card => {
+      // Listeners
+      attachCardListeners();
+    }
+    
+    function attachCardListeners() {
+        document.querySelectorAll('.card').forEach(card => {
           card.addEventListener('click', (e) => {
-             // If clicking action buttons, don't focus/open
              if (e.target.closest('.action-pill')) return;
+             if (e.target.closest('.card-checkbox')) return;
              
              const id = card.dataset.id;
              focusCard(id);
              
-             // If meta/ctrl click, let default link behavior happen if it was a link, 
-             // but here the card itself is clickable to open.
-             // actually, let's make the whole card clickable to open url
-             const url = card.dataset.url;
-             if (url) window.open(url, '_blank');
+             // If clicking content link
+             if (e.target.tagName === 'A') return;
+             
+             // Open URL on click (since we have checkbox for selection now)
+             // But maybe user wants to select by clicking? 
+             // Default: Click -> Focus. Enter -> Open. 
+             // Let's keep click -> focus.
+          });
+      });
+      
+      document.querySelectorAll('.card-checkbox').forEach(box => {
+          box.addEventListener('click', (e) => {
+              e.stopPropagation();
+              const id = box.dataset.id;
+              toggleSelection(id);
           });
       });
       
@@ -703,6 +898,7 @@
 
     function createCardHTML(item) {
       const isArchived = state.archivedIds.has(item.id);
+      const isSelected = state.selectedIds.has(item.id);
       const date = new Date(item.timestamp);
       const timeAgo = getTimeAgo(date);
       const category = item.category || item.classification?.label;
@@ -713,7 +909,15 @@
       if (item.source === 'github') sourceIcon = 'github';
 
       return `
-        <div class="card ${isArchived ? 'archived' : ''}" id="card-${item.id}" data-id="${item.id}" data-url="${item.url}">
+        <div class="card ${isArchived ? 'archived' : ''} ${isSelected ? 'selected' : ''}" 
+             id="card-${item.id}" 
+             data-id="${item.id}" 
+             data-url="${item.url}">
+          
+          <div class="card-checkbox" data-id="${item.id}">
+              ${isSelected ? '<i data-lucide="check"></i>' : ''}
+          </div>
+
           <div class="card-header">
             <div class="card-meta">
               <span class="source-badge source-${item.source}">
@@ -745,18 +949,78 @@
     
     function updateCounts() {
         const counts = { all: 0, twitter: 0, reddit: 0, github: 0 };
+        const catCounts = { mention: 0, bug: 0, love: 0, question: 0, other: 0 };
+        
         state.items.forEach(item => {
             if (state.archivedIds.has(item.id)) return;
+            
+            // Source counts
             counts.all++;
             if (counts[item.source] !== undefined) counts[item.source]++;
+            
+            // Category counts (filtered by active source)
+            if (state.activeFilter === 'all' || item.source === state.activeFilter) {
+                 const cat = item.category || item.classification?.label || 'other';
+                 if (catCounts[cat] !== undefined) catCounts[cat]++;
+                 else catCounts.other++;
+            }
         });
         
         for (const key in counts) {
             if (elements.counts[key]) elements.counts[key].textContent = counts[key];
         }
+        
+        for (const key in catCounts) {
+            if (elements.catCounts[key]) elements.catCounts[key].textContent = catCounts[key];
+        }
+    }
+    
+    function updateBulkBar() {
+        const count = state.selectedIds.size;
+        if (count > 0) {
+            elements.bulkBar.classList.add('visible');
+            elements.bulkCount.textContent = `${count} selected`;
+        } else {
+            elements.bulkBar.classList.remove('visible');
+        }
     }
 
     // --- Actions ---
+    function toggleSelection(id) {
+        if (state.selectedIds.has(id)) {
+            state.selectedIds.delete(id);
+        } else {
+            state.selectedIds.add(id);
+        }
+        render();
+    }
+    
+    function selectAllVisible() {
+        state.filteredItems.forEach(item => {
+            state.selectedIds.add(item.id);
+        });
+        render();
+    }
+    
+    function clearSelection() {
+        state.selectedIds.clear();
+        render();
+    }
+    
+    function archiveSelected() {
+        const count = state.selectedIds.size;
+        if (count === 0) return;
+        
+        state.selectedIds.forEach(id => {
+            state.archivedIds.add(id);
+        });
+        state.selectedIds.clear();
+        localStorage.setItem(STORAGE_KEYS.ARCHIVED, JSON.stringify([...state.archivedIds]));
+        
+        showToast(`Archived ${count} items`);
+        render();
+    }
+
     function toggleArchive(id) {
       if (state.archivedIds.has(id)) {
         state.archivedIds.delete(id);
@@ -764,11 +1028,7 @@
       } else {
         state.archivedIds.add(id);
         showToast('Post archived');
-        
-        // If we archive the focused item, move focus to next
-        if (state.focusedId === id) {
-            moveFocus(1);
-        }
+        if (state.focusedId === id) moveFocus(1);
       }
       
       localStorage.setItem(STORAGE_KEYS.ARCHIVED, JSON.stringify([...state.archivedIds]));
@@ -797,7 +1057,6 @@
             currentIndex += direction;
         }
         
-        // Clamp
         if (currentIndex < 0) currentIndex = 0;
         if (currentIndex >= state.filteredItems.length) currentIndex = state.filteredItems.length - 1;
         
@@ -814,7 +1073,6 @@
     // --- Helpers ---
     function formatContent(text) {
        if (!text) return '';
-       // Basic URL linking
        return text.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" onClick="event.stopPropagation()">$1</a>');
     }
 
@@ -842,19 +1100,34 @@
 
     // --- Event Listeners ---
     function setupEventListeners() {
-        // Filters
+        // Filter Tabs
         elements.filterTabs.forEach(tab => {
             tab.addEventListener('click', () => {
                 elements.filterTabs.forEach(t => t.classList.remove('active'));
                 tab.classList.add('active');
                 state.activeFilter = tab.dataset.filter;
+                state.selectedIds.clear();
                 render();
-                // Reset scroll
                 elements.scrollContainer.scrollTop = 0;
-                // Focus first
-                if (state.filteredItems.length > 0) focusCard(state.filteredItems[0].id);
             });
         });
+        
+        // Category Pills
+        elements.categoryPills.forEach(pill => {
+            pill.addEventListener('click', () => {
+                elements.categoryPills.forEach(p => p.classList.remove('active'));
+                pill.classList.add('active');
+                state.activeCategory = pill.dataset.category;
+                state.selectedIds.clear();
+                render();
+                elements.scrollContainer.scrollTop = 0;
+            });
+        });
+        
+        // Bulk Actions
+        document.getElementById('archiveSelectedBtn').addEventListener('click', archiveSelected);
+        document.getElementById('selectAllBtn').addEventListener('click', selectAllVisible);
+        document.getElementById('clearSelectionBtn').addEventListener('click', clearSelection);
 
         // Controls
         document.getElementById('refreshBtn').addEventListener('click', fetchFeed);
@@ -888,7 +1161,6 @@
 
         // Keyboard
         document.addEventListener('keydown', e => {
-            // Ignore if typing
             if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
 
             switch(e.key.toLowerCase()) {
@@ -896,6 +1168,18 @@
                 case 'k': moveFocus(-1); break;
                 case 'e': 
                     if (state.focusedId) toggleArchive(state.focusedId); 
+                    break;
+                case 'x':
+                    if (state.focusedId) toggleSelection(state.focusedId);
+                    break;
+                case 'a':
+                    if (e.shiftKey) {
+                        e.preventDefault();
+                        selectAllVisible();
+                    }
+                    break;
+                case 'escape':
+                    clearSelection();
                     break;
                 case 'enter':
                     openFocused();
@@ -920,7 +1204,6 @@
             document.documentElement.setAttribute('data-theme', next);
             localStorage.setItem(STORAGE_KEYS.THEME, next);
             
-            // Update icon
             const icon = next === 'dark' ? 'sun' : 'moon';
             themeBtn.innerHTML = `<i data-lucide="${icon}"></i>`;
             lucide.createIcons();
