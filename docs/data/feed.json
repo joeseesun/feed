@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.9,
+      "reason": "User is explicitly asking about CLI rules and suggesting someone try asking what rules are being used",
+      "classifiedAt": "2025-11-22T14:18:05.628Z"
     }
   },
   {
