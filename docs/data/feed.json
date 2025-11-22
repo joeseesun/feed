@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1992126054102962674",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@joelreymont @FactoryAI They got the best token management and also the best agent imo\nSonnet is so much better with Droids 🔥",
+    "url": "https://x.com/pascallammers_/status/1992126054102962674",
+    "timestamp": "2025-11-22T07:00:37.000Z",
+    "metadata": {
+      "conversation_id": "1992126054102962674",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992125076511314388",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@bradvangelder @FactoryAI it’s live, Droid smoked it\nhttps://t.co/qTCoxi55yf",
+    "url": "https://x.com/makerfounder/status/1992125076511314388",
+    "timestamp": "2025-11-22T06:56:44.000Z",
+    "metadata": {
+      "conversation_id": "1992125076511314388",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992124912849604896",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@YounesAka @FactoryAI outcome is in: Droid 3–0\nhttps://t.co/qTCoxi55yf",
+    "url": "https://x.com/makerfounder/status/1992124912849604896",
+    "timestamp": "2025-11-22T06:56:05.000Z",
+    "metadata": {
+      "conversation_id": "1992124912849604896",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992124711262966199",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@AriesTheCoder @FactoryAI @antigravity finally shipped the benchmark lol \nhttps://t.co/qTCoxi55yf",
+    "url": "https://x.com/makerfounder/status/1992124711262966199",
+    "timestamp": "2025-11-22T06:55:17.000Z",
+    "metadata": {
+      "conversation_id": "1992124711262966199",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992123402514280576",
     "source": "twitter",
     "author": "kautilya_p",
