@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.95,
+      "reason": "Explicit praise for 'truly amazing reading experience' - positive sentiment towards Factory AI",
+      "classifiedAt": "2025-11-22T17:46:22.421Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "Uses 'truly beautiful and delivers excellent results' with positive sentiment, though mentions an issue with tokens",
+      "classifiedAt": "2025-11-22T17:46:22.421Z"
     }
   },
   {
