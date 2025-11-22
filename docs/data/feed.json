@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.9,
+      "reason": "User expresses positive sentiment with 'welcome addition!' showing praise for the feature.",
+      "classifiedAt": "2025-11-22T18:41:34.122Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.95,
+      "reason": "User reports a specific crashing bug with enter key that makes the product 'unusable' and mentions filing a bug report.",
+      "classifiedAt": "2025-11-22T18:41:34.122Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.9,
+      "reason": "User expresses positive sentiment saying price 'feels unlimited' which is praise for value.",
+      "classifiedAt": "2025-11-22T18:41:34.122Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.8,
+      "reason": "Simple agreement 'Yea' in reply to Factory mention without specific feedback or question.",
+      "classifiedAt": "2025-11-22T18:41:34.122Z"
     }
   },
   {
@@ -72,6 +96,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.7,
+      "reason": "Vague expression of hope without specific question or clear sentiment about Factory.",
+      "classifiedAt": "2025-11-22T18:41:34.122Z"
     }
   },
   {
@@ -87,6 +117,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.8,
+      "reason": "General observation about what 'so many people say' without direct Factory content or clear sentiment.",
+      "classifiedAt": "2025-11-22T18:41:34.122Z"
     }
   },
   {
@@ -102,6 +138,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.7,
+      "reason": "Mentions trying Factory AI but content is primarily about personal action, not feedback or question.",
+      "classifiedAt": "2025-11-22T18:41:34.122Z"
     }
   },
   {

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2025-11-22T18:21:51.839Z",
-  "total": 146,
+  "generatedAt": "2025-11-22T18:41:34.130Z",
+  "total": 153,
   "counts": {
-    "mention": 49,
-    "question": 28,
-    "love": 43,
-    "other": 16,
-    "bug": 10
+    "love": 45,
+    "bug": 11,
+    "mention": 51,
+    "other": 18,
+    "question": 28
   },
-  "percentOther": 10.96
+  "percentOther": 11.76
 }
