@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1992308198305677380",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "@benvargas @FactoryAI @bentossell ohhhh",
+    "url": "https://x.com/tomosman/status/1992308198305677380",
+    "timestamp": "2025-11-22T19:04:24.000Z",
+    "metadata": {
+      "conversation_id": "1992308198305677380",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992308151623012478",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@tomosman @FactoryAI @bentossell yeah, Ben and I have discussed it on slack/discord before - I just hit it 3 times in this session and it crashed me out there for a bit 🤣",
+    "url": "https://x.com/benvargas/status/1992308151623012478",
+    "timestamp": "2025-11-22T19:04:13.000Z",
+    "metadata": {
+      "conversation_id": "1992308151623012478",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992307961218355302",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Yeah, there's something quirky... may not be a standard setup since I do 90% of my dev on a hetzner linux box via ssh... so MacOS + Ghostty + SSH + Droid (+ BYOK Proxy to use Anthropic/ChatGPT Subs).\n\nSo maybe something in there... I trust the Factory team will get it worked out, there's an unhandled exception in there that can be fixed.",
+    "url": "https://x.com/benvargas/status/1992307961218355302",
+    "timestamp": "2025-11-22T19:03:27.000Z",
+    "metadata": {
+      "conversation_id": "1992307961218355302",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992307714056466748",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "@benvargas @FactoryAI yo @bentossell",
+    "url": "https://x.com/tomosman/status/1992307714056466748",
+    "timestamp": "2025-11-22T19:02:28.000Z",
+    "metadata": {
+      "conversation_id": "1992307714056466748",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992307274992197920",
+    "source": "twitter",
+    "author": "dannyveigatx",
+    "content": "@benvargas @FactoryAI Just started using Droid yesterday and haven't had this issue just yet. On mac btw",
+    "url": "https://x.com/dannyveigatx/status/1992307274992197920",
+    "timestamp": "2025-11-22T19:00:44.000Z",
+    "metadata": {
+      "conversation_id": "1992307274992197920",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992305630833733728",
     "source": "twitter",
     "author": "benvargas",
