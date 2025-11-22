@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.9,
+      "reason": "User expresses positive sentiment praising the Codex CLI's performance and generous usage limits",
+      "classifiedAt": "2025-11-22T13:54:25.444Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "User expresses positive sentiment calling Droid CLI their favorite, though notes limitation with token consumption",
+      "classifiedAt": "2025-11-22T13:54:25.444Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.8,
+      "reason": "User mentions Factory AI and droid in comparison discussion, no explicit action needed",
+      "classifiedAt": "2025-11-22T13:54:25.444Z"
     }
   },
   {
