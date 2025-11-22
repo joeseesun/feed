@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.95,
+      "reason": "User explicitly asks 'how can i order one?' which is a direct question about obtaining a product.",
+      "classifiedAt": "2025-11-22T11:54:27.925Z"
     }
   },
   {
