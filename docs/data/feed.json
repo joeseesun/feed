@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "Factory is referenced in a discussion about AI development approaches, no action needed",
+      "classifiedAt": "2025-11-22T18:51:43.934Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.8,
+      "reason": "Positive endorsement stating Factory is worth it and expands productivity",
+      "classifiedAt": "2025-11-22T18:51:43.934Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "Expresses enthusiasm and desire to get Factory as a Christmas present",
+      "classifiedAt": "2025-11-22T18:51:43.934Z"
     }
   },
   {
