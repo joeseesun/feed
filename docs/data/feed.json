@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992598650309206082",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@bentossell @MirAI_Newz @FactoryAI @cursor_ai Yea no pressure. What about something like cursor's dashboard with separate models and gift worktrees?",
+    "url": "https://x.com/leoisadev/status/1992598650309206082",
+    "timestamp": "2025-11-23T14:18:33.000Z",
+    "metadata": {
+      "conversation_id": "1992598650309206082",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992598449767018802",
+    "source": "twitter",
+    "author": "AniC_dev",
+    "content": "@ChaosCruxFL @ayman_alderson @FactoryAI @opencode https://t.co/ji6x8wzUVA is basically droids but powered  by your cc subscription",
+    "url": "https://x.com/AniC_dev/status/1992598449767018802",
+    "timestamp": "2025-11-23T14:17:45.000Z",
+    "metadata": {
+      "conversation_id": "1992598449767018802",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992598384201335069",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "I find myself using it more than the others but each have their owns pros/cons. In general if you like only the models from a specific provider use their CLI. If you want multiple providers but want someone else to choose the best for the Task then use Amp. If you want to select your own models then use Droid or OpenCode",
+    "url": "https://x.com/_BrianKimball/status/1992598384201335069",
+    "timestamp": "2025-11-23T14:17:30.000Z",
+    "metadata": {
+      "conversation_id": "1992598384201335069",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992597520179200334",
     "source": "twitter",
     "author": "MihailVarich",
