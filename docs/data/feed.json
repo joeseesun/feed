@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1992475130531070161",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@benvargas @FactoryAI I use in Cursor and no issues",
+    "url": "https://x.com/AIFlow_ML/status/1992475130531070161",
+    "timestamp": "2025-11-23T06:07:44.000Z",
+    "metadata": {
+      "conversation_id": "1992475130531070161",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992470916086018471",
     "source": "twitter",
     "author": "benvargas",
@@ -5664,6 +5679,19 @@
       "confidence": 0.9,
       "reason": "FactoryAI is referenced in a quote but no specific action or sentiment is directed at Factory",
       "classifiedAt": "2025-11-21T21:47:31.286Z"
+    }
+  },
+  {
+    "id": "reddit_1p0bc2n",
+    "source": "reddit",
+    "author": "EggNo4904",
+    "content": "droid team fixed the error = great work!(getting a 20 dollar account, i am gonna try my best to get my team to move to this 2000 usd account instead of individual subs)\n\nImages:\n\thttps://preview.redd.it/uu8xf048jp1g1.png?auto=webp&amp;s=9574291f2513a281eca97c75667653da65da086d\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p0bc2n/droid_team_fixed_the_error_great_workgetting_a_20/",
+    "timestamp": "2025-11-18T13:02:15.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
     }
   },
   {
