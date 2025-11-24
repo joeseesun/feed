@@ -1849,7 +1849,7 @@
           </div>
           
           <div class="card-content-wrapper">
-            <div class="card-content">${formatContent(item.content)}</div>
+            <div class="card-content">${formatContent(collapseMentions(item.content, item.source))}</div>
           </div>
           
           <div class="card-meta">
@@ -2003,6 +2003,30 @@
     }
 
     // --- Helpers ---
+    function collapseMentions(text, source) {
+      // Only apply to Twitter posts
+      if (source !== 'twitter' || !text) return text;
+      
+      // Match @mentions at the very start of the text
+      // Pattern: starts with one or more @username mentions
+      const mentionPattern = /^((?:@\w+\s+)+)/;
+      const match = text.match(mentionPattern);
+      
+      if (match) {
+        const mentionsBlock = match[1]; // "@user1 @user2 @user3 "
+        const mentions = mentionsBlock.match(/@\w+/g); // ["@user1", "@user2", "@user3"]
+        
+        // If more than 2 mentions at the start, collapse them
+        if (mentions && mentions.length > 2) {
+          const firstMention = mentions[0];
+          const contentAfterMentions = text.substring(mentionsBlock.length).trim();
+          return `${firstMention} ... ${contentAfterMentions}`;
+        }
+      }
+      
+      return text;
+    }
+    
     function formatContent(text) {
        if (!text) return '';
        return text.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" onClick="event.stopPropagation()">$1</a>');
