@@ -16,14 +16,17 @@ A private social media feed aggregator for tracking mentions and content across 
 
 - 🔐 **Token-gated access** - Private viewing with SHA-256 token authentication
 - 🤖 **Automated scraping** - GitHub Actions runs every 10 minutes
-- 📱 **Mobile-friendly** - Responsive design, works on phone/tablet
-- ⚙️ **Configurable** - Edit feed sources via settings UI
-- ⌨️ **Keyboard shortcuts** - Vim-style navigation (J/K), quick actions
+- 📱 **Mobile-optimized** - Responsive design with touch-friendly controls
+- ⌨️ **Keyboard shortcuts** - Vim-style navigation (J/K), Cmd+K command palette
 - 🎨 **Dark mode** - Toggle light/dark themes
-- 📊 **Multi-view** - List or column layout
-- 🏷️ **Filtering** - By source, time range, and hidden users
-- 📦 **Archiving** - Archive/restore posts, bulk actions
-- 🔍 **Command palette** - Quick access to all actions (Cmd/Ctrl+K)
+- 📊 **View modes** - Compact or Detailed display with automatic content expansion
+- 🏷️ **Smart filtering** - By source (Twitter/Reddit/GitHub), category, and time range
+- 👤 **Hidden authors** - Filter out posts from specific users (case-insensitive)
+- 📦 **Bulk actions** - Archive, multi-select, shift-click range selection
+- 🎯 **Category tags** - Auto-classified posts (mentions, bugs, love, questions)
+- 📈 **Stats dashboard** - Visual analytics with color-coded charts
+- 🧹 **Clean UI** - Collapsed @mentions, collapsible command help
+- ⚙️ **Configurable** - Edit feed sources and settings via UI
 
 ## Architecture
 
@@ -78,10 +81,10 @@ A private social media feed aggregator for tracking mentions and content across 
    ```
 
 2. **Add GitHub Secrets** (Settings > Secrets and variables > Actions):
-   - `GITHUB_PAT`: Your GitHub Personal Access Token (Note: GitHub doesn't allow secrets starting with `GITHUB_`)
-   - `APIFY_TOKEN`: Your Apify API token
-   - `GH_REPO`: (Optional) GitHub repository to track in format `owner/repo` (defaults to `Factory-AI/factory`)
-   - `TEAM_TWITTER_USERNAMES`: Usernames to filter (e.g., `YourCompanyBot`)
+   - `GH_PAT`: Your GitHub Personal Access Token (Note: GitHub doesn't allow secrets starting with `GITHUB_`)
+   - `GH_REPO`: GitHub repository to track in format `owner/repo` (e.g., `Factory-AI/factory`)
+   - `APIFY_TOKEN`: Your Apify API token for Twitter scraping
+   - `TEAM_TWITTER_USERNAMES`: (Optional) Usernames to filter out (e.g., `YourCompanyBot`)
 
 3. **Enable GitHub Pages**:
    - Go to Settings > Pages
@@ -107,10 +110,18 @@ A private social media feed aggregator for tracking mentions and content across 
 
 ## Configuration
 
-### Feed Sources
+### Feed Configuration
 
-Edit via Settings UI (⚙️ icon) or modify `docs/config.json`:
+Edit via Settings UI (⚙️ icon) to configure:
 
+**Hidden Authors** - Filter out posts from specific users:
+```json
+{
+  "hiddenAuthors": ["bentossell", "companybot", "spamaccount"]
+}
+```
+
+**Feed Sources** - Modify `docs/config.json`:
 ```json
 {
   "twitter": {
@@ -156,25 +167,27 @@ Update `ACCESS_TOKEN_HASH` in `public/index.html` with the new hash.
 
 | Key | Action |
 |-----|--------|
-| `J` | Next item |
-| `K` | Previous item |
-| `Shift+J` | Next selected item |
-| `Shift+K` | Previous selected item |
-| `Enter` | Select/deselect current item |
-| `A` | Archive selected |
-| `Shift+A` | Archive all visible |
-| `Cmd/Ctrl+A` | Select all visible |
-| `S` | Send selected to Slack |
-| `H` | Toggle archived posts |
+| `J` / `↓` | Navigate down |
+| `K` / `↑` | Navigate up |
+| `X` | Select/deselect current item |
+| `Shift+X` | Toggle multi-select mode |
+| `E` | Archive selected items |
+| `Enter` | Open focused item |
+| `Cmd/Ctrl+Enter` | Open in new tab |
+| `R` | Refresh feed |
 | `Esc` | Clear selection |
-| `Cmd/Ctrl+K` | Open command palette |
+| `Cmd/Ctrl+K` | Toggle commands help |
+| `←` | Collapse sidebar |
+| `→` | Expand sidebar |
 
-### Mouse Actions
+### Mouse & Touch Actions
 
-- **Click card**: Select/deselect
+- **Click card**: Select/deselect (or open in multi-select mode)
+- **Shift+Click**: Range select (like Excel)
 - **Cmd/Ctrl+Click**: Open URL in new tab
-- **Click source filter**: Toggle source visibility
-- **Click time filter**: Filter by time range
+- **Click source pill**: Filter by Twitter/Reddit/GitHub
+- **Click category pill**: Filter by mentions/bugs/love/questions
+- **Click sidebar overlay (mobile)**: Close sidebar
 
 ## API Rate Limits
 
