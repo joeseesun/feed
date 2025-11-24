@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1992905434098000080",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@klyndrud1 @thedanifrim @FactoryAI hmm looks like bug report isnt working because of the issues you have above (ie network). if you do quit and resume, any difference? what about new sessions?",
+    "url": "https://x.com/bentossell/status/1992905434098000080",
+    "timestamp": "2025-11-24T10:37:36.000Z",
+    "metadata": {
+      "conversation_id": "1992905434098000080",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992900067435397317",
     "source": "twitter",
     "author": "Caseymanos",
