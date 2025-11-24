@@ -1550,7 +1550,20 @@
   <div id="settingsModal" class="overlay">
     <div class="modal" style="max-width: 600px;">
       <h2>Configuration</h2>
-      <p style="font-size: 13px; margin-bottom: 16px;">Add usernames to <code>hiddenAuthors</code> array to hide posts from specific authors (e.g., your own posts).</p>
+      <p style="font-size: 13px; margin-bottom: 12px; line-height: 1.5;">
+        Configure feed settings using JSON format. Add usernames to <code>hiddenAuthors</code> to hide posts from specific authors.
+      </p>
+      <details style="margin-bottom: 16px; font-size: 12px; color: var(--text-secondary);">
+        <summary style="cursor: pointer; font-weight: 600; margin-bottom: 8px;">Example configuration</summary>
+        <pre style="background: var(--bg); padding: 12px; border-radius: 6px; overflow-x: auto; margin-top: 8px; border: 1px solid var(--border);"><code>{
+  "hiddenAuthors": ["bentossell", "username2", "username3"]
+}</code></pre>
+        <p style="margin-top: 8px; line-height: 1.4;">
+          • Use Twitter usernames <strong>without</strong> the @ symbol<br>
+          • Add multiple usernames separated by commas<br>
+          • Posts from these authors will be completely hidden from your feed
+        </p>
+      </details>
       <textarea id="configInput" style="height: 300px; font-family: monospace; font-size: 12px;"></textarea>
       <div style="display: flex; gap: 10px;">
         <button id="saveConfigBtn">Save Changes</button>
