@@ -683,7 +683,8 @@
     .card-checkbox {
       position: absolute;
       left: 16px;
-      top: 16px;
+      top: 50%;
+      transform: translateY(-50%);
       width: 20px;
       height: 20px;
       border: 2px solid var(--border);
@@ -800,14 +801,14 @@
     .feed-container.detailed .card {
       padding: 20px 24px;
       padding-left: 54px;
-      min-height: 100px;
+      /* Remove min-height - only expand if content needs it */
     }
     
     .feed-container.detailed .card-content {
       -webkit-line-clamp: 5;
       font-size: 15px;
       line-height: 1.6;
-      margin-bottom: 12px;
+      margin-bottom: 8px;
     }
     
     .feed-container.detailed .card-content-wrapper {
@@ -1227,7 +1228,11 @@
         padding-left: 36px;
         flex-wrap: wrap;
       }
-      .card-checkbox { top: 12px; left: 12px; }
+      .card-checkbox { 
+        top: 50%;
+        left: 12px;
+        transform: translateY(-50%);
+      }
       .card-source {
         display: none;
       }
