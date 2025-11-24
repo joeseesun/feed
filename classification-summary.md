@@ -1,10 +1,15 @@
-# Feed Classification Summary
+# Classification Summary
 
-Last Updated: 2025-11-24 09:12 UTC
+**Date:** 2025-11-24 09:33 UTC
 
-## Latest Classification Run
+**Total items classified:** 7
 
-**Total items classified:** 1
+## Category Breakdown
 
-### Category Breakdown:
-- **love**: 1 (100.0%)
+| Category | Count | Percentage |
+|----------|-------|------------|
+| mention  | 5     | 71.4%      |
+| love     | 1     | 14.3%      |
+| question | 1     | 14.3%      |
+| bug      | 0     | 0.0%       |
+| other    | 0     | 0.0%       |
