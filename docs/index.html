@@ -1488,6 +1488,10 @@
               <kbd>Esc</kbd>
               <span>Clear selection</span>
             </div>
+            <div class="sidebar-command">
+              <kbd>⌘ K</kbd>
+              <span>Toggle commands</span>
+            </div>
           </div>
         </div>
       </nav>
@@ -2272,7 +2276,6 @@
                     localStorage.setItem('sidebarCollapsed', 'false');
                     break;
                 case 'j': moveFocus(1); break;
-                case 'k': moveFocus(-1); break;
                 case 'e': 
                     if (state.selectedIds.size > 0) {
                         archiveSelected();
@@ -2300,6 +2303,18 @@
                         document.getElementById('multiSelectToggle')?.classList.toggle('active', false);
                     }
                     clearSelection();
+                    break;
+                case 'k':
+                    // Cmd/Ctrl+K toggles commands accordion
+                    if (e.metaKey || e.ctrlKey) {
+                        e.preventDefault();
+                        const commandsSection = document.querySelector('.sidebar-commands-section');
+                        commandsSection.classList.toggle('collapsed');
+                        localStorage.setItem('commandsExpanded', !commandsSection.classList.contains('collapsed'));
+                        lucide.createIcons();
+                    } else {
+                        moveFocus(-1);
+                    }
                     break;
                 case 'enter':
                     if (!state.multiSelectMode) {
