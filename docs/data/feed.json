@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1992973331969040431",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@realkieranlewis @matanSF @FactoryAI oh no. something feels off... you can share the bug id here i'll escalate.\n\nwhich model(s) were you testing?",
+    "url": "https://x.com/bentossell/status/1992973331969040431",
+    "timestamp": "2025-11-24T15:07:24.000Z",
+    "metadata": {
+      "conversation_id": "1992973331969040431",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992972447742832824",
     "source": "twitter",
     "author": "meTheKarthik",
@@ -9472,6 +9487,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1p1ehzk",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "v0.26.7 changelog - custom models in subagents, mcp image support, /sessions linked to directories\n\n**New features**\n\n• Directory-Specific Sessions: Sessions are now stored per directory and automatically switch to the correct working directory when loaded. The /sessions command shows only sessions created in your current directory plus favorited sessions\n\n• MCP Image Support: MCP tools can now return images that are sent to the LLM for analysis\n\n• Custom Models for Subdroids: Subdroids can now use custom models instead of inheriting from parent session\n\n\n\n**Bug fixes**\n\n• Fixed console output",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p1ehzk/v0267_changelog_custom_models_in_subagents_mcp/",
+    "timestamp": "2025-11-19T17:50:09.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_issue_386",
