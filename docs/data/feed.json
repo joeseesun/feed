@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993233095416525008",
+    "source": "twitter",
+    "author": "Mind9Excel",
+    "content": "@paulbettner @FactoryAI yes as you can leverage the best of every model. gpt 5.1 for specs, gemini3 for UI, opus4.5 for frontend/backend.",
+    "url": "https://x.com/Mind9Excel/status/1993233095416525008",
+    "timestamp": "2025-11-25T08:19:37.000Z",
+    "metadata": {
+      "conversation_id": "1993233095416525008",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993232815987867916",
+    "source": "twitter",
+    "author": "Mind9Excel",
+    "content": "@cocolobaEMS @FactoryAI factorys harness of the models makes them hallucinate less. better outputs, and less code written but the jobs done properly. cursor has all the features but not the code quality.",
+    "url": "https://x.com/Mind9Excel/status/1993232815987867916",
+    "timestamp": "2025-11-25T08:18:30.000Z",
+    "metadata": {
+      "conversation_id": "1993232815987867916",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993229654556373266",
     "source": "twitter",
     "author": "launchaddict",
