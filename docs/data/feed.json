@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_423",
+    "source": "github",
+    "author": "ianchov",
+    "content": "[Issue] droid exec not honoring custom models\n\n```\ndroid exec \"do some stuff example\"  --model gpt-5.1-codex-custom --auto medium --output-format stream-json\nInvalid model: gpt-5.1-codex-custom\n\nAvailable built-in models:\n  gpt-5.1-codex, gpt-5.1, claude-sonnet-4-5-20250929, claude-opus-4-5-20251101, claude-opus-4-1-20250805, claude-haiku-4-5-20251001, gemini-3-pro-preview, glm-4.6\n\nAvailable custom models:\n  Sonnet 4.5 [Custom], GPT5-Codex [Custom], gpt-5-custom, gpt-5.1-custom, gpt-5.1-codex-custom, glm-4.6-openrouter\n\nNote: Custom models ",
+    "url": "https://github.com/Factory-AI/factory/issues/423",
+    "timestamp": "2025-11-25T04:49:12Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 423
+    }
+  },
+  {
     "id": "twitter_1993179221276213543",
     "source": "twitter",
     "author": "nkgoutham",
