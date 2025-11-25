@@ -11674,6 +11674,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1p1zh3p",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "UI BUG - Force Scroll to Top\n\nHey Ben,\n\nMy G - I am facing this issue that if Droid is working on a task and if I scroll a bit to check the progress or current task being worked on, it forces scroll again and again to the top of the chat and I am not able to see that which is a really bad UI UX and its irritating\n\n**NOTE: Specially when I am on GPT5 medium and related models**\n\nAlso: if I use my own custom model GLM 4.6 -&gt; it doesnt make To Do List\n\nI mean it says it will make at start, but thats never made",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p1zh3p/ui_bug_force_scroll_to_top/",
+    "timestamp": "2025-11-20T10:09:15.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1p1y70n",
     "source": "reddit",
     "author": "bentossell",
