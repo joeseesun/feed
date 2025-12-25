@@ -130,6 +130,19 @@
     }
   },
   {
+    "id": "reddit_1pijml0",
+    "source": "reddit",
+    "author": "bandawarrior",
+    "content": "Bug =&gt; Hooks on windows\n\nAnyone setup the hooks in the project .factory/ dir?\n\nIt appears that for me no matter what I do, droid doesn’t pick up the local settings and always defaults out to the user root one at ~/.factory\n\nIs there some work around ? Does Linux /osx work the same ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pijml0/bug_hooks_on_windows/",
+    "timestamp": "2025-12-09T21:20:13.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1993361422102020452",
     "source": "twitter",
     "author": "NilkhanVaibhav",
