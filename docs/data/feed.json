@@ -130,6 +130,19 @@
     }
   },
   {
+    "id": "reddit_1qoqf6t",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.55.2 Released - Marketplace auto-updates and more\n\n## New features\n\n* **Marketplace auto-updates** - New management UI with auto-update setting and silent auto-installation of missing marketplaces on startup\n* **`--allow-background-processes` flag** - Added flag support for interactive and resumed sessions\n\n## Bug fixes\n\n* **AskUser tool parsing** - Improved parsing logic for questionnaire formatting\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qoqf6t/factory_cli_v0552_released_marketplace/",
+    "timestamp": "2026-01-27T20:59:59.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1qnmzm4",
     "source": "reddit",
     "author": "Rouler4wd",
