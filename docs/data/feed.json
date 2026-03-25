@@ -156,6 +156,32 @@
     }
   },
   {
+    "id": "reddit_1rsfjhi",
+    "source": "reddit",
+    "author": "pinklove9",
+    "content": "is down?\n\nAPI call to /api/app/auth/me failed. Failed to fetch (api.factory.ai)  \nupdate: now works fine. was down when i reported",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1rsfjhi/is_down/",
+    "timestamp": "2026-03-13T06:13:34.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1rrb78h",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.72.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1rrb78h/factory_cli_v0720_released/",
+    "timestamp": "2026-03-12T00:04:45.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1rb14ld",
     "source": "reddit",
     "author": "infys",
