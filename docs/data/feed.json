@@ -143,6 +143,19 @@
     }
   },
   {
+    "id": "reddit_1smtat1",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.102.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1smtat1/factory_cli_v01020_released/",
+    "timestamp": "2026-04-16T04:30:34.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1s33406",
     "source": "reddit",
     "author": "BehiSec",
