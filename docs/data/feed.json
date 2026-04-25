@@ -1,5 +1,148 @@
 [
   {
+    "id": "reddit_1suumum",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.109.1 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1suumum/factory_cli_v01091_released/",
+    "timestamp": "2026-04-24T22:41:43.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1styie2",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.108.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1styie2/factory_cli_v01080_released/",
+    "timestamp": "2026-04-23T23:08:56.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1st1tu6",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.108.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1st1tu6/factory_cli_v01080_released/",
+    "timestamp": "2026-04-22T23:25:42.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ss6li6",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.106.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ss6li6/factory_cli_v01060_released/",
+    "timestamp": "2026-04-22T01:02:25.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1sr8gn5",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.105.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1sr8gn5/factory_cli_v01050_released/",
+    "timestamp": "2026-04-21T00:44:21.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1sr6uw6",
+    "source": "reddit",
+    "author": "jrhabana",
+    "content": "How to fix \"factoryd appears to be unavailable..\"\n\nI'm having a lot of errors with message \"failed: factoryd appears to be unavailable while a worker was running.\"\n\nblocking the execution and askingo to restart Droid and resume... but rarely works.\n\nIt happens with [Z.ai](http://Z.ai), Ollama Cloud  (glm, minimax and kimi) and Fireworks (fire pass)\n\nweird",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1sr6uw6/how_to_fix_factoryd_appears_to_be_unavailable/",
+    "timestamp": "2026-04-20T23:35:59.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1spc6ru",
+    "source": "reddit",
+    "author": "LetterheadNew5447",
+    "content": "FactoryAI Max vs Claude Max x20\n\nHi guys,\n\nhow does the FactoryAI Max Subscription compare regarding token usage vs Claude Max 20 subscription.\n\nLet's say planning Opus4.7 Implementation Sonnet.\n\nThanks in Advance.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1spc6ru/factoryai_max_vs_claude_max_x20/",
+    "timestamp": "2026-04-18T23:02:00.000Z",
+    "metadata": {
+      "score": 9,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1sola7g",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.104.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1sola7g/factory_cli_v01040_released/",
+    "timestamp": "2026-04-18T02:36:29.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1snncg5",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.103.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1snncg5/factory_cli_v01030_released/",
+    "timestamp": "2026-04-17T01:55:08.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1sn2qi7",
+    "source": "reddit",
+    "author": "Kelvin___",
+    "content": "Using Cloudflare Workers AI?\n\nHi all,\n\nWondering if anyone has any idea how to get Cloudflare Workers AI to work with Droid? I tried all the different ways of adding the baseURL, api and model into the settings, but it kept getting errors. Wondering what's the proper way write it in the settings so that it'll work?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1sn2qi7/using_cloudflare_workers_ai/",
+    "timestamp": "2026-04-16T12:56:02.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1smwoz7",
+    "source": "reddit",
+    "author": "cambryceyt",
+    "content": "Configured VibeProxy to use OpenAI subscription and having problems with context\n\nHey all!\n\nWas wondering if anyone has had a similar experience/has a solution for this. I recently swapped over to Droid from Codex and have been loving it. However, when I ran out of factory credits I followed many guides on X to set up Droid to use my OpenAI subscription through a proxy, and the models are working perfectly. However, the seemingly \"infinite context window\" I was experiencing using GPT models through Droid has been replaced with an experience that requires me to compact every c",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1smwoz7/configured_vibeproxy_to_use_openai_subscription/",
+    "timestamp": "2026-04-16T07:38:33.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1s33406",
     "source": "reddit",
     "author": "BehiSec",
