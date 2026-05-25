@@ -1,5 +1,135 @@
 [
   {
+    "id": "reddit_1th6nj0",
+    "source": "reddit",
+    "author": "Remarkable-Fee3742",
+    "content": "I got charged for something I don't subscribe to, who should I contact?\n\nYesterday, I found out that I'd got charged by 20$ for Factory AI Subscription. I did remember that I'd already terminated my trial use after a short while. Who should I contact and what should I do?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1th6nj0/i_got_charged_for_something_i_dont_subscribe_to/",
+    "timestamp": "2026-05-19T00:29:00.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1tce84v",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.124.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tce84v/factory_cli_v01240_released/",
+    "timestamp": "2026-05-13T21:54:17.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1tbrhil",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.124.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tbrhil/factory_cli_v01240_released/",
+    "timestamp": "2026-05-13T06:34:51.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1tbbfjc",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.123.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tbbfjc/factory_cli_v01230_released/",
+    "timestamp": "2026-05-12T19:08:35.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1tbasiv",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.123.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tbasiv/factory_cli_v01230_released/",
+    "timestamp": "2026-05-12T18:46:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1tb8ztx",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.122.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tb8ztx/factory_cli_v01220_released/",
+    "timestamp": "2026-05-12T17:45:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1t6py96",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.121.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1t6py96/factory_cli_v01210_released/",
+    "timestamp": "2026-05-07T22:42:14.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1t6prrg",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.121.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1t6prrg/factory_cli_v01210_released/",
+    "timestamp": "2026-05-07T22:34:40.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1t5th0p",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.120.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1t5th0p/factory_cli_v01200_released/",
+    "timestamp": "2026-05-06T23:24:46.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1t5s0i7",
+    "source": "reddit",
+    "author": "Old-Money-3490",
+    "content": "Questions and a bug I found with Droid in Zed\n\nHi, I wanted to share a few questions and an issue I found while using Droid Core.\n\nFirst, I wanted to ask if the Droid Core models are hosted on Factory’s servers. I’m asking because I noticed a significant speed difference compared to other tools I’ve tried.\n\nBefore this, I was using OpenCode Go to run GLM 5.1, but it was giving me a low tokens-per-second rate, so each response took quite a while to finish. With Droid, it feels like the model is running at a much higher tokens-per-second rate,",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1t5s0i7/questions_and_a_bug_i_found_with_droid_in_zed/",
+    "timestamp": "2026-05-06T22:25:19.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1suumum",
     "source": "reddit",
     "author": "bentossell",
