@@ -1,5 +1,31 @@
 [
   {
+    "id": "reddit_1tmqnj1",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.129.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tmqnj1/factory_cli_v01290_released/",
+    "timestamp": "2026-05-24T22:42:46.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1tkyp6r",
+    "source": "reddit",
+    "author": "thirteen_morning",
+    "content": "I open-sourced a CLI I've been using to stop wasting LLM tokens on noisy CI logs\n\nImages:\n\thttps://preview.redd.it/lj3d948qaa2h1.png?auto=webp&amp;s=4a94e9b8202b371f85a9ad1b2db3935d7ad2784b\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tkyp6r/i_opensourced_a_cli_ive_been_using_to_stop/",
+    "timestamp": "2026-05-22T22:53:00.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1th6nj0",
     "source": "reddit",
     "author": "Remarkable-Fee3742",
@@ -9,6 +35,84 @@
     "metadata": {
       "score": 1,
       "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1tf25wu",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.128.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tf25wu/factory_cli_v01280_released/",
+    "timestamp": "2026-05-16T18:50:36.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1terxh5",
+    "source": "reddit",
+    "author": "Pitiful_Transition80",
+    "content": "Accounts got banned using Lenny's passes\n\nMe and my colleagues got the error: your organization has been deactivated while logging in the platform. Can someone from the factory team help to solve this? All banned accounts used by my friends and I are using the Lenny's pass.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1terxh5/accounts_got_banned_using_lennys_passes/",
+    "timestamp": "2026-05-16T12:10:20.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 8,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1te7814",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.126.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1te7814/factory_cli_v01260_released/",
+    "timestamp": "2026-05-15T19:53:38.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1tdq8zg",
+    "source": "reddit",
+    "author": "Fit_Stage6901",
+    "content": "Usage limits\n\nI’m trying to figure out whether the Max plan is worth it, but Factory’s quota system is insanely unclear. The pricing page says things like “5× Pro” or “10× Pro,” but they never explain what the actual Pro quota is in the first place. What does “5×” or “10×” even mean if the base number is hidden?\n\nOn top of that, everything runs on rolling limits — 5‑hour, weekly, and monthly windows — so you can hit a limit even if you haven’t used “that much” overall. Since the buckets constantly refill and ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tdq8zg/usage_limits/",
+    "timestamp": "2026-05-15T08:37:34.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1tdhpjw",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.126.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tdhpjw/factory_cli_v01260_released/",
+    "timestamp": "2026-05-15T01:29:59.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1td6vra",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.125.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1td6vra/factory_cli_v01250_released/",
+    "timestamp": "2026-05-14T18:29:11.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
       "subreddit": "FactoryAi"
     }
   },
