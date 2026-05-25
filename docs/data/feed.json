@@ -234,6 +234,32 @@
     }
   },
   {
+    "id": "reddit_1t4otd3",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.118.1 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1t4otd3/factory_cli_v01181_released/",
+    "timestamp": "2026-05-05T18:56:02.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1t3w0ic",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.118.0 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/release-notes)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1t3w0ic/factory_cli_v01180_released/",
+    "timestamp": "2026-05-04T21:54:09.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1suumum",
     "source": "reddit",
     "author": "bentossell",
