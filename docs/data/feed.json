@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1tnk2u4",
+    "source": "reddit",
+    "author": "cbarrymore",
+    "content": "What's Factory AI's policy on Droid CLI chat privacy and training data?\n\nHello!\n\nFirst time posting here. I've been digging around their website and can't find anything on this topic, and I emailed Factory AI a while back but haven't heard back, so I figured I'd ask the community:\n\nDoes anyone know what Factory AI's policy is around Droid CLI chats being used for training? Basically, how private are those conversations? Is the content stored, reviewed, or fed back into model training? And is there any way to opt out?\n\nWould love to hear from anyone who has looked int",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1tnk2u4/whats_factory_ais_policy_on_droid_cli_chat/",
+    "timestamp": "2026-05-25T19:58:04.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1tmqnj1",
     "source": "reddit",
     "author": "bentossell",
