@@ -1,5 +1,109 @@
 [
   {
+    "id": "reddit_1uduq6l",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.157.0 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1uduq6l/factory_cli_v01570_released/",
+    "timestamp": "2026-06-23T21:52:57.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1uczvwm",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.156.2 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1uczvwm/factory_cli_v01562_released/",
+    "timestamp": "2026-06-22T22:58:16.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ub0tvz",
+    "source": "reddit",
+    "author": "sunoval2017",
+    "content": "Droid CLI is unbearable slow\n\nAm I the only one? tying in droid is like tying in last century&#39;s windows machine. I used codex, claude code, AMP, opencode, none of them is like this. This is worse than CC&#39;s infamous flashing TUI in early days. If anyone here is from Factory AI, please fix it And here is one agents self-diagnosis info: ``` Tool │ Idle CPU │ State -----------│-------------------------│--------------------------- **droid** │ **101%** (a full core+) │ `R` running, never sleeps **claude** │ **~6%** │ `S` s",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ub0tvz/droid_cli_is_unbearable_slow/",
+    "timestamp": "2026-06-20T16:27:34.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1u7s6xc",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.150.0 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1u7s6xc/factory_cli_v01500_released/",
+    "timestamp": "2026-06-16T22:24:13.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1u73od2",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.148.1 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1u73od2/factory_cli_v01481_released/",
+    "timestamp": "2026-06-16T04:42:05.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1u4knhc",
+    "source": "reddit",
+    "author": "Individual_Local4732",
+    "content": "niccore_agent.py\n\n&#32; submitted by &#32;  /u/Individual_Local4732   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1u4knhc/niccore_agentpy/",
+    "timestamp": "2026-06-13T07:38:54.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1u2d2ba",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.144.1 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1u2d2ba/factory_cli_v01441_released/",
+    "timestamp": "2026-06-10T19:57:21.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1u1rsu2",
+    "source": "reddit",
+    "author": "caikenboeing727",
+    "content": "Fable 5?\n\nAny thoughts on rather it’s coming to Factory.ai?  &#32; submitted by &#32;  /u/caikenboeing727   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1u1rsu2/fable_5/",
+    "timestamp": "2026-06-10T04:22:26.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1tnk2u4",
     "source": "reddit",
     "author": "cbarrymore",
