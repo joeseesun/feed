@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1vz89d3",
+    "source": "reddit",
+    "author": "Key_Tomatillo_199",
+    "content": "[BUG / macOS] '/model' command completely broken in Droid CLI — Arrow keys (↑ ↓ ← →) frozen in model picker\n\nRunning into a showstopper bug with the Droid CLI on macOS: Steps to Reproduce:  Run the Droid CLI on macOS (Terminal / iTerm2 / zsh). Type /model to change/select the model. The model list appears, but arrow key navigation (↑, ↓, ←, →) is completely unresponsive.  The Problem: The /model selection prompt does not register directional keystrokes or selection inputs at all. It&#39;s completely stuck on the default option, and there is no way to navigate or switch to another model. Environment: ma",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1vz89d3/bug_macos_model_command_completely_broken_in/",
+    "timestamp": "2026-08-26T20:08:34.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1vz1723",
     "source": "reddit",
     "author": "Odd-Marzipan6757",
