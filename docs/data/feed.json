@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1w09og6",
+    "source": "reddit",
+    "author": "sunoval2017",
+    "content": "Sessions are account/auth gated now?\n\nI have two paid droid accounts and used to be able to switch accounts and continue to work on the same session with shared contexts. Today, I noticed this is not possible anymore with each account has its own sessions. Dude, whats the point of doing this? Ever since adding the 5h limit, each update is worse than previous one.  Both claude code and codex allow this.   &#32; submitted by &#32;  /u/sunoval2017   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1w09og6/sessions_are_accountauth_gated_now/",
+    "timestamp": "2026-08-27T23:10:50.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1vz89d3",
     "source": "reddit",
     "author": "Key_Tomatillo_199",
