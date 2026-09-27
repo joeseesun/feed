@@ -1677,6 +1677,97 @@
     }
   },
   {
+    "id": "reddit_1ur3c28",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.167.0 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ur3c28/factory_cli_v01670_released/",
+    "timestamp": "2026-07-08T19:43:04.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1upb1na",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.164.0 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1upb1na/factory_cli_v01640_released/",
+    "timestamp": "2026-07-06T21:36:55.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1und9xs",
+    "source": "reddit",
+    "author": "unknown",
+    "content": "I got tired of agents wasting context on memory management, so I made Curion\n\nMost memory tools give the main agent a database and say: “Here, manage your own memories.” That sounds simple, but it creates a new problem. As the project grows, the agent may have to deal with dozens, hundreds, or eventually thousands of memories: which memories are still true? which ones are stale? which ones conflict? which ones should be updated? which ones matter for the current task? which ones should be ignored? That is not a small job. Sometimes memory management becomes a task by itse",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1und9xs/i_got_tired_of_agents_wasting_context_on_memory/",
+    "timestamp": "2026-07-04T16:23:57.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ukunot",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.162.0 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ukunot/factory_cli_v01620_released/",
+    "timestamp": "2026-07-01T18:59:41.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ukj76a",
+    "source": "reddit",
+    "author": "Electronic-File-4652",
+    "content": "Operation failed - check parameters\n\nDroid blasted through the 5-hour usage because it keeps fucking up creating files. I&#39;ve got this 50 times or when creating a file. It just keeps repeating.   ↳ Operation failed - check parameters and try again   &#32; submitted by &#32;  /u/Electronic-File-4652   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ukj76a/operation_failed_check_parameters/",
+    "timestamp": "2026-07-01T11:38:42.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1uk4nby",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.161.0 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1uk4nby/factory_cli_v01610_released/",
+    "timestamp": "2026-06-30T23:06:32.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1uk39o6",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.159.0 Released\n\nView full changelog  &#32; submitted by &#32;  /u/bentossell   [link] &#32; [comments]",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1uk39o6/factory_cli_v01590_released/",
+    "timestamp": "2026-06-30T22:09:59.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1udy4yy",
     "source": "reddit",
     "author": "bentossell",
